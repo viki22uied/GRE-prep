@@ -173,6 +173,10 @@ table.data th { background: var(--paper); font-weight: 600; }
 .explain ol { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 6px; font-size: 15.5px; }
 .explain .why { background: var(--pencil-soft); border-radius: 8px; padding: 10px 14px; font-size: 14.5px; }
 .explain .full { font: 16px/1.6 var(--serif); }
+.ex-part { display: flex; flex-direction: column; gap: 6px; max-width: 70ch; }
+.ex-part p { margin: 0; font-size: 15.5px; line-height: 1.6; }
+.ex-part .work { font-size: 16px; }
+.explain u.sig { text-decoration: none; background: var(--navy-soft); border-bottom: 2px solid var(--navy); padding-inline: 2px; border-radius: 2px; }
 .answer-line { font-size: 15px; }
 
 /* setup */
@@ -219,6 +223,8 @@ textarea { width: 100%; min-height: 90px; font: 12px/1.4 var(--mono); border: 1p
 .sectimer { font: 600 20px/1 var(--mono); font-variant-numeric: tabular-nums; }
 .review-item { border-top: 1px solid var(--rule); padding-block: 14px; }
 details > summary { cursor: pointer; }
+.synccode { font: 600 18px/1 var(--mono); letter-spacing: .06em; background: var(--pencil-soft); padding: 8px 12px; border-radius: 8px; }
+.codein { flex: 1 1 200px; min-width: 0; border: 1px solid var(--rule-2); border-radius: 8px; padding: 9px 12px; font: 15px/1 var(--mono); background: var(--sheet); }
 .sync { font: 11px/1 var(--mono); color: var(--ink-3); }
 .empty { padding: 28px; text-align: center; color: var(--ink-2); }
 .toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(16px + env(safe-area-inset-bottom, 0px)); background: var(--ink); color: var(--paper); padding: 8px 14px; border-radius: 8px; font-size: 14px; z-index: 20; }

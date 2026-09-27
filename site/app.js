@@ -29,59 +29,67 @@
     prefs: read(K.pref, {}),
     save() { write(K.att, this.attempts); write(K.voc, this.vocab); },
     savePrefs() { write(K.pref, this.prefs); },
-    add(a) { this.attempts.push(a); this.save(); Stats.dirty = true; Sync.mark(dayKey(a.at)); },
+    add(a) { this.attempts.push(a); this.save(); Stats.dirty = true; Sync.mark(); },
   };
   const attKey = (a) => a.q + '@' + a.at;
 
-  // ---------- sync (claude.ai artifact runtime only; silently local elsewhere) ----------
+  // ---------- cross-device sync (sync code -> /api/sync on Vercel) ----------
   const Sync = {
-    db: null, uid: null, state: 'local', pending: new Set(), timer: null, busy: false,
-    async init() {
-      if (!window.claude || typeof window.claude.use !== 'function') return;
-      try {
-        const [db, user] = await Promise.all([window.claude.use('db'), window.claude.use('user')]);
-        if (!db || !user) return;
-        const uid = await user.id();
-        if (!uid) return;
-        this.db = db; this.uid = uid; this.state = 'syncing'; badge();
-        const snap = await db.collection('data/users/' + uid).get();
-        const have = new Set(Store.attempts.map(attKey)); const remote = new Set();
-        let added = 0;
-        for (const d of snap.docs) {
-          const data = d.data(); if (!data) continue;
-          if (d.id === 'vocab') {
-            for (const [w, r] of Object.entries(data.v || {})) { const l = Store.vocab[w]; if (!l || (r.last || 0) > (l.last || 0)) Store.vocab[w] = r; }
-          } else if (d.id.startsWith('d-')) {
-            for (const a of data.a || []) { remote.add(attKey(a)); if (!have.has(attKey(a))) { Store.attempts.push(a); have.add(attKey(a)); added++; } }
-          }
-        }
-        Store.attempts.sort((x, y) => x.at - y.at); Store.save(); Stats.dirty = true;
-        for (const a of Store.attempts) if (!remote.has(attKey(a))) this.pending.add(dayKey(a.at));
-        this.pending.add('vocab');
-        this.state = 'synced'; badge(); this.flush();
-        if (added && (View.name === 'progress')) View.show('progress');
-      } catch (e) { this.state = 'local'; badge(); }
+    state: 'local', timer: null, busy: false, again: false,
+    get code() { return Store.prefs.syncCode || ''; },
+    newCode() {
+      const abc = 'abcdefghjkmnpqrstuvwxyz23456789'; const r = new Uint32Array(12);
+      (window.crypto || window.msCrypto).getRandomValues(r);
+      const c = [...r].map((x) => abc[x % abc.length]).join('');
+      return `${c.slice(0, 4)}-${c.slice(4, 8)}-${c.slice(8, 12)}`;
     },
-    mark(key) { if (!this.db) return; this.pending.add(key); clearTimeout(this.timer); this.timer = setTimeout(() => this.flush(), 2000); },
+    mergeIn(data) {
+      const have = new Set(Store.attempts.map(attKey)); let added = 0;
+      for (const a of data.attempts || []) if (a && a.q && !have.has(attKey(a))) { Store.attempts.push(a); have.add(attKey(a)); added++; }
+      for (const [w, r] of Object.entries(data.vocab || {})) { const l = Store.vocab[w]; if (r && (!l || (r.last || 0) > (l.last || 0))) Store.vocab[w] = r; }
+      if (added) { Store.attempts.sort((x, y) => x.at - y.at); Stats.dirty = true; }
+      Store.save();
+      return added;
+    },
+    async request(method, body) {
+      const r = await fetch('/api/sync?code=' + encodeURIComponent(this.code), method === 'GET' ? { cache: 'no-store' } : { method, headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+      if (!r.ok) throw new Error((await r.json().catch(() => ({}))).error || 'Sync failed');
+      return r.json();
+    },
+    // push everything not yet confirmed, pull everything the server has
     async flush() {
-      if (!this.db || this.busy || !this.pending.size) return;
+      if (!this.code) { this.state = 'local'; return badge(); }
+      if (this.busy) { this.again = true; return; }
       this.busy = true; this.state = 'syncing'; badge();
       try {
-        for (const key of [...this.pending]) {
-          this.pending.delete(key);
-          const id = key === 'vocab' ? 'vocab' : 'd-' + key;
-          const body = key === 'vocab' ? { v: Store.vocab } : { a: Store.attempts.filter((a) => dayKey(a.at) === key) };
-          try { await this.db.doc(`data/users/${this.uid}/${id}`).set(body); } catch (e) { this.pending.add(key); throw e; }
-        }
+        const since = Store.prefs.syncedAt || 0;
+        const body = { attempts: Store.attempts.filter((a) => a.at > since - 60000), vocab: Store.vocab };
+        const stamp = Date.now();
+        const data = await this.request('POST', body);
+        const added = this.mergeIn(data);
+        Store.prefs.syncedAt = stamp; Store.savePrefs();
         this.state = 'synced';
+        if (added && View.name === 'progress') View.show('progress');
       } catch (e) { this.state = 'error'; }
       this.busy = false; badge();
-      if (this.pending.size) { clearTimeout(this.timer); this.timer = setTimeout(() => this.flush(), 8000); }
+      if (this.again) { this.again = false; this.mark(); }
+    },
+    mark() { if (!this.code) return; clearTimeout(this.timer); this.timer = setTimeout(() => this.flush(), 2500); },
+    async connect(code) {
+      Store.prefs.syncCode = code; Store.prefs.syncedAt = 0; Store.savePrefs();
+      await this.flush();
+      return this.state === 'synced';
+    },
+    disconnect() { delete Store.prefs.syncCode; delete Store.prefs.syncedAt; Store.savePrefs(); this.state = 'local'; badge(); },
+    init() {
+      if (!this.code) return;
+      this.flush();
+      document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') this.flush(); });
     },
   };
   function badge() {
     const el = $('#sync'); if (!el) return;
-    el.textContent = { local: 'Saved on this device', syncing: 'Syncing…', synced: 'Synced across devices', error: 'Sync paused — saved on this device' }[Sync.state];
+    el.textContent = { local: 'Saved on this device', syncing: 'Syncing…', synced: 'Synced across devices', error: 'Sync failed — saved on this device, will retry' }[Sync.state];
   }
 
   // ---------- data ----------
@@ -271,10 +279,20 @@
     const box = h(`<div class="explain"></div>`);
     if (ok !== undefined) box.append(h(`<div class="verdict ${ok ? 'ok' : 'no'}">${ok ? '✓ Correct' : '✗ Not quite'}<span class="t">${ms != null ? fmtT(ms) + (ms > targetMs(q) ? ' · aim for under ' + fmtT(targetMs(q)) : '') : ''}</span></div>`));
     box.append(h(`<div class="answer-line"><span class="muted">Correct answer:</span> <b>${answerText(q)}</b></div>`));
-    if (q.full) box.append(h(`<div><h3>Completed sentence</h3><div class="full" style="margin-top:6px">${q.full}</div></div>`));
-    const title = isQ ? 'Fast method' : q.area === 'Reading Comprehension' ? 'Why this is the answer' : 'How to crack it';
-    box.append(h(`<div><h3>${title}</h3><ol style="margin-top:8px">${q.fast.map((s) => `<li>${s}</li>`).join('')}</ol></div>`));
-    if (q.why) box.append(h(`<div class="why"><b>${isQ ? 'Why it’s faster: ' : q.area === 'Reading Comprehension' ? 'Strategy: ' : 'Traps: '}</b>${q.why}</div>`));
+    const ex = q.ex;
+    if (ex) {
+      const isV = q.section === 'verbal', isRC = q.area === 'Reading Comprehension';
+      const sec = (title, html, cls = '') => box.append(h(`<section class="ex-part ${cls}"><h3>${title}</h3>${html}</section>`));
+      sec('The obstacle', `<p>${ex.obstacle}</p>`);
+      sec(isV && !isRC ? 'How to spot it (the general rule)' : 'The general method', `<p>${ex.method}</p>`);
+      sec(isV && !isRC ? 'Working through this one' : 'Step by step', ex.steps.map((p) => `<p>${p}</p>`).join(''));
+      sec(isQ ? 'The arithmetic' : isRC ? 'Final check' : 'The completed sentence', `<p class="${isQ ? 'work' : isRC ? '' : 'full'}">${ex.work}</p>`);
+      box.append(h(`<div class="why"><b>${esc(ex.pattern.startsWith('Pattern:') ? 'Pattern:' : 'Pattern:')}</b> ${ex.pattern.replace(/^Pattern:\s*/, '')}</div>`));
+    } else {
+      const title = isQ ? 'Fast method' : 'Explanation';
+      box.append(h(`<div><h3>${title}</h3><ol style="margin-top:8px">${(q.fast || []).map((s) => `<li>${s}</li>`).join('')}</ol></div>`));
+      if (q.why) box.append(h(`<div class="why">${q.why}</div>`));
+    }
     typeset(box);
     return box;
   }
@@ -576,7 +594,6 @@
       s.n++; if (known) { s.k++; s.b = Math.min(4, (s.b || 0) + 1); } else s.b = 0; s.last = Date.now();
       Store.vocab[w.word] = s;
       Store.add({ q: 'v:' + w.word, s: 'vocab', a: tierName(w.tier), t: tierName(w.tier), f: how, ok: known ? 1 : 0, ms: Math.round(ms), at: Date.now(), m: 'v' });
-      Sync.mark('vocab');
     },
     loop(words, pool, cfg) {
       if (View.cleanup) { View.cleanup(); View.cleanup = null; }
@@ -664,11 +681,29 @@
       const cnt = days.map((d) => Store.attempts.filter((a) => dayKey(a.at) === d).length); const mx = Math.max(1, ...cnt);
       $('#days').innerHTML = `<div class="row between"><h2>Last 14 days</h2><span class="count">${cnt[13]} today</span></div><div class="days" role="img" aria-label="Attempts per day">${cnt.map((c, i) => `<div title="${days[i]}: ${c}" style="height:${(100 * c) / mx}%"></div>`).join('')}</div><div class="days-l">${days.map((d) => `<span>${+d.slice(8)}</span>`).join('')}</div>`;
       // data
-      $('#data').innerHTML = `<h2>Your data</h2><div class="muted small">Progress is saved automatically in this browser${Sync.db ? ' and synced to your account' : ''}. To move it to another device, copy it here and paste it there.</div>
-        <div class="actions"><button type="button" class="btn" id="exp">Copy progress</button><button type="button" class="btn" id="imp">Paste progress</button><span class="spacer"></span><button type="button" class="btn ghost" id="wipe">Reset all progress</button></div><div id="dataio"></div>`;
-      $('#exp').onclick = async () => { const s = JSON.stringify({ attempts: Store.attempts, vocab: Store.vocab }); try { await navigator.clipboard.writeText(s); toast('Progress copied'); } catch (e) { $('#dataio').innerHTML = `<textarea id="exp-t" readonly aria-label="Progress data"></textarea><div class="muted small">Select all and copy.</div>`; $('#exp-t').value = s; $('#exp-t').select(); } };
-      $('#imp').onclick = () => { $('#dataio').innerHTML = `<textarea id="imp-t" aria-label="Paste progress" placeholder="Paste copied progress here"></textarea><div class="actions"><button type="button" class="btn primary" id="imp-go">Merge into my progress</button></div>`; $('#imp-go').onclick = () => { try { const d = JSON.parse($('#imp-t').value); const have = new Set(Store.attempts.map(attKey)); let add = 0; (d.attempts || []).forEach((a) => { if (a && a.q && !have.has(attKey(a))) { Store.attempts.push(a); add++; Sync.mark(dayKey(a.at)); } }); Object.entries(d.vocab || {}).forEach(([w, r]) => { const l = Store.vocab[w]; if (!l || (r.last || 0) > (l.last || 0)) Store.vocab[w] = r; }); Sync.mark('vocab'); Store.attempts.sort((x, y) => x.at - y.at); Store.save(); Stats.dirty = true; toast(`Merged ${add} attempts`); View.show('progress'); } catch (e) { toast('That text is not valid progress data'); } }; };
-      $('#wipe').onclick = () => { $('#dataio').innerHTML = `<div class="panel row between"><span>Delete all attempts and vocabulary progress on this device?</span><span class="row"><button type="button" class="btn" id="w-no">Cancel</button><button type="button" class="btn primary" id="w-yes">Delete</button></span></div>`; $('#w-no').onclick = () => ($('#dataio').innerHTML = ''); $('#w-yes').onclick = () => { const days = new Set(Store.attempts.map((a) => dayKey(a.at))); Store.attempts = []; Store.vocab = {}; Store.save(); Stats.dirty = true; days.forEach((d) => Sync.mark(d)); Sync.mark('vocab'); View.show('progress'); }; };
+      renderData();
+      function renderData() {
+        const code = Sync.code;
+        $('#data').innerHTML = `<h2>Sync across devices</h2>` + (code
+          ? `<div class="muted small">This device is syncing with the code below. Enter the same code on your phone or laptop to share progress. Anyone with the code can see and add to this progress, so keep it private.</div>
+             <div class="row"><code class="synccode" id="code-v">${esc(code)}</code><button type="button" class="btn" id="code-copy">Copy code</button><button type="button" class="btn" id="sync-now">Sync now</button><span class="spacer"></span><button type="button" class="btn ghost" id="code-off">Stop syncing on this device</button></div>`
+          : `<div class="muted small">Progress is saved in this browser. Turn on sync to share it with your other devices: you get a private code, and you enter that code once on each device.</div>
+             <div class="actions"><button type="button" class="btn primary" id="code-new">Turn on sync</button></div>
+             <div class="row"><input id="code-in" class="codein" placeholder="Have a code? e.g. ab3k-9xqz-m7pt" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Sync code from another device"><button type="button" class="btn" id="code-use">Use this code</button></div>`)
+          + `<div id="sync-msg" class="small muted"></div>
+          <details class="small"><summary>Reset progress</summary><div class="actions" style="margin-top:8px"><span>Delete all attempts and vocabulary progress on this device${code ? ' This also turns off sync here; your other devices keep their progress' : ''}.</span><button type="button" class="btn" id="w-yes">Delete</button></div></details>`;
+        const msg = (t) => ($('#sync-msg').textContent = t);
+        if (code) {
+          $('#code-copy').onclick = async () => { try { await navigator.clipboard.writeText(code); toast('Code copied'); } catch (e) { const r = document.createRange(); r.selectNodeContents($('#code-v')); getSelection().removeAllRanges(); getSelection().addRange(r); } };
+          $('#sync-now').onclick = async () => { msg('Syncing…'); await Sync.flush(); msg(Sync.state === 'synced' ? 'Up to date.' : 'Could not reach the sync service. Your progress is safe on this device; try again later.'); };
+          $('#code-off').onclick = () => { Sync.disconnect(); renderData(); };
+        } else {
+          const go = async (c) => { msg('Connecting…'); const ok = await Sync.connect(c); if (ok) { toast('Sync is on'); View.show('progress'); } else { Sync.disconnect(); msg('Could not connect. Check the code and your connection, then try again.'); } };
+          $('#code-new').onclick = () => go(Sync.newCode());
+          $('#code-use').onclick = () => { const c = $('#code-in').value.trim().toLowerCase().replace(/\s+/g, ''); if (!/^[a-z0-9-]{12,64}$/.test(c)) return msg('That doesn’t look like a sync code. It has 12 letters and digits, like ab3k-9xqz-m7pt.'); go(c); };
+        }
+        $('#w-yes').onclick = () => { if (Sync.code) Sync.disconnect(); Store.attempts = []; Store.vocab = {}; Store.prefs.syncedAt = Date.now(); Store.savePrefs(); Store.save(); Stats.dirty = true; View.show('progress'); };
+      }
     },
   };
 

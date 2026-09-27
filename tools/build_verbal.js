@@ -119,23 +119,36 @@ function inflect(phrase, form, pos) {
   parts[0] = out; return parts.join(' ');
 }
 
-// ---------- signal words ----------
-const SIGNALS = [
-  ['contrast', ['although', 'though', 'but', 'yet', 'despite', 'rather than', 'instead', 'unlike', 'while', 'whereas', 'far from', 'however', 'once', 'surprisingly', 'nonetheless']],
-  ['continuation', ['moreover', 'furthermore', 'indeed', 'in fact', 'and', ':', ';']],
-  ['cause', ['because', 'since', 'so', 'therefore', 'thus', 'as a result', 'given', 'faced with', 'fearing']],
-];
+// ---------- signal words: how to spot the logic of the sentence ----------
+const SIGNALS = {
+  contrast: ['although', 'though', 'even though', 'but', 'yet', 'despite', 'in spite of', 'rather than', 'instead', 'unlike', 'while', 'whereas', 'far from', 'however', 'nonetheless', 'once', 'now', 'at first', 'initially', 'surprisingly', 'expected', 'hoped', 'claimed', 'assumed', 'seemed', 'appears', 'normally', 'usually', 'anything but', 'not'],
+  continuation: [':', ';', 'moreover', 'furthermore', 'indeed', 'in fact', 'and', 'so … that', 'such', 'famously', 'even'],
+  cause: ['because', 'since', 'so', 'therefore', 'thus', 'as a result', 'given', 'faced with', 'fearing', 'forced', 'led'],
+};
 function findSignals(text, type) {
   const lower = ' ' + text.toLowerCase().replace(/[,.]/g, ' ') + ' ';
-  const list = (SIGNALS.find((s) => s[0] === type) || [null, []])[1];
-  const hits = list.filter((w) => (w.length === 1 ? text.includes(w) : lower.includes(' ' + w + ' ')));
-  return hits.slice(0, 2);
+  const hits = (SIGNALS[type] || []).filter((w) => (w.length === 1 ? text.includes(w) : w.includes('…') ? /\bso\b.*\bthat\b/i.test(text) : lower.includes(' ' + w + ' ')));
+  return hits.slice(0, 3);
 }
-const SIGNAL_TXT = {
-  contrast: 'Contrast signal — the blank must point <i>against</i> the clue in the other part of the sentence.',
-  continuation: 'Continuation signal — the blank must <i>agree with</i> (restate or extend) the clue.',
-  cause: 'Cause-and-effect signal — the blank must be what <i>produces</i> (or results from) the clue.',
+// underline the signal words inside a (html) sentence
+function markSignals(html, sigs) {
+  for (const w of sigs) {
+    if (w.length === 1 || w.includes('…')) continue;
+    html = html.replace(new RegExp(`\\b(${w.replace(/ /g, '\\s+')})\\b`, 'i'), '<u class="sig">$1</u>');
+  }
+  return html;
+}
+const HOW = {
+  contrast: `Words like <i>although, though, but, yet, despite, rather than, instead of, unlike, while/whereas, far from</i> announce a reversal. So do time contrasts (<i>once … now</i>, <i>at first … later</i>) and expectation words (<i>expected, hoped, claimed, seemed</i>), which set up a surprise. When you see one, the blank must mean roughly the <b>opposite</b> of the clue on the other side of the signal.`,
+  continuation: `Colons and semicolons, <i>and</i>, <i>moreover, furthermore, indeed, in fact</i>, and descriptive phrases that follow the blank (for example "…, who once spoke for nine hours") tell you the sentence is <b>explaining or extending</b> itself. When you see one, the blank must <b>agree</b> with the clue: often it is just a one-word summary of the description.`,
+  cause: `<i>Because, since, so, therefore, thus, as a result, given, faced with, fearing</i> link a cause to its effect. When you see one, ask "what would <b>produce</b> this result?" (or "what would this cause lead to?"). The blank is whichever side of that cause-and-effect link is missing.`,
 };
+const DIRECTION = { contrast: 'point the opposite way from the clue', continuation: 'agree with the clue', cause: 'be the cause (or result) the clue describes' };
+const SIGNAL_NAME = { contrast: 'contrast', continuation: 'continuation', cause: 'cause and effect' };
+function signalStep(fr, sig) {
+  if (sig.length) return `Find the signal. In this sentence it is ${sig.map((w) => `<b>“${esc(w)}”</b>`).join(' and ')}, which marks ${fr.signal === 'contrast' ? 'a contrast' : fr.signal === 'cause' ? 'a cause-and-effect link' : 'a continuation'}. So the blank must ${DIRECTION[fr.signal]}.`;
+  return `Find the signal. There's no single trigger word here; the structure of the sentence does the job (${fr.signal === 'contrast' ? 'two parts set against each other' : fr.signal === 'cause' ? 'one part explains why the other happens' : 'the second part describes or restates the first'}). So the blank must ${DIRECTION[fr.signal]}.`;
+}
 const BLANK = '<span class="blank"></span>';
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
 
@@ -185,15 +198,20 @@ for (const cid of usable) {
         stem: stemFrom(fr.text),
         choices: all.map((w) => inflect(w.word, form, c.pos)),
         answer: all.map((w, i) => (w.ok ? i : -1)).filter((i) => i >= 0),
-        fast: [
-          `${SIGNAL_TXT[fr.signal] || ''}${sig.length ? ` Here: <i>${sig.map((s) => `“${esc(s)}”`).join(', ')}</i>.` : ''}`,
-          `Clue: ${esc(fr.clue)}`,
-          `Predict before looking: the blank means “${esc(c.gloss)}”.`,
-          `${defOf(pair[0])} and ${defOf(pair[1])} both fit and give sentences with the same meaning.`,
-        ],
-        why: (trap.length ? `Trap pair: ${defOf(trap[0])} and ${defOf(trap[1])} are synonyms of each other, but they mean the opposite of what the logic requires — they fit a sentence with the reverse signal. ` : '')
-          + (others.length ? `The others (${others.map(defOf).join('; ')}) don't match the meaning at all.` : ''),
-        full: filled(fr.text, inflect(pair[0].word, form, c.pos)),
+        ex: {
+          obstacle: `Six words, and ${trap.length ? 'two different pairs of them are synonyms' : 'several of them sound plausible'} — so "find two words that mean the same thing" isn't enough. The pair has to fit the sentence's logic.`,
+          method: HOW[fr.signal] + ` For Sentence Equivalence, predict the blank in your own words first, then pick the two choices that match your prediction; both must produce sentences with the same meaning.`,
+          steps: [
+            signalStep(fr, sig),
+            `Find the clue — the words that tell you what the blank must be about. ${esc(fr.clue)}`,
+            `Predict your own word before looking at the choices: the blank means “${esc(c.gloss)}”.`,
+            `Match the prediction. ${defOf(pair[0])} and ${defOf(pair[1])} both carry that meaning, and putting either one in gives essentially the same sentence.`,
+            ...(trap.length ? [`Eliminate the trap pair. ${defOf(trap[0])} and ${defOf(trap[1])} are synonyms of each other too, but they mean the opposite of the prediction — they would only work if the sentence's logic ran the other way.`] : []),
+            ...(others.length ? [`The remaining choices, ${others.map(defOf).join(' and ')}, have nothing to do with the meaning the sentence needs.`] : []),
+          ],
+          work: markSignals(filled(fr.text, inflect(pair[0].word, form, c.pos)), sig),
+          pattern: `Pattern: ${SIGNAL_NAME[fr.signal]} signal → the blank must ${DIRECTION[fr.signal]}. Always predict before you look; a synonym pair that fits the topic but not the direction is the standard trap.`,
+        },
       });
     });
     // --- TC single blank (5 choices)
@@ -210,13 +228,20 @@ for (const cid of usable) {
       stem: stemFrom(fr.text),
       blanks: [all.map((w) => inflect(w.word, form, c.pos))],
       answer: [all.findIndex((w) => w.ok)],
-      fast: [
-        `${SIGNAL_TXT[fr.signal] || ''}${sig.length ? ` Here: <i>${sig.map((s) => `“${esc(s)}”`).join(', ')}</i>.` : ''}`,
-        `Clue: ${esc(fr.clue)}`,
-        `Predict: “${esc(c.gloss)}” → ${defOf(right)}.`,
-      ],
-      why: (trap.length ? `Trap: ${trap.map(defOf).join('; ')} — the opposite meaning, which would fit only if the signal were reversed. ` : '') + `Others: ${others.map(defOf).join('; ')}.`,
-      full: filled(fr.text, inflect(right.word, form, c.pos)),
+      ex: {
+        obstacle: `Several choices are real GRE words that could describe this topic${trap.length ? ', and at least one is the exact opposite of the answer' : ''}. Picking by "sounds right" leads straight to the trap.`,
+        method: HOW[fr.signal] + ` For Text Completion, cover the choices, predict the blank in your own words, then pick the choice closest to your prediction.`,
+        steps: [
+          signalStep(fr, sig),
+          `Find the clue. ${esc(fr.clue)}`,
+          `Predict your own word: the blank means “${esc(c.gloss)}”.`,
+          `Match the prediction: ${defOf(right)}.`,
+          ...(trap.length ? [`Eliminate the trap: ${trap.map(defOf).join(' and ')} — ${trap.length > 1 ? 'these point' : 'this points'} the opposite way, which would only fit if the signal were reversed.`] : []),
+          `The others (${others.map(defOf).join('; ')}) don't match the meaning at all.`,
+        ],
+        work: markSignals(filled(fr.text, inflect(right.word, form, c.pos)), sig),
+        pattern: `Pattern: ${SIGNAL_NAME[fr.signal]} signal → the blank must ${DIRECTION[fr.signal]}. Predict first, then match.`,
+      },
     });
   });
 }
@@ -270,9 +295,13 @@ for (const cid of usable) {
           id: `tc${b.ids.length}-${bi}-${fi + 1}-${v + 1}`, section: 'verbal', area: 'Text Completion', topic: `${b.ids.length}-blank`, format: 'tc',
           difficulty: b.ids.length === 3 ? 'hard' : diffOf(chosen) === 'easy' ? 'medium' : diffOf(chosen), tier: tierOf(chosen), words: chosen.map((w) => w.word),
           stem, blanks, answer,
-          fast: [`${SIGNAL_TXT[fr.signal] || ''}`, `Start with the blank that has the strongest clue, then use it to settle the others. ${esc(fr.expl)}`, ...notes],
-          why: `No partial credit: every blank must be right. Filling blanks in order is slower than starting from the most constrained one.`,
-          full,
+          ex: {
+            obstacle: `${b.ids.length} blanks and no partial credit: one wrong blank makes the whole answer wrong, and the blanks depend on each other.`,
+            method: `Don't fill the blanks in order. Start with the blank that has the strongest clue in the sentence, fill it with your own prediction, then use that filled-in blank as a new clue for the next one. The signal words tell you whether each blank agrees with or opposes its neighbors. ` + HOW[fr.signal],
+            steps: [signalStep(fr, findSignals(fr.text.replace(/\[\d\](ed|ing|s)?/g, '____'), fr.signal)), `Read how the blanks relate: ${esc(fr.expl)}`, ...notes.map((n) => `Fill ${n.charAt(0).toLowerCase()}${n.slice(1)}`)],
+            work: markSignals(full, findSignals(fr.text, fr.signal)),
+            pattern: `Pattern: multi-blank ${SIGNAL_NAME[fr.signal]}. Anchor on the most-constrained blank, then let each filled blank constrain the next.`,
+          },
         });
       }
     });
@@ -280,6 +309,21 @@ for (const cid of usable) {
 }
 
 // ---------- Reading Comprehension ----------
+function rcEx(q, kind) {
+  const t = q.text.toLowerCase();
+  const type = /weaken|cast doubt|vulnerable|flaw/.test(t) ? 'weaken' : /strengthen/.test(t) ? 'strengthen' : /assumption/.test(t) ? 'assume' : /primary purpose|main idea|primarily concerned|organization/.test(t) ? 'main' : /in order to|primarily as|mentions/.test(t) ? 'function' : /most nearly means/.test(t) ? 'vocab' : /infer|suggest|imply|agree/.test(t) ? 'infer' : 'detail';
+  const M_ = {
+    weaken: ['Several choices are true-sounding facts about the topic, but only one breaks the link between the evidence and the conclusion.', 'Identify the conclusion and the evidence, then find the gap between them (usually an overlooked alternative cause or a hidden assumption). The right answer attacks that gap.'],
+    strengthen: ['Several choices are relevant to the topic, but only one closes the gap in the reasoning.', 'Identify the conclusion and the evidence, find the gap, and pick the choice that fills it (for causal claims, the one that rules out other explanations).'],
+    assume: ['An assumption is never stated, so you won\'t find it in the text.', 'Find the gap between evidence and conclusion; the assumption is what must be true to bridge it. Test a choice by negating it: if the argument falls apart, that choice is the assumption.'],
+    main: ['Wrong answers usually describe only one part of the passage, or overstate what the author does.', 'Summarize what each paragraph does in a few words before looking at the choices. The right answer covers the whole passage at the right strength.'],
+    function: ['The question asks why the author included something, not what it says.', 'Look at what the detail is doing in its paragraph (supporting a claim, giving an example, raising an objection) and choose the answer that names that role.'],
+    vocab: ['The common meaning of the word is usually a trap.', 'Reread the sentence, cover the word, predict a replacement from context, then match.'],
+    infer: ['Inference answers must be supported by the text, not merely possible; extreme answers are usually wrong.', 'Go back to the relevant lines and pick the choice that must be true given what the passage says — the smallest step beyond the text.'],
+    detail: ['The answer is stated in the passage, but wrong choices mix real words from the passage with claims it never makes.', 'Locate the relevant lines before reading the choices, then match the choice to what those lines actually say.'],
+  };
+  return { obstacle: M_[type][0], method: M_[type][1], steps: [esc(q.expl)], work: q.type === 'ma' ? 'Judge each statement separately: any number of them (1, 2 or all 3) can be correct.' : 'Eliminate choices that are too extreme, off-topic, or only partly supported.', pattern: `Pattern: ${kind === 'argument' ? 'argument structure' : 'reading comprehension'} — ${{ weaken: 'weaken the link', strengthen: 'strengthen the link', assume: 'find the unstated assumption', main: 'main idea/purpose', function: 'function of a detail', vocab: 'word in context', infer: 'inference', detail: 'detail' }[type]} question.` };
+}
 const passages = [];
 {
   const text = fs.readFileSync(C('rc.txt'), 'utf8');
@@ -303,9 +347,9 @@ const passages = [];
       const base = { id: `rc-${id}-${i + 1}`, section: 'verbal', area: 'Reading Comprehension', topic: kind === 'argument' ? 'Argument structure' : topic, passage: id, difficulty: kind === 'long' ? 'medium' : kind === 'argument' ? 'medium' : 'easy', stem: esc(q.text) };
       if (q.type === 'sel') {
         if (q.correct[0] >= sentences.length) throw new Error(`rc ${id}: sentence ${q.correct[0] + 1} out of range`);
-        questions.push({ ...base, format: 'sel', answer: q.correct[0], fast: [esc(q.expl)], why: 'Scan for the function the question describes (a claim, a reason, a warning); don\'t reread the whole passage.' });
+        questions.push({ ...base, format: 'sel', answer: q.correct[0], ex: { obstacle: 'Every sentence in the passage is a candidate, and several touch the same topic.', method: 'Decide what job the sentence must do (give a reason, make a warning, present evidence, offer a benefit…), then scan for the sentence doing that job — not just one that mentions the same words.', steps: [esc(q.expl)], work: `Sentence ${q.correct[0] + 1}: “${esc(sentences[q.correct[0]])}”`, pattern: 'Pattern: select-in-passage. Match the function described in the question, not the topic.' } });
       } else {
-        questions.push({ ...base, format: q.type === 'ma' ? 'ma' : 'mc', choices: q.choices.map(esc), answer: q.type === 'ma' ? q.correct : q.correct[0], fast: [esc(q.expl)], why: q.type === 'ma' ? 'Judge each choice on its own against the passage — there is no partial credit, and any number (1–3) can be correct.' : 'Eliminate choices that are too extreme, off-topic, or only partly supported; the right answer is fully backed by the text.' });
+        questions.push({ ...base, format: q.type === 'ma' ? 'ma' : 'mc', choices: q.choices.map(esc), answer: q.type === 'ma' ? q.correct : q.correct[0], ex: rcEx(q, kind) });
       }
     });
   }

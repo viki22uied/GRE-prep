@@ -111,4 +111,7 @@ function ord(n) { const s = ['th', 'st', 'nd', 'rd']; const v = n % 100; return 
 // wrap negatives in parentheses when substituting
 const par = (x) => (x < 0 ? `(${x})` : `${x}`);
 
-module.exports = { ord, par, rand, ri, pick, shuffle, sample, gcd, lcm, clean, M, fracTex, F, reduce, fmt, tn, num, frac, mc, mcNum, ma, qc, cmp, poly, sgn, QC_CHOICES };
+// Five-part tutor explanation. steps: array of short paragraphs, each giving the reason for its numbers.
+const EX = (obstacle, method, steps, work, pattern) => ({ ex: { obstacle, method, steps: Array.isArray(steps) ? steps : [steps], work, pattern } });
+
+module.exports = { EX, ord, par, rand, ri, pick, shuffle, sample, gcd, lcm, clean, M, fracTex, F, reduce, fmt, tn, num, frac, mc, mcNum, ma, qc, cmp, poly, sgn, QC_CHOICES };

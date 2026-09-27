@@ -34,8 +34,9 @@ function makeOne(t, st, area) {
       id: `${t.meta.id}-${st.made + 1}`,
       section: 'quant', area, topic: t.meta.topic, format: q.format || t.meta.format, difficulty: q.diff || t.meta.diff,
       stem: q.stem, ...(q.figure ? { figure: q.figure } : {}), ...(q.qa ? { qa: q.qa, qb: q.qb } : {}),
-      ...(q.choices ? { choices: q.choices } : {}), answer: q.answer, fast: q.fast, why: q.why,
+      ...(q.choices ? { choices: q.choices } : {}), answer: q.answer, ...(q.ex ? { ex: q.ex } : { fast: q.fast, why: q.why }),
     };
+    if (item.ex) { const cap = (t) => t.replace(/^([a-z])/, (m) => m.toUpperCase()); item.ex.steps = item.ex.steps.map(cap); item.ex.obstacle = cap(item.ex.obstacle); }
     const err = validate(item);
     if (err) { problems.push(`${item.id}: ${err}`); continue; }
     out.push(item); st.made++;
@@ -77,7 +78,16 @@ function toMC(q) {
 function validate(q) {
   const blob = JSON.stringify(q);
   if (/undefined|NaN|Infinity|\[object/.test(blob)) return 'bad token in output';
-  if (!q.fast || !q.fast.length || !q.why) return 'missing explanation';
+  if (!q.ex) return 'missing five-part explanation';
+  const ex = q.ex;
+  if (!ex.obstacle || !ex.method || !ex.steps || !ex.steps.length || !ex.work || !ex.pattern) return 'explanation part missing';
+  // "why this number" check: every number used in the arithmetic must already appear in the question or in the reasoned steps
+  const plain = (t) => String(t || '').replace(/\\frac\{(-?[\d.]+)\}\{([\d.]+)\}/g, '$1/$2').replace(/\\approx/g, "=").replace(/<svg[\s\S]*?<\/svg>/g, ' ').replace(/\\(frac|sqrt|times|cdot|div|text|Rightarrow|quad|;|,|left|right|overline|lfloor|rfloor|binom|pi|circ|approx|le|ge|neq|ne|tfrac|mu|sigma|sum)/g, ' ').replace(/\{,\}/g, '');
+  const nums = (t) => (plain(t).match(/\d+(?:\.\d+)?/g) || []).map(Number);
+  const context = new Set(nums([q.stem, q.qa, q.qb, q.figure, ...(q.choices || []), ex.obstacle, ex.method, ...ex.steps].join(' ')));
+  const operands = plain(ex.work).replace(/(=|→|is)\s*-?\s*\d+(?:\.\d+)?(?:\s*\/\s*\d+)?/g, ' ');
+  const missing = nums(operands).filter((n) => !context.has(n) && n > 2);
+  if (missing.length) return 'unjustified number in arithmetic: ' + missing.join(',');
   switch (q.format) {
     case 'mc': if (q.choices.length !== 5 && !(q.choices.length >= 4)) return 'mc needs 5 choices'; if (!(q.answer >= 0 && q.answer < q.choices.length)) return 'mc answer out of range'; if (new Set(q.choices).size !== q.choices.length) return 'duplicate choices'; break;
     case 'qc': if (q.choices.length !== 4 || !(q.answer >= 0 && q.answer < 4)) return 'bad qc'; break;
@@ -87,7 +97,7 @@ function validate(q) {
   }
   // exponents/fractions must live inside math so they render as real superscripts and stacked fractions
   const outside = (str) => String(str).replace(/<svg[\s\S]*?<\/svg>/g, '').replace(/\\\([\s\S]*?\\\)/g, '');
-  for (const part of [q.stem, q.qa, q.qb, ...(q.choices || []), ...q.fast, q.why]) { if (part && /\^|\\frac|\\sqrt/.test(outside(part))) return 'raw math outside \\( \\): ' + outside(part).slice(0, 80); }
+  for (const part of [q.stem, q.qa, q.qb, ...(q.choices || []), ex.obstacle, ex.method, ...ex.steps, ex.work, ex.pattern]) { if (part && /\^|\\frac|\\sqrt/.test(outside(part))) return 'raw math outside \\( \\): ' + outside(part).slice(0, 80); }
   // balanced math delimiters
   const opens = (blob.match(/\\\\\(/g) || []).length, closes = (blob.match(/\\\\\)/g) || []).length;
   if (opens !== closes) return 'unbalanced math delimiters';
