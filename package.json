@@ -1,0 +1,9 @@
+{
+  "name": "gre-daily",
+  "private": true,
+  "description": "GRE practice site: generated Quant bank, vocabulary-driven Verbal bank, timed sections and progress tracking.",
+  "scripts": {
+    "build": "node tools/gen_quant.js && node tools/build_verbal.js",
+    "serve": "python3 -m http.server 8000 --directory site"
+  }
+}

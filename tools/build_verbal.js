@@ -1,0 +1,326 @@
+// Builds site/data/verbal.json (questions) and site/data/vocab.json (flashcards)
+// from the hand-written files in content/.
+const fs = require('fs');
+const path = require('path');
+const L = require('./lib');
+const { pick, shuffle, sample } = L;
+const C = (f) => path.join(__dirname, '../content', f);
+
+// ---------- tiers ----------
+// Tier 1 = most tested, Tier 2 = common, Tier 3 = advanced / rare.
+// Words that were marked 3 in the source but are everyday English become "basic":
+// they appear inside questions as synonyms, but are not counted as GRE vocabulary.
+const RARE = new Set(`periphrastic circumlocutory compendious calumniate traduce philippic eulogistic refractory pertinacious temerarious doughty stouthearted
+choleric splenetic roseate jocose pellucid perspicuous limpid temporize befog sophistical factitious magniloquent orotund fugitive picayune exiguous
+superabundance bounteous baneful execrable beneficent irenic placatory genteel politic guileful veracious propitiate controvert inculpate perturbation
+pusillanimity intrepidity comity odium concurrence apogee mountebank votary fatuity augury sinecure piquant multifarious spasmodic apropos otiose toilsome
+sinuous gull beget bespeak betoken cleave rend bifurcate flummox abominate execrate blandish avuncular cynosure exigent magisterial obsolescent peripatetic
+lachrymose dulcet euphonious noisome unalloyed impious clement adventitious bode hale spry monastic mannered precious lordly
+sedulous recondite abjure extirpate inveigle obstreperous penurious niggardly iniquitous depraved truculent churlish boorish stolid lugubrious doleful
+disconsolate staid fervid torpid languid sybaritic epicurean heterodox labyrinthine byzantine tortuous variegated motley quiescent ineluctable apposite
+infelicitous indecorous untoward consonant abstemious hidebound stilted extemporaneous hoodwink lionize raze efface excise propagate husband estrange sunder
+meld nonplus contravene transgress forbear desist wheedle browbeat gainsay vitiate codify promulgate exculpate sangfroid aplomb penitence compunction mettle
+animus abhorrence repugnance genesis acme quintessence savant tyro exponent chicanery artifice mendacity rectitude languor lassitude verve effrontery
+perspicacity sagacity indigence privation opulence progenitor antecedent sententious doctrinaire benighted philistine turgid ersatz intractable eremite
+insouciant distend exigency preamble reprobate supposition welter bamboozle conjure pugnacious lampoon`.split(/\s+/).filter(Boolean));
+
+// frequently tested words promoted to tier 1
+const PROMOTE = new Set(`acclaim eulogize lambaste berate upbraid pillory chide rebuke reprove deprecate decry defame besmirch panegyric paean plaudits harangue
+vituperation mordant vitriolic adulatory fawning servile unctuous disdainful unassuming self-effacing vainglorious pompous obdurate pliant acquiescent
+malleable diligent industrious slothful desultory painstaking wary chary rash foolhardy heedless valiant undaunted craven timorous serene overwrought frenetic
+distraught dispassionate stoic vehement cantankerous testy peevish genial cordial congenial convivial melancholy disparate`.split(/\s+/).filter(Boolean));
+
+// ---------- parse vocab ----------
+const clusters = {}; const order = [];
+let cur = null;
+for (const f of fs.readdirSync(path.join(__dirname, '../content')).filter((f) => /^vocab_.*\.txt$/.test(f)).sort()) {
+  for (const raw of fs.readFileSync(C(f), 'utf8').split('\n')) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#')) continue;
+    if (line.startsWith('= ')) {
+      const [id, pos, gloss, ant] = line.slice(2).split('|').map((s) => s.trim());
+      cur = clusters[id] = { id, pos, gloss, antonym: ant === '-' ? null : ant, words: [], frames: [] };
+      order.push(id);
+    } else if (line.startsWith('> ')) {
+      const [signal, text, clue] = line.slice(2).split('|').map((s) => s.trim());
+      cur.frames.push({ signal, text, clue });
+    } else {
+      const parts = line.split('|').map((s) => s.trim());
+      if (parts.length < 4 || parts[1] === '0' || parts[2] === '-' || parts[2] === '—') continue;
+      const [word, t, def, ...ex] = parts;
+      let tier = +t;
+      if (RARE.has(word)) tier = 3; else if (PROMOTE.has(word)) tier = 1; else if (tier === 3) tier = 0;
+      cur.words.push({ word, tier, def, ex: ex.join(' | ') });
+    }
+  }
+}
+
+// ---------- vocab deck ----------
+const vocab = []; const seenWord = new Set();
+for (const id of order) for (const w of clusters[id].words) {
+  const key = w.word + '|' + clusters[id].pos;
+  if (seenWord.has(key)) continue; seenWord.add(key);
+  vocab.push({ id: 'v-' + w.word.replace(/\s+/g, '_'), word: w.word, pos: clusters[id].pos, tier: w.tier, def: w.def, ex: w.ex, group: id.startsWith('misc') ? null : clusters[id].gloss });
+}
+
+// ---------- families: clusters close in meaning are never used as each other's distractors ----------
+const FAMILIES = [
+  'praise-v laudatory praise-n revere advocate enact', 'criticize-v reproach-v belittle slander-v scathing invective mock detractor',
+  'talkative wordy bombastic eloquent', 'taciturn concise inarticulate plain', 'haughty boastful audacity', 'humble obsequious',
+  'stubborn resist', 'compliant obey capitulate', 'diligent meticulous comprehensive', 'lazy lethargy careless', 'cautious skeptical', 'reckless audacity',
+  'brave courage', 'cowardly cowardice', 'calm composure impassive', 'agitated agitation', 'passionate alacrity', 'irritable hostile malevolent animosity',
+  'genial kind peaceable amity courteous tactful', 'sad pessimistic', 'joyful optimistic', 'serious', 'flippant',
+  'obscure ambiguous obfuscate complex perplex', 'lucid explicit clarify simple', 'equivocate deceitful deception deceive secret conceal cunning',
+  'candid overt reveal candor disseminate evince', 'cogent authentic corroborate', 'specious counterfeit refute challenge impostor',
+  'wise erudite acumen', 'foolish ignorant folly', 'pedantic', 'open-minded', 'partisan', 'ephemeral sporadic', 'enduring steadfast incessant inevitable',
+  'capricious vacillate', 'trivial superfluous extraneous', 'momentous indispensable relevant', 'abundant plethora ubiquitous affluence generous',
+  'scarce dearth poverty stingy', 'frugal conserve', 'prodigal squander hedonistic', 'greedy corrupt', 'upright virtuous ascetic',
+  'harmful wicked', 'beneficial', 'alleviate placate facilitate strengthen', 'exacerbate provoke undermine hinder deter suppress',
+  'increase prolong exaggerate', 'dwindle shorten condense understate', 'abolish renounce avoid eradicate destroy erase', 'exonerate', 'incriminate',
+  'remorse', 'nadir', 'culmination', 'inception', 'paragon', 'precursor omen', 'expert', 'novice dilettante', 'proponent follower',
+  'discord', 'consensus', 'outdated', 'modern novel', 'trite mundane', 'exciting', 'orthodox', 'unconventional', 'nascent', 'diverse', 'uniform',
+  'contingent', 'apt consistent', 'inappropriate incongruous', 'excessive', 'moderate', 'arduous', 'effortless', 'subtle', 'obvious', 'indirect', 'latent',
+  'pragmatic', 'quixotic', 'parochial', 'cosmopolitan', 'affected', 'spontaneous', 'premeditated', 'evoke cause', 'reconcile merge', 'alienate separate',
+  'conflate', 'distinguish', 'digress', 'flout', 'abhor aversion', 'predilection', 'cease', 'cajole', 'coerce', 'foreshadow',
+];
+const famOf = {};
+FAMILIES.forEach((f, i) => f.split(' ').forEach((id) => (famOf[id] = i)));
+const related = (a, b) => a === b || (famOf[a] !== undefined && famOf[a] === famOf[b]) || clusters[a]?.antonym === b || clusters[b]?.antonym === a;
+
+const usable = order.filter((id) => !id.startsWith('misc') && clusters[id].words.length >= 2);
+const byPos = {};
+usable.forEach((id) => (byPos[clusters[id].pos] = byPos[clusters[id].pos] || []).push(id));
+
+// ---------- inflection (choices are shown in the form the sentence needs) ----------
+const IRREG = { bear: ['bore', 'bearing', 'bears'], draw: ['drew', 'drawing', 'draws'], forgo: ['forwent', 'forgoing', 'forgoes'], beget: ['begot', 'begetting', 'begets'],
+  cleave: ['cleaved', 'cleaving', 'cleaves'], rend: ['rent', 'rending', 'rends'], forbear: ['forbore', 'forbearing', 'forbears'], browbeat: ['browbeat', 'browbeating', 'browbeats'],
+  withstand: ['withstood', 'withstanding', 'withstands'], sever: ['severed', 'severing', 'severs'], mix: ['mixed', 'mixing', 'mixes'], blot: ['blotted', 'blotting', 'blots'],
+  root: ['rooted', 'rooting', 'roots'], stamp: ['stamped', 'stamping', 'stamps'], shore: ['shored', 'shoring', 'shores'], play: ['played', 'playing', 'plays'],
+  cut: ['cut', 'cutting', 'cuts'], fritter: ['frittered', 'frittering', 'fritters'], call: ['called', 'calling', 'calls'], abide: ['abided', 'abiding', 'abides'], adhere: ['adhered', 'adhering', 'adheres'] };
+const DOUBLE = new Set(['rebut', 'abet', 'compel', 'impel', 'expel', 'dispel', 'propel', 'repel', 'control', 'regret', 'emit', 'omit', 'commit', 'transmit', 'admit', 'incur', 'deter', 'defer', 'confer', 'prefer', 'infer', 'abhor', 'occur', 'recur', 'stir', 'spur', 'allot', 'befit', 'outwit', 'equip', 'patrol', 'sap', 'shun', 'snub', 'stem', 'gull', 'blot', 'dupe-no']);
+function inflect(phrase, form, pos) {
+  if (!form) return phrase;
+  const parts = phrase.split(' ');
+  if (pos === 'noun') { // plural of the last word
+    const w = parts[parts.length - 1];
+    parts[parts.length - 1] = /(s|x|z|ch|sh)$/.test(w) ? w + 'es' : /[^aeiou]y$/.test(w) ? w.slice(0, -1) + 'ies' : w + 's';
+    return parts.join(' ');
+  }
+  const w = parts[0]; let out;
+  const idx = { ed: 0, ing: 1, s: 2 }[form];
+  if (IRREG[w]) out = IRREG[w][idx];
+  else if (form === 's') out = /(s|x|z|ch|sh)$/.test(w) ? w + 'es' : /[^aeiou]y$/.test(w) ? w.slice(0, -1) + 'ies' : w + 's';
+  else {
+    let stem = w;
+    if (DOUBLE.has(w)) stem = w + w.slice(-1);
+    if (form === 'ed') out = /e$/.test(stem) ? stem + 'd' : /[^aeiou]y$/.test(stem) ? stem.slice(0, -1) + 'ied' : stem + 'ed';
+    else out = /ie$/.test(stem) ? stem.slice(0, -2) + 'ying' : /[^e]e$/.test(stem) && !/(ee|ye|oe)$/.test(stem) ? stem.slice(0, -1) + 'ing' : stem + 'ing';
+  }
+  parts[0] = out; return parts.join(' ');
+}
+
+// ---------- signal words ----------
+const SIGNALS = [
+  ['contrast', ['although', 'though', 'but', 'yet', 'despite', 'rather than', 'instead', 'unlike', 'while', 'whereas', 'far from', 'however', 'once', 'surprisingly', 'nonetheless']],
+  ['continuation', ['moreover', 'furthermore', 'indeed', 'in fact', 'and', ':', ';']],
+  ['cause', ['because', 'since', 'so', 'therefore', 'thus', 'as a result', 'given', 'faced with', 'fearing']],
+];
+function findSignals(text, type) {
+  const lower = ' ' + text.toLowerCase().replace(/[,.]/g, ' ') + ' ';
+  const list = (SIGNALS.find((s) => s[0] === type) || [null, []])[1];
+  const hits = list.filter((w) => (w.length === 1 ? text.includes(w) : lower.includes(' ' + w + ' ')));
+  return hits.slice(0, 2);
+}
+const SIGNAL_TXT = {
+  contrast: 'Contrast signal — the blank must point <i>against</i> the clue in the other part of the sentence.',
+  continuation: 'Continuation signal — the blank must <i>agree with</i> (restate or extend) the clue.',
+  cause: 'Cause-and-effect signal — the blank must be what <i>produces</i> (or results from) the clue.',
+};
+const BLANK = '<span class="blank"></span>';
+const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+
+// fill "a ____" -> "a(n) ____" so articles never give the answer away
+function stemFrom(text) {
+  return esc(text).replace(/\b([Aa])n? ____/g, '$1(n) ____').replace(/____(ed|ing|s)?/g, BLANK);
+}
+function filled(text, word) {
+  return esc(text).replace(/\b([Aa])n? ____/g, (m, a) => `${/^[aeiou]/i.test(word) ? a + 'n' : a} ____`).replace(/____(ed|ing|s)?/, `<b>${word}</b>`);
+}
+const formOf = (text, i = 0) => { const m = [...text.matchAll(/____(ed|ing|s)?/g)][i]; return m ? m[1] : undefined; };
+
+function randomDistractors(cid, pos, n, avoidWords) {
+  const pool = shuffle((byPos[pos] || []).filter((o) => !related(o, cid)));
+  const out = [];
+  for (const o of pool) { const w = pick(clusters[o].words); if (!avoidWords.has(w.word)) { out.push({ ...w, cid: o }); avoidWords.add(w.word); } if (out.length === n) break; }
+  return out;
+}
+const defOf = (w) => `<b>${w.word}</b> (${w.def})`;
+const tierOf = (ws) => Math.max(...ws.map((w) => w.tier || 0)) || 2;
+const diffOf = (ws) => { const t = ws.map((w) => w.tier); return t.includes(3) ? 'hard' : t.every((x) => x === 0) ? 'easy' : 'medium'; };
+
+const questions = [];
+let qn = 0;
+
+// ---------- Sentence Equivalence & single-blank Text Completion ----------
+for (const cid of usable) {
+  const c = clusters[cid];
+  c.frames.forEach((fr, fi) => {
+    const form = formOf(fr.text);
+    const sig = findSignals(fr.text, fr.signal);
+    const ant = c.antonym && clusters[c.antonym] && clusters[c.antonym].pos === c.pos && clusters[c.antonym].words.length >= 2 ? clusters[c.antonym] : null;
+    const pairs = [];
+    const ws = shuffle(c.words);
+    for (let i = 0; i < ws.length && pairs.length < 2; i += 2) if (ws[i + 1]) pairs.push([ws[i], ws[i + 1]]);
+    // --- SE (up to 2 per frame)
+    pairs.forEach((pair, pi) => {
+      const avoid = new Set(c.words.map((w) => w.word));
+      const trap = ant ? sample(ant.words, 2).map((w) => ({ ...w, cid: ant.id })) : [];
+      trap.forEach((w) => avoid.add(w.word));
+      const others = randomDistractors(cid, c.pos, 6 - 2 - trap.length, avoid);
+      const all = shuffle([...pair.map((w) => ({ ...w, ok: true })), ...trap, ...others]);
+      if (all.length !== 6) return;
+      questions.push({
+        id: `se-${cid}-${fi + 1}-${pi + 1}`, section: 'verbal', area: 'Sentence Equivalence', topic: c.gloss.split(';')[0], format: 'se',
+        difficulty: diffOf(pair), tier: tierOf(pair), words: pair.map((w) => w.word),
+        stem: stemFrom(fr.text),
+        choices: all.map((w) => inflect(w.word, form, c.pos)),
+        answer: all.map((w, i) => (w.ok ? i : -1)).filter((i) => i >= 0),
+        fast: [
+          `${SIGNAL_TXT[fr.signal] || ''}${sig.length ? ` Here: <i>${sig.map((s) => `“${esc(s)}”`).join(', ')}</i>.` : ''}`,
+          `Clue: ${esc(fr.clue)}`,
+          `Predict before looking: the blank means “${esc(c.gloss)}”.`,
+          `${defOf(pair[0])} and ${defOf(pair[1])} both fit and give sentences with the same meaning.`,
+        ],
+        why: (trap.length ? `Trap pair: ${defOf(trap[0])} and ${defOf(trap[1])} are synonyms of each other, but they mean the opposite of what the logic requires — they fit a sentence with the reverse signal. ` : '')
+          + (others.length ? `The others (${others.map(defOf).join('; ')}) don't match the meaning at all.` : ''),
+        full: filled(fr.text, inflect(pair[0].word, form, c.pos)),
+      });
+    });
+    // --- TC single blank (5 choices)
+    const right = pick(c.words);
+    const avoid = new Set(c.words.map((w) => w.word));
+    const trap = ant ? sample(ant.words, pick([1, 2])).map((w) => ({ ...w, cid: ant.id })) : [];
+    trap.forEach((w) => avoid.add(w.word));
+    const others = randomDistractors(cid, c.pos, 4 - trap.length, avoid);
+    const all = shuffle([{ ...right, ok: true }, ...trap, ...others]);
+    if (all.length !== 5) return;
+    questions.push({
+      id: `tc1-${cid}-${fi + 1}`, section: 'verbal', area: 'Text Completion', topic: c.gloss.split(';')[0], format: 'tc',
+      difficulty: diffOf([right]), tier: tierOf([right]), words: [right.word],
+      stem: stemFrom(fr.text),
+      blanks: [all.map((w) => inflect(w.word, form, c.pos))],
+      answer: [all.findIndex((w) => w.ok)],
+      fast: [
+        `${SIGNAL_TXT[fr.signal] || ''}${sig.length ? ` Here: <i>${sig.map((s) => `“${esc(s)}”`).join(', ')}</i>.` : ''}`,
+        `Clue: ${esc(fr.clue)}`,
+        `Predict: “${esc(c.gloss)}” → ${defOf(right)}.`,
+      ],
+      why: (trap.length ? `Trap: ${trap.map(defOf).join('; ')} — the opposite meaning, which would fit only if the signal were reversed. ` : '') + `Others: ${others.map(defOf).join('; ')}.`,
+      full: filled(fr.text, inflect(right.word, form, c.pos)),
+    });
+  });
+}
+
+// ---------- multi-blank Text Completion ----------
+{
+  let block = null; const blocks = [];
+  for (const raw of fs.readFileSync(C('tc_multi.txt'), 'utf8').split('\n')) {
+    const line = raw.trim(); if (!line || line.startsWith('#')) continue;
+    if (line.startsWith('@@')) { block = { ids: line.slice(2).split('|').map((s) => s.trim()), frames: [] }; blocks.push(block); continue; }
+    const [signal, text, expl] = line.split('|').map((s) => s.trim());
+    if (signal === 'skip') continue;
+    block.frames.push({ signal, text, expl });
+  }
+  let bi = 0;
+  for (const b of blocks) {
+    bi++;
+    if (!b.ids.every((id) => clusters[id] && clusters[id].words.length >= 1)) continue;
+    b.frames.forEach((fr, fi) => {
+      const marks = [...fr.text.matchAll(/\[(\d)\](ed|ing|s)?/g)];
+      if (marks.length !== b.ids.length) return;
+      for (let v = 0; v < 2; v++) {
+        const blanks = [], answer = [], chosen = [], notes = [];
+        let ok = true;
+        b.ids.forEach((id, k) => {
+          const c = clusters[id]; const form = marks[k][2];
+          const right = pick(c.words);
+          const ant = c.antonym && clusters[c.antonym] && clusters[c.antonym].pos === c.pos ? clusters[c.antonym] : null;
+          const avoid = new Set([...c.words.map((w) => w.word), ...chosen.map((w) => w.word)]);
+          const trap = ant ? [pick(ant.words)] : [];
+          trap.forEach((w) => avoid.add(w.word));
+          const others = randomDistractors(id, c.pos, 2 - trap.length, avoid);
+          const all = shuffle([{ ...right, ok: true }, ...trap, ...others]);
+          if (all.length !== 3) { ok = false; return; }
+          blanks.push(all.map((w) => inflect(w.word, form, c.pos)));
+          answer.push(all.findIndex((w) => w.ok));
+          chosen.push(right);
+          notes.push(`Blank (${['i', 'ii', 'iii'][k]}): ${defOf(right)}${trap.length ? ` — not ${defOf(trap[0])}, which is the opposite` : ''}.`);
+        });
+        if (!ok) continue;
+        let stem = esc(fr.text); let full = esc(fr.text);
+        b.ids.forEach((id, k) => {
+          const re = new RegExp(`\\[${k + 1}\\](ed|ing|s)?`);
+          stem = stem.replace(re, `<span class="blank">(${['i', 'ii', 'iii'][k]})</span>`);
+          full = full.replace(re, `<b>${blanks[k][answer[k]]}</b>`);
+        });
+        const key = stem + JSON.stringify(blanks.map((bl, k) => bl[answer[k]]));
+        if (questions.some((q) => q._key === key)) continue;
+        questions.push({
+          _key: key,
+          id: `tc${b.ids.length}-${bi}-${fi + 1}-${v + 1}`, section: 'verbal', area: 'Text Completion', topic: `${b.ids.length}-blank`, format: 'tc',
+          difficulty: b.ids.length === 3 ? 'hard' : diffOf(chosen) === 'easy' ? 'medium' : diffOf(chosen), tier: tierOf(chosen), words: chosen.map((w) => w.word),
+          stem, blanks, answer,
+          fast: [`${SIGNAL_TXT[fr.signal] || ''}`, `Start with the blank that has the strongest clue, then use it to settle the others. ${esc(fr.expl)}`, ...notes],
+          why: `No partial credit: every blank must be right. Filling blanks in order is slower than starting from the most constrained one.`,
+          full,
+        });
+      }
+    });
+  }
+}
+
+// ---------- Reading Comprehension ----------
+const passages = [];
+{
+  const text = fs.readFileSync(C('rc.txt'), 'utf8');
+  const chunks = text.split(/^### /m).slice(1);
+  for (const ch of chunks) {
+    const lines = ch.split('\n');
+    const [id, kind, topic] = lines[0].split('|').map((s) => s.trim());
+    const bodyEnd = lines.findIndex((l) => l.startsWith('??'));
+    const paras = lines.slice(1, bodyEnd).join('\n').trim().split(/\n\s*\n/).map((p) => p.replace(/\s+/g, ' ').trim());
+    // split into sentences (for select-in-passage)
+    const sentences = []; const parasS = paras.map((p) => p.split(/(?<=[.!?])\s+(?=[A-Z"“])/).map((s) => { sentences.push(s); return sentences.length - 1; }));
+    passages.push({ id, kind, topic, paras: parasS, sentences });
+    let q = null; const qs = [];
+    for (const l of lines.slice(bodyEnd)) {
+      if (l.startsWith('??')) { const m = l.slice(2).trim().match(/^(mc|ma|sel)\s*\|\s*(.*)$/); q = { type: m[1], text: m[2], choices: [], correct: [], expl: '' }; qs.push(q); }
+      else if (l.startsWith('* ') && q) { if (q.type === 'sel') q.correct.push(+l.slice(2) - 1); else { q.correct.push(q.choices.length); q.choices.push(l.slice(2).trim()); } }
+      else if (l.startsWith('- ') && q) q.choices.push(l.slice(2).trim());
+      else if (l.startsWith('!!') && q) q.expl = l.slice(2).trim();
+    }
+    qs.forEach((q, i) => {
+      const base = { id: `rc-${id}-${i + 1}`, section: 'verbal', area: 'Reading Comprehension', topic: kind === 'argument' ? 'Argument structure' : topic, passage: id, difficulty: kind === 'long' ? 'medium' : kind === 'argument' ? 'medium' : 'easy', stem: esc(q.text) };
+      if (q.type === 'sel') {
+        if (q.correct[0] >= sentences.length) throw new Error(`rc ${id}: sentence ${q.correct[0] + 1} out of range`);
+        questions.push({ ...base, format: 'sel', answer: q.correct[0], fast: [esc(q.expl)], why: 'Scan for the function the question describes (a claim, a reason, a warning); don\'t reread the whole passage.' });
+      } else {
+        questions.push({ ...base, format: q.type === 'ma' ? 'ma' : 'mc', choices: q.choices.map(esc), answer: q.type === 'ma' ? q.correct : q.correct[0], fast: [esc(q.expl)], why: q.type === 'ma' ? 'Judge each choice on its own against the passage — there is no partial credit, and any number (1–3) can be correct.' : 'Eliminate choices that are too extreme, off-topic, or only partly supported; the right answer is fully backed by the text.' });
+      }
+    });
+  }
+}
+
+questions.forEach((q) => delete q._key);
+// sanity checks
+const bad = questions.filter((q) => /undefined|NaN/.test(JSON.stringify(q)));
+if (bad.length) { console.log('BAD', bad.slice(0, 3)); process.exit(1); }
+const dupIds = questions.map((q) => q.id).filter((id, i, a) => a.indexOf(id) !== i);
+if (dupIds.length) { console.log('dup ids', dupIds.slice(0, 5)); process.exit(1); }
+
+fs.writeFileSync(path.join(__dirname, '../site/data/verbal.json'), JSON.stringify({ passages, questions }));
+fs.writeFileSync(path.join(__dirname, '../site/data/vocab.json'), JSON.stringify(vocab));
+const cnt = (arr, k) => arr.reduce((m, x) => ((m[x[k]] = (m[x[k]] || 0) + 1), m), {});
+console.log('Vocab words:', vocab.length, cnt(vocab, 'tier'));
+console.log('Verbal questions:', questions.length, cnt(questions, 'area'), cnt(questions, 'difficulty'));
+console.log('Passages:', passages.length);

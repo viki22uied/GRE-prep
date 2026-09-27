@@ -1,0 +1,196 @@
+= harmful | adj | causing harm, often gradually | beneficial
+pernicious | 1 | having a harmful effect, especially gradually or subtly | The pernicious rumor slowly destroyed trust within the team.
+deleterious | 1 | causing harm or damage | Smoking has deleterious effects on nearly every organ.
+insidious | 1 | proceeding in a gradual, subtle way but with harmful effects | High blood pressure is insidious, often causing no symptoms for years.
+noxious | 2 | harmful, poisonous, or very unpleasant | Noxious fumes from the factory sickened nearby residents.
+baneful | 3 | harmful or destructive | The baneful influence of the gang spread through the neighborhood.
+detrimental | 2 | tending to cause harm | Lack of sleep is detrimental to memory.
+> contrast | Although the chemical was once considered harmless, researchers now know it has ____ effects on the nervous system. | "Although … once considered harmless … now know" — the opposite: harmful.
+> continuation | The ____ influence of the scandal spread slowly through the organization, eroding morale for years. | "Spread slowly … eroding morale" describes gradual harm.
+
+= beneficial | adj | favorable to health or well-being | harmful
+salutary | 1 | producing good effects; beneficial, often through an unpleasant experience | The failure had a salutary effect, forcing the team to rethink its methods.
+salubrious | 2 | health-giving; healthy | Patients were sent to the salubrious mountain air to recover.
+beneficial | 3 | resulting in good; favorable | Regular exercise is beneficial for mental health.
+wholesome | 3 | conducive to or promoting good health | Wholesome meals improved the children's attention in class.
+benign | 1 | gentle and kind; (medicine) not harmful | Fortunately, the tumor proved benign.
+innocuous | 1 | not harmful or offensive | The comment seemed innocuous but caused an uproar.
+> contrast | Many assumed the harsh review would crush the young author, but it proved ____, prompting her to revise and strengthen the novel. | "Assumed … would crush … but … prompting her to revise and strengthen" — a good effect.
+> cause | Because the town's climate was so ____, invalids from across the country traveled there to recover. | Invalids travel there to recover because the climate is healthful.
+
+= wicked | adj | morally evil; villainous | virtuous
+nefarious | 1 | wicked or criminal | The villain's nefarious plan was foiled at the last moment.
+heinous | 2 | utterly odious or wicked | The heinous crime shocked even hardened detectives.
+iniquitous | 2 | grossly unfair and morally wrong | The iniquitous law allowed landlords to evict tenants without cause.
+villainous | 3 | wicked or criminal | The villainous landlord cut off the heat in midwinter.
+depraved | 2 | morally corrupt; wicked | The novel's depraved antagonist delights in cruelty.
+execrable | 3 | extremely bad or unpleasant | The restaurant's execrable food drove away even loyal customers.
+> contrast | The novel's narrator appears kindly and devout, but the reader gradually learns that his true intentions are ____. | "Appears kindly and devout, but … true intentions" — the opposite: wicked.
+> continuation | The dictator's ____ schemes included rigged elections, secret prisons, and the murder of rivals. | Rigged elections and murder illustrate wickedness.
+
+= virtuous | adj | having high moral standards | wicked
+virtuous | 3 | having or showing high moral standards | The virtuous hero refuses every bribe offered to him.
+righteous | 3 | morally right or justifiable | She felt a righteous anger at the injustice.
+exemplary | 1 | serving as a desirable model; very good | Her exemplary conduct earned her the respect of the entire staff.
+irreproachable | 2 | beyond criticism; faultless | His irreproachable record made the accusation hard to believe.
+unimpeachable | 2 | not able to be doubted or questioned; entirely trustworthy | The witness was of unimpeachable character.
+> contrast | Although the politician's public image was ____, private letters later revealed a history of bribery and deceit. | "Although … public image … private letters revealed bribery" — the image was of moral excellence.
+> continuation | Her conduct throughout the crisis was ____; not even her opponents could find a single fault in it. | "Not even her opponents could find a fault" restates the blank.
+
+= kind | adj | well-meaning and generous toward others | malevolent
+benevolent | 1 | well meaning and kindly | A benevolent uncle paid for her education.
+beneficent | 3 | generous or doing good | The beneficent foundation built wells in dozens of villages.
+altruistic | 1 | showing selfless concern for the well-being of others | Her altruistic decision to donate a kidney saved a stranger's life.
+compassionate | 3 | feeling or showing sympathy and concern for others | The compassionate nurse sat with the frightened patient all night.
+humane | 2 | having or showing compassion or benevolence | Humane treatment of prisoners is required by international law.
+> contrast | Critics portrayed the industrialist as heartless, yet his private letters reveal a ____ man who quietly supported dozens of families. | "Portrayed as heartless, yet … quietly supported dozens of families" — kind.
+> continuation | The ____ volunteer spent every weekend delivering meals to elderly neighbors who could not leave their homes. | Delivering meals to the elderly shows kindness.
+
+= malevolent | adj | wishing harm to others | kind
+malevolent | 1 | having or showing a wish to do evil to others | The malevolent stepmother plotted against the children.
+malicious | 2 | characterized by malice; intending to do harm | Malicious gossip ruined his reputation.
+spiteful | 3 | showing a desire to hurt or annoy someone | The spiteful note was left on her windshield.
+vindictive | 1 | having a strong desire for revenge | The vindictive manager punished anyone who had opposed his promotion.
+rancorous | 2 | characterized by bitterness or resentment | The rancorous divorce lasted three years.
+malign | 3 | evil in nature or effect (adjective sense) | Critics feared the malign influence of the new advisor.
+> contrast | The villain in the play seems harmless and even charming at first, but his motives prove deeply ____. | "Seems harmless … but his motives prove" — wishing harm.
+> cause | Because she had been passed over for promotion, the ____ clerk deliberately misfiled her rival's reports. | Deliberately sabotaging a rival out of resentment shows a desire to harm.
+
+= hostile | adj | aggressive and eager to fight | peaceable
+belligerent | 1 | hostile and aggressive | The belligerent customer shouted at the cashier.
+bellicose | 1 | demonstrating aggression and willingness to fight | The dictator's bellicose speeches alarmed neighboring countries.
+pugnacious | 1 | eager or quick to argue, quarrel, or fight | The pugnacious boxer taunted every opponent.
+truculent | 2 | eager or quick to argue or fight; aggressively defiant | The truculent teenager answered every question with a challenge.
+combative | 3 | ready or eager to fight; argumentative | The combative senator relished confrontations with reporters.
+contentious | 2 | causing or likely to cause an argument; quarrelsome | Immigration remained a contentious issue in the election.
+> contrast | Although the new ambassador had a reputation for ____ rhetoric, her first speech was conciliatory and warm. | "Although … reputation … her first speech was conciliatory" — her reputation was for aggressive speech.
+> continuation | The ____ neighbor seemed to relish conflict, starting arguments with anyone who walked past his fence. | "Relish conflict … starting arguments" defines the blank.
+
+= peaceable | adj | inclined to avoid conflict; seeking peace | hostile
+pacific | 2 | peaceful in character or intent | The pacific tribe had never waged war on its neighbors.
+conciliatory | 1 | intended to placate or pacify | Her conciliatory gesture ended the long feud.
+irenic | 3 | aiming or aiming at peace | The bishop's irenic letter sought to heal the divided church.
+peaceable | 3 | inclined to avoid conflict | The peaceable villagers settled disputes through discussion.
+placatory | 3 | designed to placate or pacify | He made a placatory offer to pay for the damage.
+> contrast | After weeks of hostile exchanges, the two leaders surprised observers by adopting a ____ tone and proposing talks. | "After weeks of hostile exchanges … surprised … proposing talks" — peace-seeking.
+> continuation | The mediator's ____ approach — listening patiently and seeking common ground — calmed the angry parties. | Listening and seeking common ground aims at peace.
+
+= rude | adj | disrespectful and impolite | courteous
+impertinent | 1 | not showing proper respect; rude | The impertinent student corrected the principal in front of the entire school.
+insolent | 1 | showing a rude and arrogant lack of respect | The insolent reply earned him a week's detention.
+impudent | 2 | not showing due respect; impertinent | The impudent boy stuck out his tongue at the teacher.
+churlish | 2 | rude in a mean-spirited and surly way | It would be churlish to refuse such a generous invitation.
+boorish | 2 | rough and bad-mannered; coarse | His boorish behavior at the dinner embarrassed his hosts.
+brusque | 2 | abrupt or offhand in speech or manner | The doctor's brusque manner upset patients, though her skill was unquestioned.
+> contrast | The new butler was expected to be deferential, but his ____ remarks to the guests shocked the household. | "Expected to be deferential, but … shocked" — the opposite: rude.
+> cause | Because the clerk's reply was so ____, the customer demanded to speak to a manager. | A rude reply leads the customer to complain.
+
+= courteous | adj | polite and respectful | rude
+courteous | 3 | polite, respectful, or considerate | The courteous driver waited while we crossed.
+civil | 2 | courteous and polite (often minimally so) | Although they disliked each other, they remained civil at meetings.
+decorous | 2 | in keeping with good taste and propriety; polite | The decorous guests spoke in hushed voices during the ceremony.
+gracious | 3 | courteous, kind, and pleasant | The gracious host made every guest feel welcome.
+urbane | 1 | suave, courteous, and refined in manner | The urbane diplomat charmed even his adversaries.
+genteel | 3 | polite, refined, or respectable | The genteel tearoom still used silver pots and linen napkins.
+> contrast | Despite his fury at the verdict, the defendant remained ____, even thanking the judge for her patience. | "Despite his fury … even thanking the judge" — polite.
+> continuation | The ____ ambassador was admired for her polished manners and her ability to put everyone at ease. | "Polished manners" restates the blank.
+
+= tactless | adj | lacking sensitivity in dealing with others | tactful
+tactless | 3 | having or showing a lack of adroitness and sensitivity | His tactless joke about her weight silenced the table.
+gauche | 2 | unsophisticated and socially awkward | The gauche young man kept talking about money at the wedding.
+maladroit | 2 | ineffective or bungling; clumsy | The minister's maladroit handling of the crisis cost him his job.
+undiplomatic | 3 | lacking tact in dealing with people | Her undiplomatic remark offended the visiting delegation.
+indiscreet | 2 | having or showing too great a readiness to reveal things | An indiscreet aide leaked the plan to reporters.
+> contrast | The negotiator needed a subtle touch, but his ____ comments about the other side's weakness wrecked the talks. | "Needed a subtle touch, but … wrecked the talks" — lacking sensitivity.
+> cause | Because his remarks at the funeral were so ____, several mourners walked out. | Walking out results from insensitive remarks.
+
+= tactful | adj | skillful in handling delicate situations | tactless
+tactful | 3 | having or showing skill and sensitivity in dealing with others | A tactful friend pointed out the error privately.
+diplomatic | 3 | having an ability to deal with people in a sensitive way | Her diplomatic response calmed both angry parties.
+discreet | 1 | careful and circumspect to avoid causing offense or revealing secrets | The discreet assistant never repeated what she heard in meetings.
+politic | 3 | shrewd and sensible; prudent | It seemed politic to stay silent until the chairman had spoken.
+> contrast | Where her predecessor had bluntly offended donors, the new director was ____, delivering bad news with great care. | "Where … bluntly offended … delivering bad news with great care" — skillful with delicate matters.
+> continuation | The ____ host steered the conversation away from politics whenever tempers began to rise. | Steering away from conflict shows tact.
+
+= skillful | adj | having or showing great skill | clumsy
+adroit | 1 | clever or skillful in using the hands or mind | An adroit negotiator, she secured concessions from both sides.
+deft | 1 | neatly skillful and quick | With a few deft strokes, the artist sketched the scene.
+dexterous | 2 | showing skill, especially with the hands | The dexterous surgeon repaired the tiny blood vessel.
+adept | 1 | very skilled or proficient | She was adept at calming frightened animals.
+proficient | 2 | competent or skilled in doing something | He became proficient in Mandarin after two years in Beijing.
+consummate | 2 | showing a high degree of skill; complete | A consummate professional, he never missed a deadline.
+> contrast | Though he had seemed clumsy in rehearsal, the actor was remarkably ____ on opening night, handling every prop with ease. | "Though … clumsy in rehearsal … handling every prop with ease" — skillful.
+> continuation | The ____ diplomat resolved the dispute in a single afternoon, satisfying all three parties. | Resolving a dispute quickly and satisfying all shows skill.
+
+= clumsy | adj | lacking skill; awkward | skillful
+inept | 1 | having or showing no skill; clumsy | The inept handling of the evacuation caused needless panic.
+bungling | 3 | tending to make many mistakes; incompetent | The bungling burglar left his wallet at the scene.
+ham-fisted | 3 | clumsy; bungling | The ham-fisted attempt at reform alienated everyone.
+awkward | 3 | causing difficulty; lacking grace or skill | His awkward attempts at small talk made the silence worse.
+inexpert | 3 | lacking skill or knowledge in a particular field | The inexpert repairs made the leak worse.
+> contrast | The veteran mechanic fixed the engine in minutes, whereas the apprentice's ____ efforts had only made it worse. | "Whereas … fixed in minutes … only made it worse" — unskilled.
+> cause | Because the government's response to the flood was so ____, thousands of residents were left without shelter for days. | Leaving people without shelter results from incompetence.
+
+= secret | adj | done secretly to avoid notice | overt
+clandestine | 1 | kept secret or done secretively, especially because illicit | The resistance held clandestine meetings in a cellar.
+surreptitious | 1 | kept secret, especially because it would not be approved of | She cast a surreptitious glance at her phone during the lecture.
+covert | 2 | not openly acknowledged or displayed | The agency ran covert operations in several countries.
+furtive | 2 | attempting to avoid notice, typically because of guilt | The thief's furtive movements attracted the guard's attention.
+stealthy | 3 | behaving in a cautious and secretive way | The cat's stealthy approach went unnoticed by the bird.
+> contrast | Although the two companies publicly claimed to be rivals, they had held ____ meetings for years to fix prices. | "Although publicly … rivals … for years to fix prices" — secret meetings.
+> cause | Because such gatherings were forbidden by the regime, the poets had to hold ____ readings in private apartments. | Being forbidden forces secrecy.
+
+= overt | adj | done or shown openly | secret
+overt | 1 | done or shown openly; plainly apparent | There was no overt hostility, but the tension was obvious.
+open | 3 | not concealed or secret | Their dislike for each other was an open secret.
+undisguised | 3 | not concealed; open | She looked at the proposal with undisguised contempt.
+manifest | 1 | clear or obvious to the eye or mind | His relief was manifest in his broad smile.
+unconcealed | 3 | not hidden | The judge made no effort to hide her unconcealed impatience.
+> contrast | The discrimination was not hidden or subtle; it was ____, written directly into the company's hiring rules. | "Not hidden … written directly into the rules" — open.
+> continuation | The minister's contempt for the press was ____: he insulted reporters openly at every briefing. | "Insulted reporters openly" restates the blank.
+
+= deceitful | adj | deliberately misleading; dishonest | candid
+disingenuous | 1 | not candid or sincere; pretending to know less than one does | It was disingenuous of him to claim he had never heard of the plan he had helped write.
+duplicitous | 1 | deceitful; double-dealing | The duplicitous agent sold secrets to both sides.
+mendacious | 1 | not telling the truth; lying | The mendacious report claimed profits where there were only losses.
+deceitful | 3 | guilty of or involving deceit | The deceitful salesman hid the car's accident history.
+perfidious | 2 | deceitful and untrustworthy; treacherous | The perfidious ally switched sides in the middle of the battle.
+> contrast | The spokesperson presented herself as candid and forthcoming, but her statements proved thoroughly ____. | "Presented herself as candid … but … proved" — the opposite: dishonest.
+> cause | Because the company's advertisements were so ____, regulators ordered it to compensate misled customers. | Compensating misled customers follows from dishonest advertising.
+
+= candid | adj | truthful and straightforward; frank | deceitful
+candid | 1 | truthful and straightforward; frank | In a candid interview, she admitted that the project had failed.
+forthright | 2 | direct and outspoken; straightforward | His forthright criticism was unwelcome but accurate.
+frank | 3 | open, honest, and direct | They had a frank discussion about the company's problems.
+outspoken | 3 | frank in stating one's opinions | The outspoken senator criticized her own party's plan.
+veracious | 3 | speaking or representing the truth | The veracious witness never exaggerated her story.
+> contrast | Rather than offering the usual evasions, the minister was refreshingly ____, admitting that the program had been a failure. | "Rather than … evasions … admitting failure" — frank.
+> continuation | The memoir is unusually ____: the author openly discusses her mistakes, her fears, and her failed marriage. | "Openly discusses her mistakes" restates frankness.
+
+= naive | adj | innocent and lacking experience; unsuspecting | cunning
+ingenuous | 1 | innocent and unsuspecting; naive | The ingenuous newcomer believed every promise the salesman made.
+guileless | 2 | devoid of deceit; innocent | Her guileless smile made it impossible to suspect her.
+artless | 2 | without guile or deception; natural | The artless charm of the child won over the grumpy old man.
+credulous | 1 | having too great a readiness to believe things | Credulous readers accepted the fake news without question.
+gullible | 2 | easily persuaded to believe something | The gullible tourist paid twenty dollars for a "genuine" gold watch.
+unsophisticated | 3 | lacking refined worldly knowledge or tastes | The unsophisticated farm boy was dazzled by the city.
+> contrast | Though she seemed ____, trusting everyone she met, she was in fact a shrewd judge of character. | "Though she seemed … trusting everyone … in fact a shrewd judge" — naive.
+> cause | Because the new investors were so ____, they believed the promoter's promise of doubling their money in a month. | Believing an absurd promise shows naivety.
+
+= cunning | adj | skilled at deceiving; crafty | naive
+wily | 1 | skilled at gaining an advantage, especially deceitfully | The wily fox escaped every trap the farmer set.
+crafty | 2 | clever at achieving aims by indirect or deceitful methods | The crafty lawyer found a loophole in the contract.
+guileful | 3 | sly or cunning | The guileful courtier manipulated the young king.
+artful | 2 | clever or skillful, especially in a crafty or cunning way | The artful dodger slipped away before anyone noticed.
+sly | 3 | having a cunning and deceitful nature | The sly merchant charged foreigners double.
+devious | 2 | showing a skillful use of underhanded tactics | His devious plan involved forging his partner's signature.
+> contrast | Beneath his simple, rustic manner, the old trader was ____, and he rarely lost a negotiation. | "Beneath his simple manner … rarely lost a negotiation" — crafty.
+> continuation | The ____ politician manipulated his rivals into fighting each other while he quietly took control of the party. | Manipulating rivals indirectly shows craftiness.
+
+= skeptical | adj | not easily convinced; doubting | naive
+skeptical | 2 | not easily convinced; having doubts | Scientists remained skeptical of the unverified claim.
+incredulous | 1 | unwilling or unable to believe something | She stared, incredulous, as the magician pulled a rabbit from her bag.
+dubious | 2 | hesitating or doubting | I was dubious about the plan's chances.
+distrustful | 3 | feeling or showing distrust | Distrustful of banks, he kept his savings in a mattress.
+> contrast | While the public eagerly embraced the new diet, most nutritionists remained ____, pointing out the absence of any evidence. | "While the public eagerly embraced … pointing out the absence of evidence" — doubtful.
+> cause | Because the company had made false promises before, investors were ____ of its latest projections. | Past false promises produce doubt.

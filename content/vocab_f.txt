@@ -1,0 +1,253 @@
+= alleviate | verb | make less severe | exacerbate
+alleviate | 1 | make suffering or a problem less severe | The new bridge alleviated traffic on the old road.
+mitigate | 1 | make less severe, serious, or painful | Planting trees can mitigate the effects of urban heat.
+assuage | 1 | make an unpleasant feeling less intense | Nothing could assuage her grief after the loss.
+palliate | 2 | make a disease or its symptoms less severe without removing the cause | The medicine palliates the pain but does not cure the illness.
+allay | 1 | diminish or put at rest (fear, suspicion, or worry) | The mayor tried to allay fears about the water supply.
+relieve | 3 | cause pain or distress to become less severe | A cold compress relieved the swelling.
+> contrast | The government's new policy was meant to ____ the housing shortage, but it only drove prices higher. | "Meant to … but it only drove prices higher" — the intended effect was to lessen the problem.
+> continuation | Doctors could do little to cure the disease, but they worked to ____ the patients' suffering with medication and rest. | "Could do little to cure, but … suffering" — to lessen the severity.
+
+= exacerbate | verb | make a problem worse | alleviate
+exacerbate | 1 | make a problem, bad situation, or feeling worse | Cutting the budget further would only exacerbate the crisis.
+aggravate | 2 | make a problem or injury worse | Running on the injured ankle aggravated the sprain.
+compound | 2 | make a problem worse by adding to it | He compounded his error by lying about it.
+intensify | 3 | become or make more intense | The storm intensified as it approached the coast.
+worsen | 3 | make or become worse | The drought worsened the food shortage.
+> contrast | Rather than easing tensions between the two countries, the ambassador's remarks only served to ____ them. | "Rather than easing … only served to" — make worse.
+> continuation | The drought had already damaged the harvest, and the sudden frost further ____ed the farmers' losses. | "Already damaged … further" — made worse.
+
+= placate | verb | make less angry; appease | provoke
+placate | 1 | make someone less angry or hostile | The airline offered free tickets to placate furious passengers.
+mollify | 1 | appease the anger or anxiety of | The manager's apology failed to mollify the customer.
+appease | 2 | pacify or placate by acceding to demands | The king tried to appease the rebels with tax cuts.
+pacify | 2 | quell the anger or agitation of | The mother pacified the crying baby with a song.
+conciliate | 2 | stop someone from being angry; placate | The union leader tried to conciliate both factions.
+propitiate | 3 | win or regain the favor of by doing something pleasing | Ancient farmers offered sacrifices to propitiate the gods.
+> contrast | Instead of trying to ____ the angry protesters, the governor insulted them, and the demonstrations grew larger. | "Instead of trying to … insulted them … grew larger" — the alternative was to calm them.
+> cause | Because the shareholders were furious about the losses, the board offered a generous dividend to ____ them. | A generous dividend is meant to make angry shareholders less angry.
+
+= provoke | verb | stir up anger or a strong reaction | placate
+provoke | 3 | stimulate or give rise to a strong reaction, especially anger | His remarks provoked outrage across the country.
+incite | 1 | encourage or stir up violent or unlawful behavior | The speaker was arrested for inciting a riot.
+foment | 1 | instigate or stir up an undesirable course of action | Agents were sent to foment rebellion in the provinces.
+inflame | 2 | provoke or intensify strong feelings | The verdict inflamed tensions in the city.
+instigate | 2 | bring about or initiate an action or event | The rival faction instigated the strike.
+goad | 2 | provoke or annoy someone to stimulate a reaction | His brother goaded him into a fight.
+> contrast | Far from calming the crowd, the official's dismissive speech seemed designed to ____ it further. | "Far from calming … further" — to stir it up.
+> cause | Because the pamphlets were intended to ____ unrest among the workers, the factory owners had them confiscated. | The owners confiscated pamphlets because they aimed to stir up unrest.
+
+= strengthen | verb | support or strengthen | undermine
+bolster | 1 | support or strengthen | The new evidence bolstered the prosecution's case.
+buttress | 1 | provide support or reinforcement for | She buttressed her argument with statistics from three countries.
+fortify | 2 | strengthen, especially against attack | The city fortified its walls before the siege.
+reinforce | 3 | strengthen or support | The victory reinforced his reputation as a brilliant general.
+shore up | 3 | support or strengthen something weak | The government borrowed heavily to shore up the failing banks.
+> contrast | The new data did not weaken the scientist's hypothesis, as her critics had hoped; instead, it greatly ____ed it. | "Did not weaken … instead" — strengthened.
+> continuation | The lawyer cited three earlier rulings to ____ her argument that the contract was invalid. | Citing rulings supports an argument.
+
+= undermine | verb | weaken gradually or secretly | strengthen
+undermine | 1 | lessen the effectiveness or power of, especially gradually | Constant criticism undermined her confidence.
+subvert | 1 | undermine the power and authority of an established system | The rebels plotted to subvert the government.
+enervate | 1 | cause to feel drained of energy; weaken | The long illness enervated him.
+sap | 2 | gradually weaken or destroy | Months of worry sapped her strength.
+vitiate | 2 | spoil or impair the quality of; make invalid | A single error vitiated the entire experiment.
+erode | 2 | gradually wear away or destroy | Scandal after scandal eroded public trust.
+debilitate | 2 | make someone very weak and infirm | The disease debilitates its victims within months.
+> contrast | Although the reforms were meant to strengthen the central bank, critics argue they actually ____ed its independence. | "Meant to strengthen … actually" — weakened.
+> continuation | Years of drought and neglect had slowly ____ed the farm's productivity until it could no longer support the family. | "Slowly … until it could no longer support" — weakened gradually.
+
+= corroborate | verb | confirm or give support to a claim | refute
+corroborate | 1 | confirm or give support to a statement or theory | Two witnesses corroborated her account of the accident.
+substantiate | 1 | provide evidence to support or prove the truth of | The journalist could not substantiate the rumor.
+validate | 2 | check or prove the validity of | The experiment validated the model's predictions.
+verify | 3 | make sure or demonstrate that something is true | Please verify the address before sending the package.
+vindicate | 1 | clear of blame; show to be right | The new evidence vindicated the scientist who had been ridiculed.
+bear out | 3 | support or confirm | The results bore out the doctor's initial diagnosis.
+> contrast | The historian hoped the newly discovered letters would ____ her theory, but they flatly contradicted it. | "Hoped … but they flatly contradicted it" — to confirm.
+> continuation | Security footage and phone records both ____ed the suspect's alibi, and the police released him. | Released because evidence confirmed the alibi.
+
+= refute | verb | prove a statement to be false | corroborate
+refute | 1 | prove a statement or theory to be wrong | The data refute the claim that the drug is safe.
+rebut | 2 | claim or prove that evidence is false | The defense rebutted each point of the prosecution's case.
+disprove | 3 | prove that something is false | The experiment disproved the long-held theory.
+controvert | 3 | deny the truth of; argue against | No one could controvert her evidence.
+debunk | 2 | expose the falseness of a myth or idea | The documentary debunked several popular diet myths.
+belie | 1 | fail to give a true impression of; show to be false | His calm manner belied his panic.
+> contrast | The company's defenders offered data meant to ____ the accusations, but independent analysts found the data consistent with the charges. | "Meant to … but … consistent with the charges" — to prove the accusations false.
+> continuation | The new study directly ____s the old theory, showing that its central prediction was simply wrong. | "Showing that its central prediction was wrong" — proved false.
+
+= challenge | verb | dispute the truth or validity of | corroborate
+impugn | 1 | dispute the truth, validity, or honesty of | The lawyer impugned the witness's credibility.
+gainsay | 2 | deny or contradict | No one could gainsay the importance of her discovery.
+dispute | 3 | question whether a statement is true | Scientists dispute the accuracy of the ancient records.
+contest | 3 | oppose an action or claim as mistaken | The heirs contested the will.
+call into question | 3 | raise doubts about | The new findings call into question the entire theory.
+> contrast | Although no one could ____ the accuracy of her figures, several critics objected to the conclusions she drew from them. | "Although no one could … the accuracy … objected to the conclusions" — dispute.
+> continuation | The defense attorney tried to ____ the witness's honesty, pointing out that he had lied under oath before. | Pointing out past lies disputes his honesty.
+
+= advocate | verb | publicly support | oppose
+advocate | 2 | publicly recommend or support | She advocates stricter controls on pollution.
+champion | 2 | vigorously support or defend | He championed the rights of migrant workers.
+espouse | 1 | adopt or support a cause, belief, or way of life | The party espouses free trade.
+endorse | 2 | declare one's public approval or support of | The newspaper endorsed the challenger.
+uphold | 3 | confirm or support something questioned | The court upheld the lower court's ruling.
+> contrast | Although he once opposed the measure, the senator now ____s it enthusiastically, giving speeches in its favor across the state. | "Although he once opposed … now … giving speeches in its favor" — supports.
+> continuation | The foundation has long ____ed public education, funding schools and lobbying for teachers' salaries. | Funding schools and lobbying shows support.
+
+= renounce | verb | formally give up or reject a belief or claim | espouse
+renounce | 2 | formally declare one's abandonment of a claim or belief | He renounced his claim to the throne.
+repudiate | 1 | refuse to accept or be associated with | The party repudiated the extremist candidate.
+recant | 1 | withdraw a statement or belief publicly | Under pressure, the scientist recanted his controversial theory.
+abjure | 2 | solemnly renounce a belief or cause | The prisoner was forced to abjure his faith.
+retract | 2 | withdraw a statement or accusation as untrue | The newspaper retracted the false story.
+disavow | 2 | deny any responsibility or support for | The agency disavowed any knowledge of the operation.
+> contrast | Although he had defended the theory for decades, the elderly scientist finally ____ed it in a brief public statement. | "Defended for decades … finally" — publicly gave it up.
+> cause | Faced with overwhelming evidence that the study was fraudulent, the journal was forced to ____ it. | Fraud forces withdrawal.
+
+= avoid | verb | deliberately avoid or keep away from | embrace
+eschew | 1 | deliberately avoid using; abstain from | The poet eschewed rhyme in favor of free verse.
+shun | 2 | persistently avoid, ignore, or reject | After the scandal, his former friends shunned him.
+spurn | 2 | reject with disdain or contempt | She spurned every offer of help.
+forgo | 2 | go without something desirable | He forwent his vacation to finish the project.
+> contrast | Although the chef was trained in elaborate French techniques, she ____ed them in her own restaurant, preferring simple preparations. | "Although trained … preferring simple preparations" — deliberately avoided them.
+> continuation | Committed to living simply, the monks ____ed all luxuries, sleeping on straw and eating plain bread. | Sleeping on straw and eating plain bread — they avoided luxuries.
+
+= hinder | verb | make difficult; obstruct | facilitate
+hinder | 2 | create difficulties resulting in delay or obstruction | Heavy snow hindered the rescue effort.
+impede | 1 | delay or prevent by obstructing | Fallen trees impeded traffic on the highway.
+hamper | 2 | hinder or impede the movement or progress of | Lack of funding hampered the research.
+obstruct | 3 | block; be in the way of | A parked truck obstructed the fire lane.
+stymie | 2 | prevent or hinder the progress of | Bureaucratic delays stymied the project for years.
+thwart | 1 | prevent someone from accomplishing something | The guard thwarted the robbery.
+> contrast | The new regulations were supposed to speed up construction, but in practice they ____ed it with endless paperwork. | "Supposed to speed up … but … endless paperwork" — slowed it down.
+> continuation | Heavy rain and washed-out roads ____ed the rescue teams, delaying their arrival by two days. | "Delaying their arrival" — hindered.
+
+= facilitate | verb | make easier | hinder
+facilitate | 1 | make an action or process easier | The new software facilitates communication between departments.
+expedite | 1 | make an action or process happen sooner | Paying an extra fee will expedite your passport application.
+further | 3 | help the progress or development of | She joined the committee to further her career.
+foster | 1 | encourage the development of | The program fosters cooperation between schools.
+promote | 3 | support or actively encourage | The campaign promotes healthy eating.
+> contrast | Far from slowing the negotiations, the translator's presence ____ed them, allowing both sides to speak freely. | "Far from slowing … allowing both sides to speak freely" — made easier.
+> cause | Because the new highway ____ed travel between the two cities, commerce between them tripled. | Commerce tripled because travel became easier.
+
+= deter | verb | discourage from acting | encourage
+deter | 2 | discourage someone from doing something by instilling doubt or fear | High fines deter littering.
+dissuade | 1 | persuade someone not to take a course of action | Her friends tried to dissuade her from quitting.
+discourage | 3 | prevent or try to prevent by showing disapproval | The sign discouraged visitors from feeding the animals.
+daunt | 2 | make someone feel intimidated or apprehensive | The size of the task daunted even experienced volunteers.
+dishearten | 3 | cause someone to lose determination or confidence | The early losses disheartened the team.
+> contrast | The warnings about the dangerous trail did not ____ the hikers; if anything, they made the climb more appealing. | "Did not … if anything, made it more appealing" — discourage.
+> cause | The new security cameras were installed to ____ vandals, who had damaged the park repeatedly. | Cameras are installed to discourage vandals.
+
+= suppress | verb | forcibly put an end to; hold back | foment
+quell | 1 | put an end to a rebellion or disorder, typically by force | Troops were sent to quell the riot.
+suppress | 3 | forcibly put an end to; prevent from being expressed | The regime suppressed all dissent.
+quash | 2 | reject or void; suppress | The court quashed the conviction.
+squelch | 2 | forcefully silence or suppress | The editor squelched the rumor before it spread.
+stifle | 2 | restrain a reaction; prevent from happening | She stifled a yawn during the long speech.
+repress | 2 | subdue by force; restrain | He repressed the urge to laugh.
+> contrast | The government hoped that arresting the leaders would ____ the protests, but the arrests only drew more people into the streets. | "Hoped … would … but … drew more people" — put an end to.
+> continuation | Censors worked to ____ any criticism of the regime, banning newspapers and jailing writers. | Banning newspapers and jailing writers suppresses criticism.
+
+= increase | verb | grow or increase rapidly | dwindle
+proliferate | 1 | increase rapidly in number | Coffee shops proliferated across the city in the 1990s.
+burgeon | 1 | begin to grow or increase rapidly; flourish | The town's population burgeoned after the railway arrived.
+mushroom | 3 | increase, spread, or develop rapidly | The small protest mushroomed into a national movement.
+snowball | 3 | increase rapidly in size or intensity | The debt snowballed as interest accumulated.
+> contrast | Although the number of bookstores has declined, independent publishers have ____ed in recent years, with hundreds of new presses founded. | "Although … declined … hundreds of new presses founded" — increased rapidly.
+> continuation | After the gold discovery, mining camps ____ed throughout the valley, and the population grew tenfold. | Population grew tenfold as camps multiplied rapidly.
+
+= dwindle | verb | gradually decrease | increase
+dwindle | 1 | diminish gradually in size, amount, or strength | Their savings dwindled during the long strike.
+wane | 1 | decrease in vigor, power, or extent | Interest in the show waned after the second season.
+abate | 1 | become less intense or widespread | The storm abated by morning.
+subside | 2 | become less intense, violent, or severe | The swelling subsided after a few days.
+ebb | 2 | gradually lessen or reduce | His enthusiasm ebbed as the problems mounted.
+diminish | 3 | make or become less | The medicine diminished the pain.
+> contrast | The candidate's support, which had been strong in the spring, steadily ____ed over the summer as scandals emerged. | "Strong in the spring … steadily … as scandals emerged" — decreased.
+> continuation | As the drought continued, the river slowly ____ed until it was barely a trickle. | "Barely a trickle" — gradually decreased.
+
+= shorten | verb | cut short or reduce | prolong
+curtail | 1 | reduce in extent or quantity; cut short | The school curtailed its sports program to save money.
+truncate | 2 | shorten by cutting off the top or end | The broadcast was truncated to make room for the news.
+cut short | 3 | end something before its natural end | Rain cut short the outdoor concert.
+> contrast | Rather than extending the festival as organizers had hoped, the storm forced them to ____ it by two days. | "Rather than extending … by two days" — cut short.
+> cause | Because the budget had been cut in half, the museum had to ____ its opening hours. | A budget cut forces a reduction of hours.
+
+= prolong | verb | extend in duration | shorten
+prolong | 2 | extend the duration of | Treatment prolonged the patient's life by several years.
+protract | 2 | prolong; lengthen | The lawyers protracted the case with endless motions.
+extend | 3 | make larger or longer in space or time | The library extended its hours during exams.
+draw out | 3 | make something last longer | The director drew out the final scene for maximum suspense.
+> contrast | Instead of ending the dispute quickly, the lawyers' endless motions only ____ed it for another three years. | "Instead of ending … quickly … for another three years" — lengthened.
+> continuation | The committee's refusal to set a deadline ____ed the negotiations indefinitely. | "Indefinitely" — lengthened.
+
+= exaggerate | verb | represent as greater than it is | understate
+exaggerate | 3 | represent as larger, better, or worse than it really is | He exaggerated the size of the fish he caught.
+embellish | 1 | make a story more interesting by adding details, often untrue | The old sailor embellished his tales with sea monsters.
+overstate | 2 | express or state too strongly | The report overstated the risks of the new drug.
+inflate | 3 | increase by a large or excessive amount; exaggerate | The company inflated its sales figures.
+embroider | 2 | add fictitious details to a story | She embroidered the account of her adventure to impress her friends.
+> contrast | The reporter was accused of ____ing the dangers of the expedition, though the other climbers insisted her account was accurate. | "Accused … though … insisted her account was accurate" — making it seem greater than it was. (-ing form)
+> continuation | The salesman tended to ____ the benefits of every product, claiming that an ordinary vacuum would change our lives. | "Claiming … would change our lives" — represented as greater.
+
+= understate | verb | represent as less than it is | exaggerate
+understate | 2 | describe or represent as smaller or less important than it really is | The official report understated the number of casualties.
+downplay | 2 | make something appear less important than it really is | The minister downplayed the severity of the crisis.
+minimize | 3 | represent as less important than it really is | Don't minimize the risks involved.
+trivialize | 2 | make something seem less important than it really is | The comedian was accused of trivializing a serious illness.
+play down | 3 | represent as less important | The team played down its chances before the tournament.
+> contrast | Rather than acknowledging the seriousness of the outbreak, officials tried to ____ it, describing it as a minor inconvenience. | "Rather than acknowledging the seriousness … minor inconvenience" — make it seem less important.
+> cause | Because the company feared a panic among investors, it chose to ____ the extent of its losses in public statements. | Fear of panic motivates making losses seem smaller.
+
+= abolish | verb | formally put an end to (a law or agreement) | enact
+abrogate | 1 | repeal or do away with a law, right, or agreement | The new government abrogated the treaty.
+rescind | 1 | revoke, cancel, or repeal a law, order, or agreement | The company rescinded its job offer after the background check.
+revoke | 2 | officially cancel a decree or decision | His license was revoked after the accident.
+repeal | 2 | revoke or annul a law | Congress repealed the unpopular tax.
+annul | 2 | declare invalid | The marriage was annulled after a month.
+nullify | 2 | make legally null and void; invalidate | The court nullified the election results.
+> contrast | The legislature passed the tax in the spring, but public outrage forced it to ____ the measure only a few months later. | "Passed … but … forced it to … a few months later" — cancel it.
+> cause | Because the treaty had been signed under duress, the new government moved to ____ it. | Signing under duress justifies canceling.
+
+= enact | verb | make into law; formally approve | abolish
+enact | 2 | make a bill into law | Parliament enacted new privacy protections.
+ratify | 1 | sign or give formal consent to, making it officially valid | Three-quarters of the states must ratify an amendment.
+sanction | 2 | give official permission or approval for | The council sanctioned the use of the park for the festival.
+codify | 2 | arrange laws or rules into a systematic code | The rules of the game were codified in 1863.
+promulgate | 2 | make known by open declaration; put a law into effect | The new regulations were promulgated in the official gazette.
+> contrast | Although the treaty was signed by the diplomats, the senate refused to ____ it, so it never took effect. | "Signed … refused to … so it never took effect" — formally approve.
+> continuation | After years of debate, the legislature finally voted to ____ the bill. | "Finally voted … after years of debate" — formally approve it.
+
+= exonerate | verb | clear from blame | incriminate
+exonerate | 1 | absolve someone from blame for a fault or wrongdoing | DNA evidence exonerated the man after twenty years in prison.
+absolve | 2 | set or declare someone free from blame or guilt | The inquiry absolved the pilot of responsibility.
+exculpate | 2 | show or declare that someone is not guilty | New testimony exculpated the accused teacher.
+clear | 3 | show or declare someone to be innocent | The investigation cleared the mayor of wrongdoing.
+> contrast | Rather than implicating the accountant, as prosecutors had hoped, the documents ____ed her completely. | "Rather than implicating" — the opposite: cleared of blame.
+> cause | Because the security footage showed him miles away at the time of the crime, the evidence ____ed the suspect. | Footage showing him elsewhere clears him.
+
+= incriminate | verb | make someone appear guilty | exonerate
+incriminate | 2 | make someone appear guilty of a crime | Letters found in his desk incriminated him in the fraud.
+inculpate | 3 | accuse or blame | The report inculpated three senior officials.
+implicate | 2 | show someone to be involved in a crime | The testimony implicated the mayor in the bribery scheme.
+> contrast | The defendant believed the emails would prove his innocence, but instead they ____ed him further. | "Believed … would prove his innocence, but instead" — made him look guilty.
+> continuation | Fingerprints on the weapon and a witness's testimony both ____ed the suspect. | Fingerprints and testimony make him appear guilty.
+
+= condense | verb | shorten a text while keeping its meaning | prolong
+abridge | 2 | shorten a book or text without losing the sense | The abridged edition omits the lengthy appendices.
+abbreviate | 3 | shorten a word, phrase, or text | The committee abbreviated its report for the press.
+condense | 3 | express in fewer words; concentrate | She condensed the three-hour lecture into a one-page summary.
+digest | 3 | arrange or summarize methodically (verb); a summary (noun) | The clerk digested the long debate into a two-page record.
+> contrast | Although the original manuscript ran to two thousand pages, the publisher insisted that the author ____ it to a single volume. | "Although … two thousand pages … a single volume" — shorten the text.
+> continuation | For the children's edition, the editors ____ed each chapter, keeping the plot but cutting the long descriptions. | "Keeping the plot but cutting" — shortened the text.
+
+= misc-verb | verb | - | -
+acquit | 2 | free someone from a criminal charge by a verdict of not guilty | The jury acquitted her of all charges.
+indict | 2 | formally accuse of or charge with a serious crime | The grand jury indicted the executives on fraud charges.
+impeach | 3 | charge a public official with misconduct; call into question | The House voted to impeach the judge.
+abstain | 2 | restrain oneself from doing or enjoying something | Several members abstained from the vote.
+escalate | 2 | increase rapidly; become more intense | The dispute escalated into a full-scale trade war.
+elongate | 3 | make something longer | The artist elongated the figures to make them look elegant.

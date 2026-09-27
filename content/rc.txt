@@ -1,0 +1,413 @@
+# Reading Comprehension passages (original, written in GRE style).
+#   ### id | kind (long | short | argument) | topic
+#   passage paragraphs (blank line separates paragraphs)
+#   ?? mc | question        (one answer; mark correct with *)
+#   ?? ma | question        (select all that apply; mark each correct with *)
+#   ?? sel | question       (select the sentence; line "* N" gives the correct sentence number, 1-based, counting sentences in the whole passage)
+#   !! explanation
+
+### coral | short | Biology
+For decades, marine biologists assumed that coral bleaching—the loss of the symbiotic algae that give reef-building corals both their color and most of their food—was invariably fatal to the coral. Recent observations complicate this view. On several Pacific reefs, corals that bleached during unusually warm summers recovered within months, reacquiring algae from the surrounding water. Intriguingly, many of the recovered colonies hosted a different algal species than before, one more tolerant of heat. Some researchers therefore suggest that bleaching, though stressful, may sometimes function as an adaptive mechanism, allowing corals to exchange their partners for ones better suited to a warming ocean. Skeptics counter that such exchanges are rare and that the capacity to recover is quickly exhausted if bleaching events recur every year or two.
+
+?? mc | The primary purpose of the passage is to
+- argue that coral bleaching poses no real threat to reef ecosystems
+* present a finding that challenges an established assumption and note a reservation about its significance
+- explain the biochemical process by which corals acquire symbiotic algae
+- compare the heat tolerance of Pacific corals with that of corals elsewhere
+- criticize marine biologists for failing to study coral recovery
+!! The passage opens with the old assumption (bleaching is always fatal), presents observations that "complicate this view" (recovery, new heat-tolerant algae), and ends with skeptics' reservations. Choice A overstates; C, D and E describe things the passage never does.
+
+?? ma | Which of the following can be inferred from the passage about the recovered corals described in the passage? (Select all that apply.)
+* They obtained algae from outside their own tissues after bleaching.
+* At least some of them were better equipped to withstand high temperatures after recovery than before.
+- They will be able to recover from bleaching no matter how often it recurs.
+!! "Reacquiring algae from the surrounding water" supports the first choice. The new algal species was "more tolerant of heat," supporting the second. The third contradicts the skeptics' point that the capacity to recover "is quickly exhausted" if bleaching recurs, and nothing in the passage supports it.
+
+?? sel | Select the sentence in which the author presents a possible benefit of a phenomenon usually regarded as harmful.
+* 5
+!! Sentence 5 ("Some researchers therefore suggest that bleaching … may sometimes function as an adaptive mechanism…") recasts bleaching, usually seen as harmful, as potentially adaptive.
+
+### printing | long | History
+Historians have long credited the printing press with the rapid spread of the Protestant Reformation, and the correlation is undeniable: Luther's pamphlets were printed in the hundreds of thousands, and regions with presses converted to Protestantism earlier than regions without them. Yet correlation alone cannot establish that print caused religious change. Printing presses clustered in commercial cities, which were also centers of literacy, trade, and resentment of ecclesiastical taxes—conditions that might independently have favored reform.
+
+A recent study attempts to disentangle these factors by examining towns that acquired presses for reasons unrelated to their economic importance—for example, because a printer happened to settle there after fleeing a plague elsewhere. If such towns, otherwise similar to their neighbors, adopted Protestantism more quickly, the case that print itself mattered would be considerably strengthened. The study finds precisely this pattern, though the effect is smaller than traditional accounts imply. Print, the authors conclude, accelerated the Reformation without being its sole or even its principal engine.
+
+?? mc | The author mentions "resentment of ecclesiastical taxes" primarily in order to
+- explain why printers preferred to settle in commercial cities
+* identify a possible alternative explanation for the association between printing and Protestantism
+- argue that economic grievances were the principal cause of the Reformation
+- show that historians have overestimated literacy rates in commercial cities
+- suggest that Luther's pamphlets focused mainly on taxation
+!! The phrase appears in a list of conditions in commercial cities "that might independently have favored reform." It offers an alternative explanation (a confounding factor) for the correlation, not a claim that it was the principal cause.
+
+?? mc | The study described in the second paragraph is designed chiefly to
+- measure how many pamphlets were printed in each town
+- determine why printers fled plague-stricken regions
+* isolate the effect of printing from the effects of other characteristics of the towns that had presses
+- demonstrate that commercial cities were more literate than other towns
+- prove that the Reformation would not have occurred without printing
+!! By choosing towns that got presses "for reasons unrelated to their economic importance," the study separates the effect of printing from the confounders listed in paragraph 1. E overstates the conclusion ("without being its sole or even its principal engine").
+
+?? mc | Which of the following best describes the author's view of the traditional account of the Reformation mentioned in the passage?
+- It is entirely mistaken, since printing had no measurable effect.
+- It is correct in every important respect.
+* It correctly identifies a real influence but exaggerates its importance.
+- It cannot be evaluated with the historical evidence available.
+- It underestimates the role of printing in spreading Protestantism.
+!! The study finds that print mattered, "though the effect is smaller than traditional accounts imply." So the traditional view is right about the direction but overstates the size.
+
+?? ma | According to the passage, which of the following characterized commercial cities during the period discussed? (Select all that apply.)
+* They tended to have printing presses.
+* They were centers of literacy.
+- They adopted Protestantism more slowly than other towns.
+!! Presses "clustered in commercial cities," which were "centers of literacy, trade, and resentment…". The passage says regions with presses converted earlier, the opposite of the third choice.
+
+### urban-heat | short | Environmental science
+City planners have embraced tree planting as an inexpensive way to cool neighborhoods during heat waves, and the physics is straightforward: leaves shade pavement and release water vapor that absorbs heat. Less obvious is the question of where trees should go. A tree in a park surrounded by grass lowers nearby temperatures only slightly, because grass already stays relatively cool. The same tree planted beside a parking lot, where asphalt can exceed the air temperature by thirty degrees, produces a far larger effect. Planners who measure success by the number of trees planted, rather than by where they are planted, may therefore achieve much less cooling than their budgets would suggest.
+
+?? mc | The passage suggests that a city that planted most of its new trees in existing parks would most likely
+- achieve greater cooling than a city that planted trees near parking lots
+* obtain less cooling per tree than it could have obtained elsewhere
+- reduce the temperature of its asphalt surfaces substantially
+- have spent more money per tree than other cities
+- discover that trees do not release water vapor in grassy areas
+!! A tree in a grassy park "lowers nearby temperatures only slightly," whereas one beside asphalt has "a far larger effect." So park-heavy planting gives less cooling per tree.
+
+?? mc | The author would most likely agree that a useful measure of a tree-planting program's success is
+- the total number of trees planted
+- the amount of money spent on the program
+* the reduction in temperature the trees produce
+- the number of parks in which trees are planted
+- the variety of tree species planted
+!! The last sentence criticizes measuring success "by the number of trees planted, rather than by where they are planted"; what actually matters is the cooling achieved.
+
+### jazz | long | Music
+Early jazz recordings present historians with a peculiar difficulty. Because the acoustic recording technology of the 1910s and early 1920s captured some instruments far better than others, bands arranged themselves not as they did on the bandstand but as the recording horn demanded: drummers were often reduced to woodblocks and cymbals, and string basses were replaced by tubas whose sound carried more reliably. Listeners today who treat these records as faithful documents of how jazz sounded in dance halls risk mistaking a technological compromise for an aesthetic choice.
+
+Some scholars go further, arguing that the records shaped the music they claimed only to preserve. Young musicians in towns far from New Orleans or Chicago learned jazz chiefly from records; if the records minimized the drums, the argument runs, a generation of imitators may have played with lighter rhythm sections than their models ever had. This hypothesis is difficult to test, but it is supported by the observation that bands formed in remote areas during the 1920s were more likely than urban bands to employ tubas long after electrical recording had made the string bass practical to record.
+
+?? mc | The passage is primarily concerned with
+- tracing the development of jazz from New Orleans to Chicago
+- arguing that acoustic recording technology improved jazz performances
+* discussing ways in which early recording technology may distort, and may even have influenced, the history of jazz
+- comparing the musical abilities of urban and rural jazz musicians
+- explaining why the tuba was superior to the string bass in early jazz
+!! Paragraph 1: recordings distort how jazz sounded. Paragraph 2: records may have shaped the music itself. C covers both; the others are too narrow or not stated.
+
+?? mc | The "observation" mentioned in the last sentence is relevant to the hypothesis because it
+- proves that rural musicians preferred tubas for aesthetic reasons
+* is consistent with the idea that musicians who learned from records imitated features produced by recording limitations
+- shows that electrical recording was unavailable in remote areas
+- demonstrates that urban bands never used tubas
+- suggests that the string bass was invented after 1920
+!! Rural bands learned from records, which featured tubas because of recording limits; their lingering use of tubas fits (supports) the hypothesis. It doesn't "prove" it — the author calls the hypothesis "difficult to test."
+
+?? sel | Select the sentence that warns against a particular misinterpretation of early jazz recordings.
+* 3
+!! Sentence 3: "Listeners today who treat these records as faithful documents … risk mistaking a technological compromise for an aesthetic choice."
+
+?? mc | In the context in which it appears, "faithful" most nearly means
+- loyal
+- devout
+* accurate
+- hopeful
+- permanent
+!! A "faithful document" of how jazz sounded is an accurate one. "Loyal" and "devout" are other senses of faithful that don't fit the context.
+
+### bees | short | Ecology
+Because honeybees are managed by beekeepers and are easy to count, they have dominated public discussion of pollinator decline. Yet for many wild plants, and for several important crops, wild bees are the more effective pollinators. Blueberry flowers, for example, release pollen only when vibrated at a particular frequency, a behavior that bumblebees perform and honeybees do not. Policies designed to protect pollination by increasing the number of managed honeybee hives may therefore do little for such plants, and may even harm them if honeybees compete with wild bees for limited nectar.
+
+?? mc | The author mentions blueberry flowers in order to
+- show that honeybees are declining faster than wild bees
+* illustrate that some plants depend on pollinators other than honeybees
+- argue that blueberries should not be grown commercially
+- explain why honeybees are easy to count
+- demonstrate that bumblebees compete with honeybees for nectar
+!! The example supports the claim that "for many wild plants, and for several important crops, wild bees are the more effective pollinators."
+
+?? ma | The passage suggests which of the following about policies that increase managed honeybee hives? (Select all that apply.)
+* They might fail to improve pollination for certain plants.
+* They could have negative effects on wild bee populations.
+- They are the most effective way to protect blueberry crops.
+!! "May therefore do little for such plants" supports the first; "may even harm them if honeybees compete with wild bees" supports the second. The third contradicts the blueberry example.
+
+### novel-letters | long | Literature
+The epistolary novel, told entirely through letters, flourished in eighteenth-century Europe and then declined so sharply that by the mid-nineteenth century it seemed a curiosity. Critics have usually explained this decline in formal terms: letters, they argue, are an awkward vehicle for narrative, forcing authors into contrivances—characters who write long letters in the midst of crises, or who describe events their correspondents had witnessed—that readers came to find absurd.
+
+This explanation is plausible but incomplete. It does not account for the form's initial popularity, when its awkwardness was presumably no less apparent. A more satisfying account would consider the changing status of letters themselves. In the eighteenth century, letter writing was a prized accomplishment, and readers valued epistolary novels partly as models of elegant correspondence. As postal systems expanded and letters became cheaper and more routine, that prestige faded, and with it one of the form's chief attractions.
+
+?? mc | The author's main purpose in the passage is to
+- defend the epistolary novel against its critics
+* supplement a standard explanation of a literary development with an additional factor
+- argue that eighteenth-century readers were less sophisticated than later readers
+- describe the formal features that distinguish epistolary novels from other novels
+- trace the history of postal systems in Europe
+!! The author calls the formal explanation "plausible but incomplete" and adds a second factor: the changing status of letter writing.
+
+?? mc | The author's objection to the critics' explanation is that it
+- misdescribes the contrivances found in epistolary novels
+- relies on evidence from the nineteenth century only
+* fails to explain why the form was once popular despite its apparent flaws
+- ignores the influence of individual authors
+- exaggerates the prestige of letter writing
+!! "It does not account for the form's initial popularity, when its awkwardness was presumably no less apparent."
+
+?? mc | Which of the following, if true, would most strengthen the author's explanation?
+- Some nineteenth-century novelists continued to write epistolary novels.
+* Eighteenth-century letter-writing manuals often recommended epistolary novels as examples of good style.
+- Many eighteenth-century readers complained about the length of letters in novels.
+- Postal rates in the eighteenth century were higher in some countries than in others.
+- Epistolary novels were more often written by women than by men.
+!! The author claims that readers valued epistolary novels "as models of elegant correspondence." Evidence that letter-writing manuals recommended them as style models directly supports that claim.
+
+?? sel | Select the sentence in which the author describes a cause of the decline in the prestige of letter writing.
+* 7
+!! Sentence 7: "As postal systems expanded and letters became cheaper and more routine, that prestige faded…"
+
+### argument-1 | argument | Critical reasoning
+In the year after the city installed brighter streetlights on Elm Avenue, reported burglaries on the street fell by 30 percent. The city council concludes that brighter streetlights deter burglars and plans to install them throughout the city.
+
+?? mc | Which of the following, if true, most seriously weakens the council's conclusion?
+- Elm Avenue had more burglaries than most other streets before the lights were installed.
+* During the same year, reported burglaries fell by 30 percent across the entire city, including streets without new lights.
+- Brighter streetlights cost more to operate than the old streetlights.
+- Some residents of Elm Avenue complained that the new lights kept them awake.
+- Burglaries in the city usually occur at night.
+!! If burglaries fell by the same amount everywhere, the drop on Elm Avenue is explained by a citywide cause, not the lights. This attacks the causal link directly. E, if anything, supports the council.
+
+### argument-2 | argument | Critical reasoning
+Students who take the optional test-preparation course score, on average, 80 points higher on the entrance exam than students who do not. Therefore, the course substantially improves students' scores.
+
+?? mc | The argument is most vulnerable to the criticism that it
+- relies on an average rather than on individual scores
+* overlooks the possibility that students who choose to take the course differ in other relevant ways from those who do not
+- assumes that the entrance exam measures intelligence
+- fails to state how much the course costs
+- ignores the possibility that some students take the exam more than once
+!! Self-selection: motivated or well-prepared students may be the ones who choose the course, and that alone could explain the higher scores. Classic correlation ≠ causation.
+
+### argument-3 | argument | Critical reasoning
+A recent survey found that people who drink green tea daily report fewer colds than people who do not. Health officials argue that encouraging green-tea drinking would reduce the incidence of colds in the population.
+
+?? mc | Which of the following, if true, most strengthens the officials' argument?
+- Green tea is more expensive than many other beverages.
+- People who drink green tea daily tend to exercise more than those who do not.
+* In a controlled experiment, randomly selected participants assigned to drink green tea daily caught fewer colds than participants assigned to drink water.
+- Many people who drink green tea also take vitamin supplements.
+- Some people dislike the taste of green tea.
+!! Random assignment removes self-selection, so C supports a causal effect of the tea. B and D suggest alternative explanations, which weaken the argument.
+
+### argument-4 | argument | Critical reasoning
+Sales of electric bicycles in Rivertown doubled last year. Clearly, Rivertown residents have become more concerned about the environment.
+
+?? mc | Which of the following is an assumption on which the argument depends?
+- Electric bicycles are less expensive than cars.
+- Environmental concern has increased in most towns.
+* The increase in sales was not due mainly to factors unrelated to environmental concern, such as a new subsidy or longer commutes.
+- Most residents who bought electric bicycles previously owned cars.
+- Electric bicycles produce no pollution.
+!! The conclusion leaps from sales to motive. It must assume that no other cause (price drop, subsidy, traffic) explains the doubling. Negate C and the argument collapses.
+
+### argument-5 | argument | Critical reasoning
+Company X's profits rose after it moved its headquarters to a smaller building with lower rent. The chief financial officer concludes that the lower rent was responsible for the increase in profits.
+
+?? ma | Which of the following, if true, would cast doubt on the chief financial officer's conclusion? (Select all that apply.)
+* The savings on rent amounted to less than one percent of the increase in profits.
+* During the same period, Company X launched a highly successful new product.
+- The new headquarters is located closer to most employees' homes.
+!! If rent savings were tiny compared with the profit rise, they can't explain it. A successful new product is an alternative cause. The third choice is irrelevant to profits.
+
+### argument-6 | argument | Critical reasoning
+Although the new highway was supposed to reduce traffic congestion downtown, commute times into the city have increased since it opened. Therefore, the highway has made congestion worse.
+
+?? mc | Which of the following, if true, best explains the increase in commute times without supporting the conclusion that the highway worsened congestion?
+* The city's population grew by 25 percent in the same period, and most new residents commute downtown.
+- The highway has fewer lanes than originally planned.
+- Some commuters avoid the highway because of its tolls.
+- Commute times on the highway itself are longer than expected.
+- The highway was completed ahead of schedule.
+!! A large population increase would raise commute times regardless of the highway, and without the highway things might have been even worse.
+
+### memory | long | Psychology
+When people recall an event repeatedly, their memories do not simply grow stronger; they also change. Each act of recollection, psychologists now believe, temporarily renders a memory malleable, so that details suggested during recall—by a questioner, by a photograph, or by the rememberer's own later knowledge—can be incorporated and then stored as though they had been part of the original experience. This process, called reconsolidation, helps explain why eyewitnesses who have been interviewed several times often express more confidence in their accounts even as those accounts become less accurate.
+
+The finding has troubling implications for the legal system, which has traditionally treated a witness's confidence as evidence of reliability. Some researchers therefore recommend that only a witness's first account be given significant weight, since later accounts may be contaminated by the very interviews meant to preserve them. Others caution that first accounts, often given under stress, have limitations of their own, and that no simple rule can substitute for careful attention to how each account was obtained.
+
+?? mc | According to the passage, reconsolidation helps explain which of the following?
+- Why stressful events are remembered more vividly than ordinary events
+* Why repeated interviews may increase a witness's confidence while reducing accuracy
+- Why photographs are more reliable than verbal accounts
+- Why memories fade over time
+- Why the legal system disregards eyewitness testimony
+!! "This process … helps explain why eyewitnesses who have been interviewed several times often express more confidence … even as those accounts become less accurate."
+
+?? mc | The "others" mentioned in the last sentence would most likely agree with which of the following?
+- A witness's first account should always be disregarded.
+- A witness's confidence is a reliable indicator of accuracy.
+* Evaluating testimony requires considering the circumstances under which it was given.
+- Repeated interviews improve the accuracy of testimony.
+- Reconsolidation does not occur in stressful situations.
+!! They caution that "no simple rule can substitute for careful attention to how each account was obtained."
+
+?? ma | It can be inferred from the passage that the legal system's traditional practice regarding witness confidence (Select all that apply.)
+* may lead courts to place too much trust in testimony that has been repeated many times
+* rests on an assumption that the research on reconsolidation calls into question
+- has been abandoned by most courts in light of recent research
+!! The system "has traditionally treated a witness's confidence as evidence of reliability," but confidence can rise as accuracy falls. The passage never says courts abandoned the practice.
+
+### tariffs | short | Economics
+Economists generally agree that tariffs raise prices for consumers, but they disagree about who ultimately bears the cost. If foreign producers cannot easily find other markets, they may lower their prices to keep their customers, absorbing much of the tariff themselves. If, however, consumers cannot easily switch to domestic alternatives, importers can pass most of the tariff along. The burden thus depends less on the tariff's size than on the relative flexibility of the parties involved.
+
+?? mc | The passage implies that consumers are most likely to bear most of the cost of a tariff when
+- the tariff is very large
+- foreign producers have few alternative markets
+* consumers have few substitutes for the imported goods
+- domestic producers are numerous
+- the tariff is imposed on raw materials
+!! "If … consumers cannot easily switch to domestic alternatives, importers can pass most of the tariff along" (to consumers).
+
+?? mc | Which of the following best states the main idea of the passage?
+- Tariffs never affect consumer prices.
+* Who pays for a tariff depends on how easily producers and consumers can adjust.
+- Large tariffs harm foreign producers more than small tariffs do.
+- Economists agree about the effects of tariffs on foreign producers.
+- Domestic alternatives are always cheaper than imports.
+!! The last sentence states it: the burden "depends … on the relative flexibility of the parties involved."
+
+### volcano | long | Earth science
+The eruption of Mount Tambora in 1815 ejected so much sulfur into the stratosphere that global temperatures fell by nearly a degree Celsius the following year, producing the "year without a summer" in Europe and North America. Crops failed, food prices soared, and historians have linked the resulting hardship to waves of emigration and even to epidemics. Yet contemporary observers largely failed to connect these misfortunes to a volcano on the other side of the world. The science linking volcanic aerosols to climate did not yet exist, and news of the eruption itself traveled slowly and was widely ignored.
+
+This gap between cause and recognition offers a cautionary lesson. Societies respond to disasters as they understand them, and the farmers of 1816 blamed sunspots, divine displeasure, or the recent spread of lightning rods. Their explanations, however mistaken, shaped their responses: some prayed, some petitioned for the removal of lightning rods, and few prepared for the possibility that the cold might pass as suddenly as it had come.
+
+?? mc | The author mentions lightning rods primarily as an example of
+- a technology that reduced the damage from the cold summer
+* a mistaken explanation that influenced how people responded to a disaster
+- a scientific discovery that explained the effects of volcanic eruptions
+- a cause of the crop failures of 1816
+- a device used to measure temperatures in the nineteenth century
+!! People blamed "the recent spread of lightning rods," and some "petitioned for the removal of lightning rods" — a mistaken explanation that shaped their response.
+
+?? mc | The "cautionary lesson" referred to in the passage is best described as which of the following?
+- Volcanic eruptions are more dangerous than other natural disasters.
+- Scientific knowledge always spreads slowly.
+* How a society understands a disaster affects how it responds.
+- Farmers should not rely on traditional explanations of weather.
+- Emigration is an ineffective response to crop failure.
+!! The next sentence: "Societies respond to disasters as they understand them."
+
+?? sel | Select the sentence that gives reasons why people at the time did not recognize the cause of their hardship.
+* 4
+!! Sentence 4: "The science linking volcanic aerosols to climate did not yet exist, and news of the eruption itself traveled slowly and was widely ignored."
+
+### museum | short | Arts & society
+Museums increasingly display objects alongside labels that invite visitors to "form their own interpretations." The intention is admirable: curators wish to avoid imposing a single authoritative reading. But visitors who lack background knowledge may find such labels less liberating than bewildering. Interpretation, after all, depends on context—on knowing who made an object, for whom, and why—and a label that withholds context in the name of openness may leave visitors with nothing to interpret.
+
+?? mc | The author's attitude toward the labels described in the passage is best described as
+- enthusiastic endorsement
+* sympathetic but critical
+- indifferent
+- openly contemptuous
+- confused
+!! The author calls the intention "admirable" (sympathetic) but argues the labels may be "bewildering" (critical).
+
+?? mc | The author suggests that a label encouraging open interpretation is most useful when it
+- avoids mentioning the object's maker
+* also provides information about the object's origin and purpose
+- is written for experts rather than general visitors
+- is displayed only in large museums
+- imposes a single authoritative reading
+!! "Interpretation … depends on context—on knowing who made an object, for whom, and why." Labels need that context.
+
+### sleep | long | Biology
+Nearly every animal studied sleeps, a fact that has long puzzled biologists, since a sleeping animal cannot eat, mate, or watch for predators. Any function sleep serves must be important enough to offset these costs. One influential hypothesis holds that sleep allows the brain to clear metabolic waste that accumulates during waking hours; experiments in mice show that the spaces between brain cells widen during sleep, speeding the flow of fluid that carries waste away.
+
+The hypothesis does not, however, explain why some animals have evolved remarkable ways of sleeping without fully losing vigilance. Certain dolphins and birds sleep with one hemisphere of the brain at a time, keeping the other alert. If sleep's main purpose were waste removal, one might expect such animals to show evidence of slower clearance, yet no such evidence has been found. Sleep may therefore serve several functions at once, and different species may emphasize different ones.
+
+?? mc | Which of the following best describes the organization of the passage?
+- A theory is proposed, and evidence proving it is presented.
+* A puzzle is described, a hypothesis addressing it is presented, and a limitation of that hypothesis is noted.
+- Two competing theories are compared, and one is rejected.
+- A historical account of sleep research is given.
+- An experiment is described in detail and its methods criticized.
+!! Puzzle (why sleep, given its costs?), hypothesis (waste clearance), limitation ("does not, however, explain…"), then a tentative conclusion.
+
+?? mc | The author mentions dolphins and birds that sleep with one hemisphere at a time in order to
+- prove that the waste-clearance hypothesis is false
+* raise a question that the waste-clearance hypothesis does not readily answer
+- show that sleep has no function in marine animals
+- illustrate how mice clear metabolic waste
+- argue that these animals do not need sleep
+!! They are introduced with "The hypothesis does not, however, explain…" — a challenge, not a disproof (the author concludes sleep may serve several functions).
+
+?? ma | According to the passage, which of the following is true of sleep? (Select all that apply.)
+* It carries costs for the animals that engage in it.
+* In mice, it is associated with changes in the spaces between brain cells.
+- It serves exactly the same function in all species.
+!! A sleeping animal "cannot eat, mate, or watch for predators" (costs); in mice "the spaces between brain cells widen during sleep." The last sentence suggests different species may emphasize different functions, contradicting the third choice.
+
+### argument-7 | argument | Critical reasoning
+Last year, the town library extended its weekend hours. This year, the number of books checked out on weekends rose by 40 percent. The library director argues that extending weekday hours as well would produce a similar increase in weekday checkouts.
+
+?? mc | Which of the following, if true, most weakens the director's argument?
+- Most library patrons are adults.
+* Before the change, the library had been closed on most weekends, whereas it is already open for long hours on weekdays.
+- The number of books in the library's collection increased slightly last year.
+- Weekend checkouts rose in other towns that did not extend their hours.
+- Some patrons prefer to use the library's online catalog.
+!! The weekend gain came from opening when the library had been mostly closed; weekdays are already well covered, so extra hours there would likely add little. (D also weakens somewhat, but it concerns other towns; B directly undermines the analogy.)
+
+### argument-8 | argument | Critical reasoning
+Critic: The new film adaptation must be unfaithful to the novel, since it is only ninety minutes long, while the novel is over six hundred pages.
+
+?? mc | The critic's reasoning is flawed because it
+- relies on the opinions of other critics
+* assumes that faithfulness to a work requires reproducing all of its length or detail
+- ignores the director's previous films
+- fails to consider the cost of producing longer films
+- assumes that all novels are longer than films
+!! A short film could still be faithful in spirit, plot, and themes; the critic equates faithfulness with completeness.
+
+### language-birds | long | Animal behavior
+Songbirds, like humans, learn their vocalizations by imitating adults during a sensitive period early in life. A young zebra finch raised without hearing an adult sings an abnormal song; one exposed to a tutor, even briefly, develops a song closely resembling the tutor's. Researchers have exploited this parallel to study the neural basis of learning, identifying brain regions in birds that correspond roughly in function to human speech areas.
+
+The analogy has limits. Human children learn not only sounds but meanings, and they recombine words to produce sentences they have never heard. Finch songs, by contrast, carry no referential meaning and are repeated with little variation throughout adulthood. Nonetheless, researchers argue, the parallel is valuable precisely because it is partial: by studying a system that shares vocal learning with human language but lacks its other features, scientists can determine which neural mechanisms are specific to learning sounds rather than to language as a whole.
+
+?? mc | The primary purpose of the passage is to
+- argue that birdsong is a form of language
+- describe the anatomy of the zebra finch brain
+* discuss the usefulness and limitations of an analogy used in scientific research
+- explain how children learn the meanings of words
+- criticize researchers for overstating the similarity between birds and humans
+!! Paragraph 1 presents the parallel; paragraph 2 notes its limits and argues it is useful "precisely because it is partial."
+
+?? mc | The author suggests that the partial nature of the parallel between birdsong and human language
+- makes research on birdsong irrelevant to human language
+* allows researchers to isolate mechanisms involved in learning sounds
+- proves that finches can learn meanings
+- is a recent discovery
+- has been ignored by researchers
+!! Studying a system that shares vocal learning but lacks other language features lets scientists identify mechanisms "specific to learning sounds rather than to language as a whole."
+
+?? sel | Select the sentence that presents experimental evidence that finches learn their songs from adults.
+* 2
+!! Sentence 2 contrasts finches raised without an adult (abnormal song) with those exposed to a tutor (song resembling the tutor's).
+
+### argument-9 | argument | Critical reasoning
+Since the government raised the tax on cigarettes, the number of cigarettes sold legally in the country has fallen by 20 percent. Therefore, smoking has declined by about 20 percent.
+
+?? mc | Which of the following, if true, most weakens the argument?
+- The tax increase was the largest in the country's history.
+- Some smokers have switched to cheaper brands.
+* Sales of smuggled cigarettes, which are not included in the legal sales figures, have risen sharply since the tax increase.
+- Smoking rates are higher among young adults than among older adults.
+- The government uses the tax revenue to fund health programs.
+!! If smokers are buying smuggled cigarettes, legal sales fell without a matching drop in smoking.
+
+### argument-10 | argument | Critical reasoning
+A study of 500 companies found that those offering flexible work schedules had lower employee turnover than those that did not. Thus, any company that adopts flexible schedules will reduce its turnover.
+
+?? ma | Which of the following point to weaknesses in the argument? (Select all that apply.)
+* Companies that offer flexible schedules may also offer higher pay or other benefits that reduce turnover.
+* A policy's average effect across many companies does not guarantee the same effect in every company.
+- The study included companies from several industries.
+!! The first identifies a possible confounding factor; the second notes the overgeneralization ("any company"). The third is not a weakness; a broad sample actually helps.

@@ -1,0 +1,392 @@
+= deceive | verb | trick or mislead | -
+dupe | 2 | deceive; trick | Investors were duped into buying worthless shares.
+hoodwink | 2 | deceive or trick | The con man hoodwinked the elderly couple out of their savings.
+beguile | 2 | charm or enchant, sometimes in a deceptive way | He beguiled the committee with promises he never kept.
+delude | 3 | impose a misleading belief upon; deceive | Don't delude yourself into thinking the job will be easy.
+bamboozle | 3 | cheat or fool | The salesman bamboozled us into buying an extended warranty.
+gull | 3 | fool or deceive | The villagers were gulled by the traveling magician.
+> contrast | The investors believed they were buying a thriving company, but in fact the founder had ____ed them with forged accounts. | "Believed … but in fact … forged accounts" — tricked.
+> continuation | The swindler ____ed dozens of retirees, persuading them to invest in a gold mine that did not exist. | Persuading them to invest in a nonexistent mine — deceived.
+
+= mock | verb | ridicule or make fun of | revere
+deride | 1 | express contempt for; ridicule | Critics derided the proposal as naive.
+ridicule | 3 | subject to contemptuous and dismissive language | His classmates ridiculed his accent.
+lampoon | 1 | publicly criticize by using ridicule or sarcasm | The cartoon lampooned the president's vanity.
+satirize | 2 | mock through satire | The novel satirizes the pretensions of the rich.
+scoff | 2 | speak to or about in a scornfully derisive way | Experts scoffed at his claim to have built a flying car.
+parody | 3 | imitate the style of someone for comic effect | The sketch parodied the evening news.
+> contrast | Although the inventor's contemporaries ____ed her ideas as absurd, those ideas now form the basis of modern aviation. | "Although … as absurd … now form the basis" — ridiculed.
+> continuation | The comedy troupe loved to ____ politicians, exaggerating their mannerisms and mocking their promises. | Exaggerating mannerisms and mocking promises — ridicule.
+
+= revere | verb | regard with deep respect | mock
+revere | 1 | feel deep respect or admiration for | The villagers revered the old healer.
+venerate | 1 | regard with great respect | The saint is venerated throughout the region.
+esteem | 2 | respect and admire | Her colleagues esteem her judgment above all others'.
+idolize | 3 | admire, revere, or love greatly or excessively | Teenagers idolized the young singer.
+lionize | 2 | give a lot of public attention and approval to | The press lionized the young astronaut.
+> contrast | Though he was ridiculed during his lifetime, the composer is now ____ed as one of the greatest of his century. | "Though ridiculed … now … as one of the greatest" — deeply respected.
+> continuation | The students ____ed their old teacher, visiting her every year and naming the school library in her honor. | Visiting yearly and naming a library for her — deep respect.
+
+= destroy | verb | destroy completely | create
+annihilate | 2 | destroy utterly; obliterate | The army was annihilated in a single battle.
+obliterate | 2 | destroy utterly; wipe out | The bombing obliterated the old town.
+raze | 2 | completely destroy a building or town | The fort was razed to the ground.
+decimate | 2 | kill or destroy a large proportion of | Disease decimated the population.
+demolish | 3 | pull or knock down a building; comprehensively defeat | The city demolished the abandoned factory.
+> contrast | The invaders were expected to occupy the city intact, but instead they ____ed it, leaving not a single building standing. | "Expected to occupy intact … not a single building standing" — destroyed completely.
+> continuation | The earthquake ____ed the village, leveling every house and road. | Leveling every house — destroyed completely.
+
+= eradicate | verb | remove completely; wipe out | foster
+eradicate | 1 | destroy completely; put an end to | Vaccination eradicated smallpox.
+extirpate | 2 | root out and destroy completely | The regime sought to extirpate all opposition.
+uproot | 3 | pull up by the roots; eradicate | The new government uprooted the old system of patronage.
+root out | 3 | find and get rid of | The inquiry aimed to root out corruption.
+stamp out | 3 | put an end to by decisive action | Health officials worked to stamp out the epidemic.
+> contrast | Rather than merely reducing malaria, the campaign aimed to ____ it from the island entirely. | "Rather than merely reducing … entirely" — wipe out completely.
+> continuation | The new commissioner vowed to ____ corruption in the department, firing every officer found to have taken a bribe. | Firing every corrupt officer — remove completely.
+
+= erase | verb | erase or remove all traces of | -
+expunge | 1 | erase or remove completely | The conviction was expunged from his record.
+efface | 2 | erase a mark from a surface | Time had effaced the inscription on the tomb.
+delete | 3 | remove or obliterate written or printed matter | She deleted the embarrassing post.
+blot out | 3 | obscure; cause to disappear | Clouds blotted out the moon.
+excise | 2 | cut out surgically; remove a section of text | The censor excised three scenes from the film.
+> contrast | The official had hoped to ____ all record of the scandal, but a copy of the file survived in a private archive. | "Hoped to … all record … but a copy survived" — erase.
+> continuation | After his acquittal, the court ordered the police to ____ the charge from his record, as though it had never existed. | "As though it had never existed" — erase completely.
+
+= cause | verb | give rise to; bring about | -
+engender | 1 | cause or give rise to a feeling or situation | The policy engendered resentment among farmers.
+beget | 3 | give rise to; bring about | Violence begets violence.
+spawn | 3 | produce or generate, especially in large numbers | The film spawned several sequels.
+precipitate | 1 | cause an event to happen suddenly or prematurely | The assassination precipitated the war.
+occasion | 3 | cause something | The decision occasioned much debate.
+induce | 2 | succeed in persuading; bring about | The drug induces sleep.
+> contrast | The new law was meant to promote harmony, but it ____ed bitter resentment among the very groups it was supposed to help. | "Meant to promote harmony, but … bitter resentment" — caused.
+> continuation | The scandal ____ed a crisis of confidence that eventually brought down the government. | "A crisis … that brought down the government" — caused.
+
+= evoke | verb | bring to mind; draw out a response | -
+evoke | 1 | bring or recall a feeling or memory to the conscious mind | The smell of bread evoked memories of her grandmother's kitchen.
+elicit | 1 | draw out a response or reaction | The question elicited a surprising answer.
+conjure | 2 | call to mind; make appear | The word "desert" conjures images of sand dunes.
+summon | 3 | call up a feeling or memory | She summoned her courage and knocked.
+arouse | 3 | evoke or awaken a feeling or response | His strange behavior aroused suspicion.
+> contrast | The director hoped the scene would ____ sympathy for the villain, but audiences found him more repellent than ever. | "Hoped … would … sympathy … but … more repellent" — draw out.
+> continuation | The old photographs ____ed vivid memories of her childhood on the farm. | Photographs bringing memories to mind.
+
+= disseminate | verb | spread widely | conceal
+disseminate | 1 | spread information widely | The group disseminated leaflets throughout the city.
+propagate | 2 | spread and promote an idea widely | The movement propagated its ideas through pamphlets.
+circulate | 3 | pass from place to place or person to person | Rumors circulated about the company's troubles.
+broadcast | 3 | make widely known | She broadcast the news to all her friends.
+diffuse | 2 | spread over a wide area or among many people | The internet diffused the idea around the world.
+> contrast | The regime tried to suppress the report, but activists managed to ____ it widely through underground networks. | "Tried to suppress … but … widely" — spread.
+> continuation | The foundation's goal is to ____ scientific knowledge, distributing free textbooks to schools across the country. | Distributing free textbooks — spread widely.
+
+= reveal | verb | make known something secret | conceal
+divulge | 1 | make known private or sensitive information | The reporter refused to divulge her source.
+disclose | 2 | make secret or new information known | The company disclosed its losses.
+reveal | 3 | make known to others | She revealed the secret at dinner.
+unveil | 3 | show or announce publicly for the first time | The company unveiled its new phone.
+betray | 3 | unintentionally reveal; be evidence of | His trembling hands betrayed his nerves.
+> contrast | The agent was trained never to ____ classified information, yet under pressure he told the reporter everything. | "Trained never to … yet … told everything" — reveal secrets.
+> continuation | Under questioning, the witness finally ____ed the name of the official who had ordered the cover-up. | Naming the official — revealing a secret.
+
+= conceal | verb | keep secret; hide | reveal
+conceal | 3 | keep from being seen or known | He concealed the letter in a drawer.
+mask | 3 | conceal one's real feelings or character | Her smile masked her grief.
+veil | 3 | partially conceal or disguise | The threat was thinly veiled.
+cloak | 3 | hide, cover, or disguise | The negotiations were cloaked in secrecy.
+secrete | 3 | conceal; hide | The smuggler secreted the diamonds in his luggage.
+camouflage | 3 | hide or disguise the presence of | The hunters camouflaged their blind with branches.
+> contrast | Although she tried to ____ her disappointment, her friends could see how upset she was. | "Tried to … her friends could see" — hide.
+> continuation | The company sought to ____ its losses by moving debts to shell corporations that did not appear in its reports. | Moving debts off the books — hiding them.
+
+= evince | verb | reveal the presence of a quality or feeling | -
+evince | 1 | reveal the presence of; indicate | Her letters evince a deep love of nature.
+manifest | 2 | display or show a quality or feeling by acts (verb) | The symptoms manifest themselves after a week.
+exhibit | 3 | manifest clearly a quality or type of behavior | The patient exhibited signs of fatigue.
+bespeak | 3 | suggest; be evidence of | The elegant furnishings bespeak great wealth.
+betoken | 3 | be a sign of; indicate | The dark clouds betoken rain.
+> contrast | Although the letter was polite, its brief, formal tone ____ed the writer's displeasure. | "Although … polite … brief, formal tone" — revealed the feeling.
+> continuation | The child's detailed drawings ____ed a remarkable talent for observation. | Detailed drawings show a talent.
+
+= squander | verb | waste recklessly | conserve
+squander | 1 | waste in a reckless and foolish manner | He squandered his inheritance on gambling.
+dissipate | 2 | squander money, energy, or resources | The team dissipated its early lead.
+fritter away | 3 | waste time, money, or energy on trifling matters | She frittered away the afternoon online.
+misspend | 3 | spend foolishly or wrongly | He regretted his misspent youth.
+waste | 3 | use carelessly or to no purpose | Don't waste water during the drought.
+> contrast | The first owner had built the fortune through decades of careful saving, but his son ____ed it in a few years of gambling. | "Careful saving, but … in a few years of gambling" — wasted.
+> continuation | The team ____ed its early advantage, missing easy chances and allowing the opponents to recover. | "Missing easy chances" — wasted.
+
+= conserve | verb | use sparingly; save | squander
+conserve | 3 | protect from harm or overuse | We must conserve water during the drought.
+husband | 2 | use resources economically | The expedition husbanded its food supplies.
+hoard | 3 | amass and hide or store away | Squirrels hoard nuts for the winter.
+preserve | 3 | maintain in its original state | The museum preserves ancient manuscripts.
+economize | 3 | spend less; reduce one's expenses | Families economized by cooking at home.
+> contrast | Rather than using all their fuel in the first week, the stranded sailors ____ed it carefully, burning only a little each night. | "Rather than using all … burning only a little each night" — used sparingly.
+> cause | Because supplies were limited and rescue was weeks away, the climbers had to ____ their food. | Limited supplies force using them sparingly.
+
+= reconcile | verb | restore friendly relations; make compatible | alienate
+reconcile | 2 | restore friendly relations between; make consistent | The mediator reconciled the feuding brothers.
+harmonize | 3 | make consistent or compatible | The committee harmonized the two sets of rules.
+reunite | 3 | come together again after separation | The war ended, and the family was reunited.
+mediate | 2 | intervene between people in a dispute to bring about agreement | A retired judge mediated the dispute.
+> contrast | The two sisters had not spoken for a decade, but their mother's illness finally ____ed them. | "Had not spoken for a decade, but … finally" — restored friendly relations.
+> continuation | The new theory attempts to ____ two sets of observations that had long seemed contradictory. | Making contradictory observations consistent.
+
+= alienate | verb | cause to become unfriendly or estranged | reconcile
+alienate | 2 | cause someone to feel isolated or estranged | His rudeness alienated his colleagues.
+estrange | 2 | cause someone to be no longer on friendly terms | The feud estranged him from his family.
+antagonize | 2 | cause someone to become hostile | Don't antagonize the dog by teasing it.
+disaffect | 3 | make discontented or disloyal | The unpopular war disaffected many voters.
+> contrast | The candidate hoped to win over moderate voters, but her harsh rhetoric only ____ed them. | "Hoped to win over … but … only" — made them hostile.
+> cause | Because the new manager ignored their suggestions and insulted their work, he quickly ____ed his staff. | Ignoring and insulting staff makes them hostile.
+
+= separate | verb | split apart | merge
+sunder | 2 | split apart | The civil war sundered families.
+sever | 2 | divide by cutting; put an end to a connection | The two countries severed diplomatic ties.
+cleave | 3 | split or sever along a natural line | The axe cleaved the log in two.
+rend | 3 | tear into two or more pieces | Grief rent the family apart.
+bifurcate | 3 | divide into two branches | The road bifurcates at the old mill.
+> contrast | Although the two provinces had been united for centuries, the war ____ed them, and they became separate nations. | "United for centuries … became separate" — split apart.
+> continuation | The scandal ____ed the long partnership, and the two founders never spoke again. | "Never spoke again" — split apart.
+
+= merge | verb | combine into one | separate
+amalgamate | 1 | combine or unite to form one organization or structure | The two unions amalgamated in 1998.
+coalesce | 1 | come together to form one mass or whole | Small groups coalesced into a national movement.
+meld | 2 | blend; combine | The restaurant melds Mexican and Korean flavors.
+fuse | 3 | join or blend to form a single entity | The artist fused traditional and modern techniques.
+unite | 3 | come or bring together for a common purpose | The threat united the rival factions.
+consolidate | 2 | combine into a single more effective whole | The company consolidated its three offices.
+> contrast | The protest groups had long been divided, but the new law caused them to ____ into a single powerful movement. | "Long been divided, but … into a single movement" — combine.
+> continuation | The two small colleges decided to ____, forming a single university with shared faculty and facilities. | Forming a single university — combine.
+
+= conflate | verb | combine two ideas mistakenly into one | distinguish
+conflate | 1 | combine two or more ideas into one, often confusingly | Many people conflate weather with climate.
+confuse | 3 | mistake one for another | Don't confuse his shyness with rudeness.
+mix up | 3 | confuse one thing with another | She mixed up the twins' names.
+> contrast | The historian carefully distinguished the two rebellions, whereas earlier writers had tended to ____ them. | "Carefully distinguished … whereas earlier writers" — combined them mistakenly.
+> continuation | The article ____s correlation with causation, assuming that because two things occur together, one must cause the other. | Treating correlation as causation mistakenly merges two ideas.
+
+= distinguish | verb | recognize as different | conflate
+distinguish | 3 | recognize or treat as different | It is hard to distinguish the twins.
+differentiate | 2 | recognize what makes something different | Customers could not differentiate the two brands.
+discriminate | 3 | recognize a distinction; differentiate | The test discriminates between the two viruses.
+discern | 1 | perceive or recognize something | She could discern a figure in the fog.
+> contrast | Most listeners cannot ____ between the two recordings, but trained musicians hear the differences immediately. | "Cannot … but trained musicians hear the differences" — tell apart.
+> continuation | A skilled birdwatcher can ____ dozens of similar species by their songs alone. | Recognizing differences between similar species.
+
+= foreshadow | verb | be a sign of something to come | -
+presage | 2 | be a sign or warning of an imminent event (verb) | The strange silence presaged the storm.
+portend | 2 | be a sign or warning that something is likely to happen | The drop in sales portends trouble for the company.
+augur | 2 | portend a good or bad outcome | The early reviews augur well for the film.
+foreshadow | 2 | be a warning or indication of a future event | The opening scene foreshadows the hero's death.
+herald | 3 | be a sign that something is about to happen | The invention heralded a new era.
+bode | 3 | be an omen of a particular outcome | The weather bodes ill for the picnic.
+> contrast | The early skirmishes seemed minor at the time, but in retrospect they ____ed the terrible war to come. | "Seemed minor … but in retrospect" — were signs of what was to come.
+> continuation | The dark clouds on the horizon ____ed the storm that struck the coast that night. | Clouds as a sign of the coming storm.
+
+= perplex | verb | confuse and baffle | clarify
+perplex | 2 | cause to feel completely baffled | The strange results perplexed the scientists.
+baffle | 3 | totally bewilder or perplex | The magician's trick baffled the audience.
+bewilder | 3 | cause to become perplexed and confused | The city's streets bewildered the tourists.
+nonplus | 2 | surprise and confuse so much that one is unsure how to react | She was nonplussed by the unexpected question.
+mystify | 3 | utterly bewilder or perplex | The disappearance mystified the police.
+flummox | 3 | perplex greatly; bewilder | The complicated form flummoxed even the lawyers.
+> contrast | The puzzle seemed simple to the children, but it ____ed the adults, who could not solve it for an hour. | "Seemed simple to the children, but … could not solve it" — confused.
+> continuation | The unusual symptoms ____ed the doctors, who could not match them to any known disease. | "Could not match them to any known disease" — baffled.
+
+= digress | verb | wander from the main subject | -
+digress | 1 | leave the main subject temporarily in speech or writing | The professor often digressed into stories about his dog.
+deviate | 2 | depart from an established course | The pilot deviated from the flight plan to avoid the storm.
+stray | 3 | move away from the right course; wander | The speaker strayed from her prepared remarks.
+ramble | 3 | talk or write at length in a confused or inconsequential way | The old man rambled about his youth.
+diverge | 2 | separate from another route; differ | Their opinions diverged on the question of taxes.
+> contrast | The speaker promised to stick to the topic, but she soon began to ____, telling long stories about her vacation. | "Promised to stick to the topic, but … telling long stories" — wander from it.
+> continuation | The novelist tends to ____ from the main plot, adding chapters about minor characters that have nothing to do with the story. | Chapters that have nothing to do with the story — wandering off topic.
+
+= flout | verb | openly disregard a rule | obey
+flout | 1 | openly disregard a rule, law, or convention | The company flouted safety regulations.
+defy | 3 | openly resist or refuse to obey | The protesters defied the curfew.
+contravene | 2 | violate the prohibition or order of | The policy contravenes international law.
+transgress | 2 | infringe or go beyond the bounds of a moral principle or law | Those who transgress the rules will be punished.
+disregard | 3 | pay no attention to; ignore | He disregarded the doctor's advice.
+> contrast | Most drivers obey the speed limit on the mountain road, but a few ____ it openly, racing around the curves. | "Most … obey … but a few … openly" — disregard.
+> continuation | The factory ____ed environmental regulations for years, dumping chemicals into the river in full view of inspectors. | "Dumping chemicals … in full view" — openly disregarded.
+
+= obey | verb | comply with or follow rules | flout
+comply | 2 | act in accordance with a wish or command | The company complied with the new regulations.
+heed | 2 | pay attention to; take notice of | She heeded her doctor's warning.
+abide by | 3 | accept or act in accordance with a rule or decision | Both sides agreed to abide by the ruling.
+adhere to | 2 | believe in and follow the practices of | The school adheres to strict standards.
+conform | 3 | comply with rules, standards, or laws | All buildings must conform to safety codes.
+> contrast | Although the rebels had sworn to ignore the treaty, in practice they ____ed its terms scrupulously. | "Sworn to ignore … in practice … scrupulously" — followed.
+> continuation | Careful drivers ____ every posted sign, slowing down in school zones and stopping at every crossing. | Slowing down and stopping — following the rules. (Base verb "comply with/heed")
+
+= capitulate | verb | cease to resist; surrender | resist
+capitulate | 1 | cease to resist an opponent or demand; surrender | After a long siege, the city capitulated.
+acquiesce | 1 | accept something reluctantly but without protest | She acquiesced to her parents' wishes.
+succumb | 2 | fail to resist pressure, temptation, or a negative force | He succumbed to temptation and ate the cake.
+relent | 2 | abandon or mitigate a harsh intention or cruel treatment | The teacher relented and extended the deadline.
+yield | 3 | give way to arguments, demands, or pressure | The government yielded to public pressure.
+> contrast | The union had vowed never to accept the pay cut, but after six months on strike it finally ____ed. | "Vowed never to accept … but … finally" — gave in.
+> cause | Because the defenders had run out of food and water, they had no choice but to ____. | Running out of supplies forces surrender.
+
+= resist | verb | withstand or oppose | capitulate
+resist | 3 | withstand the action or effect of | The bridge was built to resist earthquakes.
+withstand | 3 | remain undamaged or unaffected by | The walls withstood the siege.
+repel | 3 | drive or force back an attack | The defenders repelled the invaders.
+rebuff | 2 | reject in an abrupt or ungracious manner | She rebuffed his offer of help.
+oppose | 3 | disapprove of and attempt to prevent | Residents opposed the new highway.
+> contrast | Many expected the small town to give in to the developer's demands, but its council ____ed every offer. | "Expected … to give in … but … every offer" — resisted.
+> continuation | The old fortress ____ed three sieges, its walls never breached. | "Walls never breached" — withstood.
+
+= abhor | verb | hate intensely | admire
+abhor | 1 | regard with disgust and hatred | She abhors cruelty to animals.
+loathe | 2 | feel intense dislike or disgust for | He loathes early mornings.
+detest | 3 | dislike intensely | They detest each other.
+abominate | 3 | detest; loathe | The pacifist abominated all forms of violence.
+execrate | 3 | feel or express great loathing for | The dictator was execrated by his former subjects.
+> contrast | Although he ____s violence in all its forms, the novelist writes some of the most brutal battle scenes in modern fiction. | "Although … writes the most brutal battle scenes" — hates violence (surprising contrast).
+> continuation | She ____s hypocrisy above all other faults and refuses to associate with anyone who says one thing and does another. | Refusing to associate — intense hatred.
+
+= cease | verb | stop or refrain from an action | -
+desist | 2 | stop doing something; cease | The court ordered the company to desist from misleading advertising.
+cease | 3 | come or bring to an end | The fighting ceased at dawn.
+refrain | 2 | stop oneself from doing something | Please refrain from smoking.
+forbear | 2 | politely or patiently restrain an impulse to do something | He forbore from mentioning her mistake.
+discontinue | 3 | stop doing, providing, or making something | The company discontinued the product.
+> contrast | The protesters were ordered to ____ from blocking the road, but they continued for another week. | "Ordered to … but they continued" — stop.
+> continuation | Out of respect for the grieving family, the reporters ____ed from asking questions at the funeral. | Out of respect — refrained.
+
+= cajole | verb | persuade by flattery or coaxing | coerce
+cajole | 1 | persuade by sustained coaxing or flattery | She cajoled her brother into driving her to the airport.
+coax | 2 | gently and persistently persuade | He coaxed the kitten out from under the bed.
+wheedle | 2 | use flattery or coaxing to persuade | The child wheedled an extra cookie from his grandmother.
+inveigle | 2 | persuade by deception or flattery | He inveigled his way into the exclusive club.
+blandish | 3 | coax with flattery; cajole | The salesman blandished her with compliments.
+> contrast | Rather than forcing his employees to work overtime, the manager tried to ____ them with praise and small rewards. | "Rather than forcing … praise and small rewards" — persuade gently.
+> continuation | The children ____ed their parents with sweet words and promises of good behavior until they agreed to buy a puppy. | Sweet words and promises — coaxing.
+
+= coerce | verb | force by threats or pressure | cajole
+coerce | 1 | persuade an unwilling person to do something by force or threats | The prisoner claimed he was coerced into confessing.
+compel | 2 | force or oblige someone to do something | The law compels employers to provide safety equipment.
+browbeat | 2 | intimidate with stern or abusive words | The lawyer browbeat the witness until she contradicted herself.
+intimidate | 3 | frighten or overawe, especially to make them do what one wants | The gang intimidated shopkeepers into paying.
+bully | 3 | use superior strength or influence to intimidate | He was bullied into signing the contract.
+> contrast | The confession was not given freely, as the prosecution claimed; the defendant had been ____ed by hours of threats. | "Not given freely … hours of threats" — forced.
+> continuation | The landlord ____ed tenants into leaving by threatening them and cutting off their heat. | Threatening and cutting heat — forcing.
+
+= misc-adj | adj | - | -
+acrimonious | 2 | angry and bitter | The acrimonious debate ended without agreement.
+ambivalent | 1 | having mixed feelings or contradictory ideas | She felt ambivalent about moving abroad.
+apathetic | 2 | showing or feeling no interest or enthusiasm | Apathetic voters stayed home.
+auspicious | 2 | conducive to success; favorable | The sunny morning was an auspicious start to the wedding.
+avuncular | 3 | kind and friendly toward a younger person, like an uncle | The avuncular professor mentored many students.
+callous | 2 | showing a cruel disregard for others | His callous remark hurt her deeply.
+chivalrous | 3 | courteous and gallant, especially toward women | The chivalrous knight helped the stranded traveler.
+complacent | 1 | showing uncritical satisfaction with oneself | After years of success, the company grew complacent.
+cryptic | 2 | having a meaning that is mysterious or obscure | She left a cryptic note on the table.
+cynosure | 3 | a person or thing that is the center of attention (noun) | The dancer was the cynosure of all eyes.
+diffident | 1 | modest or shy because of a lack of self-confidence | The diffident student rarely spoke in class.
+disparate | 1 | essentially different in kind; not able to be compared | The book draws together disparate strands of research.
+draconian | 2 | excessively harsh and severe | Draconian penalties were imposed for minor crimes.
+egregious | 1 | outstandingly bad; shocking | The report contained egregious errors.
+enigmatic | 2 | difficult to interpret or understand; mysterious | The Mona Lisa's enigmatic smile has fascinated viewers for centuries.
+erroneous | 2 | wrong; incorrect | The report was based on erroneous data.
+exigent | 3 | pressing; demanding | The exigent circumstances required immediate action.
+fortuitous | 2 | happening by chance, often luckily | Their meeting was fortuitous; neither had planned it.
+futile | 2 | incapable of producing any useful result | Resistance was futile.
+histrionic | 2 | overly theatrical or melodramatic | Her histrionic outburst embarrassed everyone.
+impervious | 2 | unable to be affected by; not allowing fluid to pass through | He was impervious to criticism.
+implacable | 1 | unable to be placated; relentless | She was an implacable enemy of corruption.
+inimical | 2 | tending to obstruct or harm; hostile | High taxes are inimical to growth.
+innate | 2 | inborn; natural | She had an innate sense of rhythm.
+intrinsic | 2 | belonging naturally; essential | The painting has little intrinsic value.
+laudable | 2 | deserving praise and commendation | Her efforts were laudable, though unsuccessful.
+lucrative | 2 | producing a great deal of profit | He left a lucrative job to teach.
+magisterial | 3 | having or showing great authority | Her magisterial history of the war is the standard work.
+myopic | 2 | lacking foresight or intellectual insight; nearsighted | The myopic policy ignored long-term costs.
+nonchalant | 2 | feeling or appearing casually calm and relaxed | He was nonchalant about the exam, though he had not studied.
+obsolescent | 3 | becoming obsolete | The obsolescent technology was phased out.
+ostentatious | 1 | designed to impress or attract notice; showy | The ostentatious mansion had gold faucets.
+peripatetic | 3 | traveling from place to place | The peripatetic musician never stayed in one city for long.
+precarious | 2 | not securely held; dependent on chance | The climber's position on the ledge was precarious.
+propitious | 2 | giving or indicating a good chance of success; favorable | The time seemed propitious for a new venture.
+quotidian | 2 | of or occurring every day; ordinary | The novel celebrates quotidian pleasures.
+reprehensible | 2 | deserving censure or condemnation | His conduct was reprehensible.
+sanctimonious | 1 | making a show of being morally superior | His sanctimonious lectures about honesty rang hollow.
+soporific | 2 | tending to induce drowsiness or sleep | The soporific lecture put half the class to sleep.
+stringent | 2 | strict, precise, and exacting | Stringent safety rules govern the lab.
+tenacious | 1 | tending to keep a firm hold; persistent | The tenacious reporter never gave up on the story.
+unassailable | 2 | unable to be attacked, questioned, or defeated | Her logic was unassailable.
+venerable | 2 | accorded great respect because of age, wisdom, or character | The venerable judge had served for forty years.
+vicarious | 2 | experienced in the imagination through another person | She took vicarious pleasure in her daughter's success.
+whimsical | 2 | playfully quaint or fanciful | The whimsical illustrations delighted children.
+lachrymose | 3 | tearful or given to weeping | The lachrymose film had the whole audience crying.
+obstreperous | 2 | noisy and difficult to control | The obstreperous crowd was removed from the stadium.
+vociferous | 2 | expressing opinions in a loud and forceful way | Vociferous critics demanded the minister's resignation.
+strident | 2 | loud and harsh; presenting a point of view forcefully | Her strident tone alienated potential allies.
+cacophonous | 2 | involving a harsh, discordant mixture of sounds | The cacophonous traffic kept him awake.
+mellifluous | 2 | sweet or musical; pleasant to hear | Her mellifluous voice made her a popular narrator.
+dulcet | 3 | sweet and soothing | The dulcet tones of the harp calmed the crowd.
+euphonious | 3 | pleasing to the ear | The poem's euphonious lines are a joy to read aloud.
+sonorous | 2 | imposingly deep and full in sound | The sonorous bells rang across the valley.
+palatable | 1 | pleasant to taste; (of an idea) acceptable | The compromise was palatable to both sides.
+unpalatable | 2 | not pleasant to taste; difficult to accept | The truth was unpalatable, but they needed to hear it.
+repugnant | 2 | extremely distasteful; unacceptable | The idea of cheating was repugnant to her.
+odious | 2 | extremely unpleasant; repulsive | The odious task of cleaning the drains fell to him.
+noisome | 3 | having an extremely offensive smell | A noisome odor rose from the swamp.
+ignominious | 2 | deserving or causing public disgrace or shame | The team suffered an ignominious defeat.
+illustrious | 2 | well known, respected, and admired | The university has an illustrious history.
+eminent | 3 | famous and respected within a particular sphere | An eminent surgeon performed the operation.
+preeminent | 3 | surpassing all others; very distinguished | She is the preeminent scholar in her field.
+culpable | 1 | deserving blame | The court found the driver culpable.
+impeccable | 2 | in accordance with the highest standards; faultless | His manners were impeccable.
+pristine | 1 | in its original condition; unspoiled | The pristine beach had never been developed.
+immaculate | 3 | perfectly clean, neat, or tidy | Her kitchen was immaculate.
+sullied | 3 | damaged the purity or integrity of | His sullied reputation never recovered.
+adulterated | 2 | made impure by adding inferior substances | The adulterated milk made hundreds sick.
+unalloyed | 3 | complete and unreserved; pure | The trip was an unalloyed pleasure.
+hypocritical | 3 | behaving in a way that contradicts one's stated beliefs | It is hypocritical to preach thrift while living lavishly.
+pious | 2 | devoutly religious | The pious woman attended services daily.
+irreverent | 1 | showing a lack of respect for people or things usually taken seriously | The irreverent comedian mocked every politician.
+impious | 3 | not showing respect or reverence | Such impious remarks shocked the congregation.
+blasé | 2 | unimpressed or indifferent because of over-familiarity | Frequent flyers are blasé about turbulence.
+jaded | 2 | bored or lacking enthusiasm after having had too much of something | Jaded critics found nothing new in the festival.
+callow | 2 | inexperienced and immature | The callow recruit panicked under fire.
+lenient | 2 | more merciful or tolerant than expected | The judge gave a lenient sentence.
+clement | 3 | merciful; (of weather) mild | The clement judge reduced the sentence.
+ruthless | 3 | having or showing no pity or compassion | The ruthless dictator crushed all opposition.
+remorseless | 3 | without regret or guilt; relentless | The remorseless killer showed no emotion.
+indifferent | 3 | having no particular interest or sympathy; unconcerned | She was indifferent to fame.
+insouciant | 2 | showing a casual lack of concern | His insouciant attitude toward deadlines frustrated his boss.
+avid | 2 | having an eager desire for something | An avid reader, she finished a book a day.
+loath | 2 | reluctant; unwilling | He was loath to admit his mistake.
+averse | 3 | having a strong dislike of or opposition to something | She is averse to taking risks.
+insubordinate | 2 | defiant of authority; disobedient | The insubordinate soldier was court-martialed.
+unruly | 3 | disorderly and disruptive | The unruly crowd pushed past the barriers.
+fractious | 2 | irritable and quarrelsome; hard to control | The fractious coalition split within months.
+boisterous | 3 | noisy, energetic, and cheerful | The boisterous children ran through the house.
+raucous | 2 | making a disturbingly harsh and loud noise | The raucous party kept the neighbors awake.
+hale | 3 | (of an old person) strong and healthy | At ninety, he was still hale and active.
+robust | 3 | strong and healthy; vigorous | The robust economy created millions of jobs.
+decrepit | 2 | worn out or ruined because of age or neglect | The decrepit building was condemned.
+effete | 2 | weak and ineffectual; overrefined | The effete aristocracy could not resist the revolution.
+feeble | 3 | lacking physical strength; weak | The patient was too feeble to walk.
+infirm | 3 | not physically or mentally strong, especially through age | The infirm residents needed constant care.
+spry | 3 | active and lively, especially of an old person | The spry grandmother still climbed mountains.
+quintessential | 2 | representing the most perfect or typical example | He was the quintessential New Yorker.
+archetypal | 3 | very typical of a certain kind of person or thing | The archetypal hero leaves home and returns transformed.
+atypical | 3 | not representative of a type or group | His quiet behavior was atypical for a toddler.
+singular | 2 | exceptionally good or great; remarkable; unusual | She showed singular courage.
+extrinsic | 3 | not part of the essential nature; coming from outside | Extrinsic rewards like money can reduce motivation.
+adventitious | 3 | happening as a result of an external factor or chance | The adventitious discovery changed the course of the research.
+indigenous | 2 | originating or occurring naturally in a particular place | Indigenous plants need less water.
+endemic | 2 | regularly found among particular people or in a certain area | Malaria is endemic in the region.
+congenital | 2 | present from birth; (of a person) having a particular trait as part of their character | He was a congenital liar.
+ingrained | 3 | firmly fixed or established; difficult to change | Ingrained habits are hard to break.
+inveterate | 2 | having a particular habit that is unlikely to change | He is an inveterate gambler.
+chronic | 3 | persisting for a long time or constantly recurring | She suffered from chronic back pain.

@@ -1,0 +1,181 @@
+# Two- and three-blank Text Completion frames.
+#   @@ cluster1 | cluster2 [| cluster3]
+#   signal | sentence using [1] [2] [3] (optionally followed by ed/ing/s) | explanation
+# Each blank's choices: a word from its cluster (correct), one from the antonym cluster (trap), one random word of the same part of speech.
+
+@@ taciturn | talkative
+contrast | Although she was [1] in large meetings, rarely offering more than a word, she became surprisingly [2] in one-on-one conversations. | "Rarely offering more than a word" fixes blank (i) as silent. "Although … surprisingly" flips it for blank (ii): talkative.
+
+@@ praise-v | scathing
+contrast | Critics who once rushed to [1] the director's early films have become increasingly [2], dismissing her recent work as self-indulgent. | "Once rushed to" (then "have become increasingly … dismissing") shows a reversal: blank (i) = praise; blank (ii) = harshly critical.
+
+@@ meticulous | careless
+contrast | The first editor was [1], checking every date and name, whereas her successor was so [2] that errors multiplied in every issue. | "Checking every date and name" → very careful. "Whereas … errors multiplied" → careless.
+
+@@ stubborn | compliant
+contrast | The negotiator had expected the union to be [1], but its leaders proved surprisingly [2], accepting nearly every proposal. | "Had expected … but … surprisingly … accepting nearly every proposal": (ii) = willing to go along, so (i) = the opposite, stubborn.
+
+@@ obscure | lucid
+contrast | Although the philosopher's original treatise is famously [1], her student's commentary is [2] enough for undergraduates to follow. | "Although … famously" vs "enough for undergraduates to follow": hard to understand, then clear.
+
+@@ ephemeral | enduring
+contrast | Many assumed the craze would prove [1], fading as quickly as it had arisen, but its influence on fashion has been surprisingly [2]. | "Fading as quickly as it arose" = short-lived; "but … surprisingly" flips to long-lasting.
+
+@@ cautious | reckless
+contrast | Investors who were once [1], refusing any risk, have lately become almost [2], pouring money into untested ventures. | "Refusing any risk" = cautious; "pouring money into untested ventures" = reckless.
+
+@@ calm | agitated
+contrast | Although the pilot remained [1] throughout the emergency, the passengers grew increasingly [2] as the plane lost altitude. | Contrast between the pilot and the passengers: calm vs. agitated.
+
+@@ humble | boastful
+contrast | The scientist was [1] about her own role, crediting her team for the discovery, whereas her director was openly [2], claiming it as his own triumph. | "Crediting her team" = modest; "claiming it as his own triumph" = boastful.
+
+@@ generous | stingy
+contrast | The philanthropist was [1] toward strangers, funding hospitals across the country, yet oddly [2] with his own family, refusing even small loans. | "Funding hospitals" = generous; "yet oddly … refusing even small loans" = stingy.
+
+@@ trivial | momentous
+contrast | What seemed a [1] disagreement over wording turned out to be [2], determining the outcome of the entire treaty. | "Seemed … turned out to be … determining the outcome": minor, then highly significant.
+
+@@ candid | deceitful
+contrast | The memoir appears [1], full of painful confessions, but historians have shown that much of it is [2], designed to hide the author's worst misdeeds. | "Full of painful confessions" = frank; "designed to hide" = deceitful.
+
+@@ cogent | specious
+contrast | The prosecutor's case seemed [1] at first, but the defense exposed its central argument as [2], resting on a misread document. | Seemed convincing, "but … exposed … resting on a misread document": superficially plausible but wrong.
+
+@@ naive | cunning
+contrast | Though the young clerk appeared [1], believing everything he was told, he was in fact remarkably [2], quietly manipulating his superiors. | Appears trusting; "in fact … manipulating" = crafty.
+
+@@ novel | trite
+contrast | The director's early films were praised as [1], unlike anything seen before, but her later ones seem [2], recycling the same tired devices. | "Unlike anything seen before" = original; "recycling the same tired devices" = unoriginal.
+
+@@ ubiquitous | scarce
+contrast | Once [1], found in nearly every household, the typewriter is now so [2] that collectors pay high prices for working models. | "Found in nearly every household" = everywhere; "collectors pay high prices" = scarce.
+
+@@ harmful | beneficial
+contrast | Although the drug was hailed as [1] when it was introduced, researchers later discovered its [2] side effects on the liver. | Hailed as good, "although … later discovered" harm. (i) beneficial, (ii) harmful.
+
+@@ alleviate | exacerbate
+contrast | The new policy, meant to [1] the housing shortage, has instead [2]ed it by encouraging speculation. | "Meant to … has instead": relieve, then worsen.
+
+@@ corroborate | refute
+contrast | The historian hoped the new documents would [1] her theory; instead, they [2] it decisively. | "Hoped … instead": confirm vs. disprove. (ii) takes past tense of "refute".
+
+@@ placate | provoke
+contrast | Rather than trying to [1] the angry crowd, the official's dismissive remarks seemed calculated to [2] it further. | "Rather than" calming, the remarks "seemed calculated to … further": stir up.
+
+@@ hinder | facilitate
+contrast | The regulations, intended to [1] trade between the two countries, have in practice [2]ed it with endless paperwork. | "Intended to … in practice … endless paperwork": make easier vs. obstruct.
+
+@@ dwindle | increase
+contrast | While membership in traditional clubs has steadily [1]ed, online communities have [2]ed, attracting millions of new participants. | "While … steadily" vs "attracting millions": decreased vs. grew rapidly.
+
+@@ outdated | modern
+contrast | The factory's equipment, once considered [1], is now so [2] that replacement parts are no longer manufactured. | "Once considered … now so … parts no longer manufactured": up to date, then obsolete.
+
+@@ lazy | diligent
+contrast | Once [1], the student transformed himself into a [2] scholar, spending every evening in the library. | "Once … transformed himself … every evening in the library": lazy, then hardworking.
+
+@@ joyful | sad
+contrast | The mood at the celebration was [1] at first, but it turned [2] when news of the accident arrived. | "At first … but it turned … news of the accident": happy, then gloomy.
+
+@@ genial | irritable
+contrast | The host was [1] with his guests all evening, yet with his own staff he was [2], snapping at every small mistake. | "Snapping at every small mistake" = irritable; contrast "yet" → friendly with guests.
+
+@@ ambiguous | explicit
+contrast | The first draft of the law was [1], open to several readings, so the committee rewrote it to be entirely [2]. | "Open to several readings" = ambiguous; rewritten to be clear = explicit.
+
+@@ secret | overt
+contrast | What began as [1] opposition, expressed only in private meetings, soon became [2] resistance, with protests in the public square. | "Only in private meetings" = secret; "protests in the public square" = open.
+
+@@ uniform | diverse
+contrast | The school's student body, once strikingly [1], is now remarkably [2], drawing pupils from over forty countries. | "Once strikingly … now … over forty countries": uniform, then diverse.
+
+@@ orthodox | unconventional
+contrast | The composer's early works were [1], following every rule of classical harmony, but her mature style is boldly [2]. | "Following every rule" = conventional; "but … boldly" = unconventional.
+
+@@ sporadic | incessant
+contrast | The shelling, which had been [1] in the first weeks of the siege, became [2] by midwinter, continuing day and night. | "Continuing day and night" = unceasing; contrast with the earlier state = occasional.
+
+@@ complex | simple
+contrast | The regulations appear [1] to outsiders, but their underlying logic is actually quite [2] once explained. | "Appear … to outsiders, but … once explained": complicated, then simple.
+
+@@ superfluous | indispensable
+contrast | The assistant, whom the director had once considered [1], proved [2] during the crisis, handling tasks no one else could. | "Once considered … proved … tasks no one else could": unnecessary, then essential.
+
+@@ pragmatic | quixotic
+contrast | Her opponents dismissed the proposal as [1], but she defended it as thoroughly [2], pointing to a detailed budget and timeline. | "Dismissed as" (impractical) vs. "defended … detailed budget and timeline" (practical).
+
+@@ belittle | praise-v
+contrast | Though rivals continued to [1] her achievements, calling them luck, the scientific community began to [2] her as the discipline's leading figure. | "Calling them luck" = belittle; "leading figure" = praise.
+
+@@ frugal | prodigal
+contrast | The founder was famously [1], reusing envelopes and turning off every light, while his heirs were so [2] that they spent the fortune in a decade. | "Reusing envelopes" = thrifty; "spent the fortune in a decade" = wasteful.
+
+@@ brave | cowardly
+contrast | The general's public speeches were [1] and defiant, but his conduct on the battlefield was [2]; he fled at the first sign of danger. | "Defiant" speeches vs. "fled at the first sign of danger".
+
+@@ impassive | passionate
+contrast | The actor's face remained [1] throughout the scene, yet his voice was [2], trembling with emotion. | "Face remained … yet his voice … trembling with emotion": emotionless vs. passionate.
+
+@@ enduring | ephemeral
+continuation | Her contributions to the field have been [1]: textbooks written decades ago still cite her work, and her methods remain in use. | (Single-cluster two-blank variant) — see below.
+
+@@ misc-noun | misc-noun
+skip | - | -
+
+@@ lethargy | alacrity
+contrast | The team, which had played with obvious [1] throughout the season, attacked the final game with unexpected [2]. | "Unexpected" signals contrast with the season: sluggishness, then eager energy.
+
+@@ discord | consensus
+contrast | After months of bitter [1] among the committee's members, the final vote revealed a surprising [2]: all twelve approved the plan. | "Months of bitter" disagreement vs. "all twelve approved" = agreement.
+
+@@ nadir | culmination
+contrast | The year that began as the [1] of the company's history, with losses and layoffs, ended as its [2], with record profits. | "Losses and layoffs" = low point; "record profits" = high point.
+
+@@ proponent | detractor
+contrast | Once one of the reform's most ardent [1]s, the senator has become its most outspoken [2], denouncing it in every speech. | "Most ardent" supporter → "denouncing it in every speech" = critic.
+
+@@ poverty | affluence
+contrast | The novelist, who spent his childhood in [1], lived his final years in such [2] that he owned three houses and a yacht. | Childhood in poverty vs. three houses and a yacht.
+
+@@ aversion | predilection
+contrast | Despite his professed [1] to publicity, the author showed a marked [2] for television interviews, appearing on every talk show. | "Despite … professed" dislike, he showed a liking: "appearing on every talk show".
+
+@@ remorse | audacity
+contrast | Instead of showing [1] for the damage he had caused, the driver had the [2] to demand compensation from the victim. | "Instead of" regret, he showed shocking boldness: demanding compensation.
+
+@@ composure | agitation
+contrast | The speaker began with admirable [1], but her [2] became obvious when the microphone failed and the audience began to jeer. | "Admirable" calm at first, "but … became obvious": anxiety.
+
+@@ inception | culmination
+continuation | From its [1], the project was troubled by delays, and its [2] — a half-finished bridge — reflected years of mismanagement. | "From its" = beginning; the final result = culmination.
+
+@@ acumen | folly
+contrast | Investors who had admired the founder's [1] were shocked by the [2] of his final venture, which lost everything within a year. | Admired judgment vs. a venture that lost everything = foolishness.
+
+@@ talkative | wordy | concise
+contrast | The professor was [1] in person, chatting with anyone who would listen, and his lectures were [2], full of long digressions; yet his published papers were remarkably [3]. | Chatting with anyone = talkative; long digressions = wordy; "yet … remarkably" = concise.
+
+@@ ambiguous | obfuscate | clarify
+continuation | The original contract was [1], and the lawyers' amendments only [2]ed its meaning further; it took a patient judge to finally [3] what the parties had intended. | Open to many readings; amendments made it more obscure ("further"); the judge made it clear.
+
+@@ stubborn | vacillate | steadfast
+contrast | The chairman was [1] on minor matters, refusing to yield an inch, yet on the major questions he tended to [2], changing his position from week to week; his deputy, by contrast, was [3] throughout. | "Refusing to yield" = stubborn; "changing his position" = waver; "by contrast" = firm.
+
+@@ ephemeral | pernicious-harmful | enduring
+skip | - | -
+
+@@ nascent | ubiquitous | outdated
+continuation | Twenty years ago the technology was [1], used only in a few laboratories; today it is [2], found in every home; and some experts predict it will soon be [3], replaced by something better. | "Only in a few laboratories" = just beginning; "in every home" = everywhere; "replaced" = obsolete.
+
+@@ modest-humble | haughty | obsequious
+skip | - | -
+
+@@ humble | haughty | obsequious
+contrast | Though [1] with her peers, the new manager became [2] with her subordinates, while toward her superiors she was almost [3]. | Modest with peers; "became" arrogant with subordinates; toward superiors: excessively eager to please.
+
+@@ scarce | abundant | plethora
+contrast | Reliable data on the disease were [1] a decade ago, but they are now [2]; indeed, researchers complain of a [3] of studies too large to review. | Scarce then, "but … now" abundant; "indeed … too large to review" = excess.
+
+@@ skeptical | naive | corroborate
+continuation | Most scientists were [1] of the claim, but a few [2] enthusiasts embraced it at once; only when three independent labs [3]ed the results did the skeptics relent. | Doubtful majority; credulous enthusiasts; independent labs confirmed the results.

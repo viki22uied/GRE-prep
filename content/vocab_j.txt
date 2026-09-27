@@ -1,0 +1,85 @@
+# High-frequency GRE words not covered by the synonym clusters (flashcard + distractor use).
+= misc-hf-adj | adj | - | -
+gregarious | 1 | fond of company; sociable | The gregarious host knew everyone at the party by name.
+audacious | 1 | showing a willingness to take bold risks | The audacious plan to tunnel under the river actually worked.
+complaisant | 2 | willing to please others; obliging | The complaisant clerk rearranged his schedule to help us.
+contrite | 1 | feeling or expressing remorse | The contrite student apologized to the whole class.
+empirical | 1 | based on observation or experience rather than theory | The theory lacked empirical support.
+implicit | 1 | implied though not directly expressed | There was implicit criticism in her silence.
+tacit | 1 | understood or implied without being stated | They had a tacit agreement not to discuss politics.
+irresolute | 2 | showing uncertainty; hesitant | The irresolute leader could not decide whether to advance.
+luminous | 2 | full of or shedding light; bright or shining | Her luminous prose made the science accessible.
+officious | 1 | assertive of authority in an annoying, domineering way | An officious guard insisted on checking our tickets three times.
+presumptuous | 2 | failing to observe the limits of what is appropriate | It was presumptuous of him to invite himself to dinner.
+ineffable | 1 | too great or extreme to be expressed in words | The ineffable beauty of the sunrise left them speechless.
+profound | 2 | very great or intense; showing great insight | The book had a profound effect on her thinking.
+pungent | 2 | having a sharply strong taste or smell; sharply critical | The pungent smell of garlic filled the kitchen.
+qualified | 1 | (of praise or approval) limited or restricted | The critic gave the film only qualified praise.
+rarefied | 2 | distant from ordinary life; esoteric; (of air) thin | The rarefied world of haute couture seemed remote to most shoppers.
+solicitous | 1 | characterized by showing interest or concern | The solicitous nurse checked on him every hour.
+sublime | 2 | of such excellence or beauty as to inspire great admiration | The view from the summit was sublime.
+permeable | 2 | allowing liquids or gases to pass through | Permeable pavement lets rainwater soak into the ground.
+porous | 2 | having minute spaces through which liquid or air may pass; (of a border) easy to cross | The porous border was difficult to police.
+viscous | 2 | having a thick, sticky consistency | Honey is more viscous than water.
+arbitrary | 1 | based on random choice or personal whim rather than reason | The referee's arbitrary decisions angered both teams.
+aesthetic | 1 | concerned with beauty or the appreciation of beauty | The building's aesthetic appeal outweighed its impracticality.
+exigent | 2 | pressing; demanding immediate attention | The exigent needs of the flood victims came first.
+inured | 1 | accustomed to something unpleasant | Years in the city had inured him to the noise.
+laconic-free | 0 | - | -
+
+= misc-hf-verb | verb | - | -
+ameliorate | 1 | make something bad or unsatisfactory better | Reforms were introduced to ameliorate conditions in the prisons.
+obviate | 1 | remove a need or difficulty; prevent | The new bridge obviates the need for a ferry.
+relegate | 2 | assign to an inferior rank or position | The once-popular band was relegated to small clubs.
+vex | 2 | make someone annoyed or worried | The constant delays vexed the passengers.
+disabuse | 1 | persuade someone that an idea or belief is mistaken | She quickly disabused him of the notion that the job would be easy.
+inundate | 1 | overwhelm with things to be dealt with; flood | After the ad aired, the company was inundated with calls.
+negate | 2 | nullify; make ineffective | The tax increase negated the benefits of the raise.
+satiate | 2 | satisfy a desire or appetite fully | The huge meal satiated even the hungriest guest.
+supplant | 1 | supersede and replace | Email has largely supplanted the handwritten letter.
+supersede | 2 | take the place of something previously in use | The new rules supersede the old guidelines.
+warrant | 1 | justify or necessitate a course of action | The minor error hardly warrants such a harsh punishment.
+abscond | 2 | leave hurriedly and secretly, typically to avoid arrest | The treasurer absconded with the club's funds.
+delineate | 1 | describe or portray precisely | The contract delineates each party's responsibilities.
+desiccate | 2 | remove the moisture from; dry out | The desert wind desiccated the fallen leaves.
+distend | 3 | swell because of pressure from inside | Hunger had distended the children's stomachs.
+distill | 2 | extract the essential meaning of | She distilled a year of research into a single chart.
+divest | 2 | deprive someone of power or possessions; sell off | The university divested its holdings in coal companies.
+emulate | 1 | match or surpass, typically by imitation | Young players try to emulate their heroes.
+enhance | 3 | intensify or improve the quality of | Good lighting enhances the paintings.
+flag | 1 | become tired or less enthusiastic (verb) | The runners' energy flagged in the final mile.
+forestall | 1 | prevent or obstruct by taking action ahead of time | The company cut prices to forestall competition.
+insinuate | 2 | suggest or hint in an indirect and unpleasant way | Are you insinuating that I cheated?
+plummet | 2 | fall or drop straight down at high speed | Stock prices plummeted after the announcement.
+proscribe | 1 | forbid, especially by law | The treaty proscribes the use of chemical weapons.
+quibble | 2 | argue about a trivial matter | They quibbled over the wording of a single clause.
+stint | 2 | supply an ungenerous amount of (verb) | Don't stint on quality when buying tools.
+stipulate | 2 | demand or specify as part of an agreement | The contract stipulates payment within thirty days.
+extrapolate | 2 | extend the application of a method or conclusion to an unknown situation | We can extrapolate future trends from past data.
+flounder | 2 | struggle mentally; be in serious difficulty | The new manager floundered in her first month.
+
+= misc-hf-noun | noun | - | -
+approbation | 1 | approval or praise | The plan won the approbation of the committee.
+opprobrium | 1 | harsh criticism or censure; public disgrace | The decision drew opprobrium from human rights groups.
+cacophony | 2 | a harsh, discordant mixture of sounds | A cacophony of car horns filled the street.
+decorum | 2 | behavior in keeping with good taste and propriety | The judge demanded decorum in her courtroom.
+deference | 1 | humble submission and respect | Out of deference to her grief, they postponed the meeting.
+discrepancy | 1 | an illegitimate or surprising lack of compatibility between facts | Auditors found a discrepancy in the accounts.
+dirge | 2 | a lament for the dead; a mournful song | The band played a dirge as the coffin passed.
+efficacy | 1 | the ability to produce a desired result | Doctors questioned the efficacy of the new drug.
+elegy | 2 | a poem of serious reflection, typically a lament for the dead | Her elegy for her father moved the mourners.
+emollient | 2 | something that soothes; (adj.) attempting to avoid confrontation | His emollient words calmed the angry crowd.
+euphemism | 2 | a mild word substituted for one considered too harsh | "Passed away" is a euphemism for "died."
+exigency | 3 | an urgent need or demand | The exigencies of war forced rationing.
+hyperbole | 1 | exaggerated statements not meant to be taken literally | Calling it "the worst day in history" was hyperbole.
+levity | 1 | humor or frivolity, especially when treating a serious matter | His levity at the funeral offended the family.
+magnanimity | 2 | the fact of being generous or forgiving, especially toward a rival | The victor showed magnanimity toward the defeated.
+piety | 2 | the quality of being religious or reverent | Her piety was evident in her daily prayers.
+plasticity | 2 | the quality of being easily shaped or molded | The plasticity of a child's brain helps with language learning.
+preamble | 3 | a preliminary or preparatory statement | The preamble to the constitution states its purposes.
+propriety | 1 | conformity to conventionally accepted standards of behavior | She always behaved with perfect propriety.
+reprobate | 3 | an unprincipled person | The novel's reprobate hero gambles away his fortune.
+supposition | 3 | an uncertain belief; an assumption | The theory rests on the supposition that people act rationally.
+welter | 3 | a large number of items in no order; a confused mass | A welter of conflicting reports made the truth hard to find.
+equivocation | 2 | the use of ambiguous language to conceal the truth | The senator's equivocation frustrated reporters.
+misnomer | 2 | a wrong or inaccurate name | "Koala bear" is a misnomer; the koala is not a bear.

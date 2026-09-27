@@ -1,0 +1,170 @@
+= ephemeral | adj | lasting a very short time | enduring
+ephemeral | 1 | lasting for a very short time | Fame on social media is often ephemeral, gone within a week.
+transient | 1 | lasting only for a short time; impermanent | The drug caused only transient side effects that disappeared within hours.
+transitory | 1 | not permanent | Their happiness proved transitory, ending with the harvest failure.
+evanescent | 2 | soon passing out of sight or memory; vanishing | The evanescent glow of the sunset faded before we could photograph it.
+fleeting | 2 | lasting for a very short time | She caught a fleeting glimpse of the fox before it vanished.
+fugitive | 3 | quick to disappear; fleeting | The poem tries to capture fugitive moments of joy.
+> contrast | Although the fashion seemed at first to be a lasting change in taste, it proved ____, vanishing within a single season. | "Although … lasting … vanishing within a single season" — short-lived.
+> continuation | The mayfly's life is famously ____: most adults live for only a single day. | "Live for only a single day" defines the blank.
+
+= enduring | adj | lasting a long time; permanent | ephemeral
+enduring | 3 | continuing or long-lasting | The novel's enduring popularity has lasted a century.
+perennial | 1 | lasting a very long time; recurring | Traffic congestion is a perennial complaint of city residents.
+abiding | 2 | lasting a long time; enduring | She had an abiding love of the sea.
+indelible | 2 | not able to be forgotten or removed | The war left an indelible mark on the town.
+perpetual | 2 | never ending or changing | The monks took a vow of perpetual silence.
+immutable | 1 | unchanging over time or unable to be changed | The laws of physics are, as far as we know, immutable.
+> contrast | Many expected the author's fame to fade after her death, but her influence on the genre has proved ____. | "Expected … to fade, but … proved" — the opposite: lasting.
+> continuation | The flood's effect on the survivors has been ____: decades later, they still speak of it as though it happened yesterday. | "Decades later … still speak of it" — long-lasting.
+
+= capricious | adj | given to sudden, unpredictable changes | steadfast
+capricious | 1 | given to sudden and unaccountable changes of mood or behavior | The capricious tyrant rewarded a courtier one day and imprisoned him the next.
+mercurial | 1 | subject to sudden or unpredictable changes of mood | The mercurial conductor could be charming at breakfast and furious by lunch.
+volatile | 1 | liable to change rapidly and unpredictably | Oil prices have been volatile all year.
+fickle | 1 | changing frequently, especially in loyalties | Fickle fans abandoned the team after one losing season.
+erratic | 2 | not even or regular in pattern; unpredictable | The patient's erratic heartbeat alarmed the nurses.
+inconstant | 3 | frequently changing; variable | The inconstant weather made planning the picnic impossible.
+> contrast | Unlike her ____ brother, whose moods shifted by the hour, she was steady and predictable. | "Unlike … whose moods shifted by the hour … steady" — changeable.
+> cause | Because the director's instructions were so ____, changing daily without explanation, the actors never knew what to expect. | Instructions "changing daily without explanation" — unpredictable.
+
+= steadfast | adj | firm and unwavering | capricious
+steadfast | 1 | resolutely or dutifully firm and unwavering | She remained steadfast in her support even after the scandal.
+unwavering | 2 | steady or resolute; not wavering | His unwavering commitment to the cause inspired others.
+staunch | 1 | very loyal and committed in attitude | A staunch ally, she defended him at every meeting.
+resolute | 2 | admirably purposeful and determined | Resolute in her decision, she ignored every attempt to dissuade her.
+unswerving | 3 | not changing or becoming weaker | He showed unswerving loyalty to his old teacher.
+> contrast | While many of the senator's allies abandoned him after the scandal, his wife remained ____ in her support. | "While many … abandoned him … remained" — firm and loyal.
+> continuation | Through decades of setbacks, the activist was ____, never once wavering in her commitment to reform. | "Never once wavering" restates the blank.
+
+= vacillate | verb | waver between different opinions or actions | commit
+vacillate | 1 | alternate or waver between different opinions or actions | He vacillated between law school and medicine for years.
+waver | 2 | be undecided between two opinions or courses of action | She never wavered in her belief that the defendant was innocent.
+oscillate | 2 | move or swing back and forth; waver | Public opinion oscillated between hope and despair.
+dither | 2 | be indecisive | While the council dithered, the building continued to decay.
+fluctuate | 2 | rise and fall irregularly in number or amount | Prices fluctuate with the seasons.
+> contrast | Rather than committing to a single plan, the committee continued to ____, first approving the proposal and then reversing itself. | "Rather than committing … approving … then reversing" — wavering.
+> cause | Because she could see merit in both job offers, she continued to ____ until the deadline had nearly passed. | Seeing merit in both causes indecision.
+
+= trivial | adj | of little importance or value | momentous
+trivial | 3 | of little value or importance | They quarreled over trivial matters like who took the last biscuit.
+trifling | 2 | unimportant or trivial | The error was trifling and easily corrected.
+negligible | 2 | so small as to be not worth considering | The difference in price between the two brands is negligible.
+inconsequential | 2 | not important or significant | The meeting dealt with inconsequential details and ignored the real problem.
+paltry | 1 | small or meager; petty | The company offered a paltry raise of one percent.
+picayune | 3 | petty; of little value | The editor ignored picayune complaints about comma placement.
+> contrast | The critics treated the discovery as ____, but it later proved to be the key to understanding the disease. | "Treated as … but it later proved to be the key" — they thought it unimportant.
+> cause | Because the damage to the car was ____, the insurer paid the claim without sending an inspector. | Paying without inspection makes sense only if the damage was minor.
+
+= momentous | adj | of great importance or significance | trivial
+momentous | 2 | of great importance or significance | The signing of the treaty was a momentous event.
+pivotal | 2 | of crucial importance in relation to development | The battle proved pivotal, turning the tide of the war.
+consequential | 2 | important; significant | The court's decision was the most consequential of the decade.
+seminal | 1 | strongly influencing later developments | Her seminal paper launched an entire field of research.
+paramount | 1 | more important than anything else; supreme | Safety is paramount in the design of aircraft.
+crucial | 3 | decisive or critical | Timing is crucial in comedy.
+> contrast | Although the meeting seemed routine at the time, historians now regard it as ____, the moment the alliance was truly born. | "Although … seemed routine … the moment the alliance was born" — very important.
+> continuation | Her ____ study reshaped the entire discipline, and nearly every later researcher has built upon it. | "Reshaped the entire discipline" — of great influence and importance.
+
+= abundant | adj | existing in large quantities; plentiful | scarce
+abundant | 3 | existing or available in large quantities | Fish were abundant in the cold northern waters.
+copious | 1 | abundant in supply or quantity | She took copious notes during the lecture.
+profuse | 2 | abundant; exuberantly plentiful | He offered profuse apologies for his mistake.
+plentiful | 3 | existing in or yielding great quantities | Food was plentiful after the harvest.
+ample | 3 | enough or more than enough; plentiful | There is ample evidence that the policy worked.
+bountiful | 2 | large in quantity; abundant | A bountiful harvest filled every barn in the valley.
+> contrast | Although water is scarce in most of the region, it is ____ in the valley, where springs flow even in drought. | "Although … scarce … springs flow even in drought" — plentiful.
+> continuation | The researcher kept ____ records of every experiment, filling dozens of notebooks each year. | "Filling dozens of notebooks" shows great quantity.
+
+= scarce | adj | insufficient; in short supply | abundant
+scarce | 3 | insufficient for the demand; rare | Fresh fruit was scarce during the long winter.
+scant | 2 | barely sufficient or adequate | The report paid scant attention to the environmental risks.
+meager | 1 | lacking in quantity or quality | The refugees survived on a meager diet of rice and water.
+sparse | 2 | thinly dispersed or scattered | Vegetation is sparse in the desert.
+exiguous | 3 | very small in size or amount | The museum survives on an exiguous budget.
+scanty | 3 | small or insufficient in quantity | The scanty evidence was not enough to convict him.
+> contrast | Although the author claimed to have conducted extensive research, the evidence in her book is ____. | "Claimed … extensive, although … the evidence" — the opposite: insufficient.
+> cause | Because rainfall had been ____ all year, the farmers harvested only a fraction of their usual crop. | A small harvest results from insufficient rain.
+
+= plethora | noun | an excess or large amount | dearth
+plethora | 1 | a large or excessive amount of something | The committee received a plethora of proposals, far more than it could review.
+surfeit | 1 | an excessive amount of something | A surfeit of rich food left the guests sluggish.
+glut | 2 | an excessively abundant supply | A glut of apartments on the market drove rents down.
+profusion | 2 | an abundance or large quantity | The garden bloomed with a profusion of roses.
+superabundance | 3 | a very great or excessive quantity | The superabundance of information online can be overwhelming.
+> contrast | The problem for today's researchers is not a lack of data but a ____ of it, more than anyone could ever analyze. | "Not a lack … but … more than anyone could analyze" — an excess.
+> cause | Because a ____ of wheat flooded the market, prices fell to their lowest level in decades. | Falling prices result from an oversupply.
+
+= dearth | noun | a scarcity or lack | plethora
+dearth | 1 | a scarcity or lack of something | A dearth of qualified teachers forced the school to cancel physics.
+paucity | 1 | the presence of something in only small quantities | The paucity of evidence made conviction impossible.
+scarcity | 3 | the state of being in short supply | Scarcity of water shaped every aspect of desert life.
+shortage | 3 | a state in which something needed cannot be obtained in sufficient amounts | A shortage of nurses strained the hospital.
+deficiency | 3 | a lack or shortage | Vitamin deficiency caused the sailors' illness.
+> contrast | Given the ____ of reliable sources from the period, historians must rely heavily on a single surviving diary. | Relying on a single diary follows from a lack of sources.
+> continuation | The region suffers from a ____ of doctors: there is only one physician for every ten thousand residents. | One physician per ten thousand — a scarcity.
+
+= generous | adj | very generous; giving freely | stingy
+munificent | 1 | larger or more generous than usual | A munificent gift from an alumna funded the new library.
+magnanimous | 1 | generous or forgiving, especially toward a rival | The magnanimous winner praised her opponent's courage.
+liberal | 3 | given, used, or occurring in generous amounts | The cook was liberal with the spices.
+bounteous | 3 | generously given; plentiful | Bounteous donations poured in after the earthquake.
+openhanded | 3 | giving freely; generous | The openhanded innkeeper refused to charge the stranded travelers.
+philanthropic | 2 | seeking to promote the welfare of others, especially by donating money | Her philanthropic foundation funds rural schools.
+> contrast | Although the billionaire was known as a miser in business, he was ____ toward charities, giving away most of his fortune. | "Although … a miser … giving away most of his fortune" — very generous.
+> continuation | The ____ donor not only paid for the new hospital wing but also endowed scholarships for nursing students. | Paying for a wing and endowing scholarships shows great generosity.
+
+= stingy | adj | unwilling to spend or give | generous
+parsimonious | 1 | unwilling to spend money; extremely frugal | The parsimonious landlord refused to replace the broken heater.
+miserly | 2 | hoarding wealth and spending as little as possible | The miserly old man ate bread and water despite his fortune.
+penurious | 2 | extremely stingy; also, extremely poor | His penurious habits—he reused tea bags for a week—amused his grandchildren.
+niggardly | 2 | not generous; stingy | The committee's niggardly grant barely covered the cost of paper.
+tightfisted | 3 | not willing to spend or give much money | The tightfisted boss never paid for the office party.
+stingy | 3 | unwilling to give or spend | Tips were stingy during the recession.
+> contrast | Though she was ____ in her own spending, rarely buying anything new, she gave generously to her grandchildren. | "Though … rarely buying anything new … gave generously" — unwilling to spend on herself.
+> cause | Because the university's budget office was so ____, departments had to beg for funds to buy even basic supplies. | Begging for basic supplies results from an unwillingness to spend.
+
+= frugal | adj | economical; avoiding waste | prodigal
+frugal | 1 | sparing or economical with money or food | A frugal lifestyle allowed them to retire early.
+thrifty | 2 | using money and resources carefully | Thrifty shoppers wait for the seasonal sales.
+economical | 3 | giving good value; careful in the use of resources | The economical design used half as much steel.
+provident | 2 | making or indicating timely preparation for the future | The provident farmer stored grain against a bad harvest.
+sparing | 3 | moderate; economical | She was sparing with praise, so her compliment meant a great deal.
+> contrast | Although his parents had been lavish spenders, he grew up to be ____, saving nearly half of every paycheck. | "Although … lavish spenders … saving nearly half" — economical.
+> continuation | The ____ household mended old clothes, grew its own vegetables, and wasted nothing. | Mending clothes and wasting nothing illustrate economy.
+
+= prodigal | adj | wastefully extravagant | frugal
+prodigal | 1 | spending money or resources freely and recklessly | The prodigal son spent his inheritance within a year.
+profligate | 1 | recklessly extravagant or wasteful | The government's profligate spending led to enormous debts.
+spendthrift | 2 | spending money in an extravagant, irresponsible way | His spendthrift habits left him bankrupt at forty.
+extravagant | 3 | spending much more than necessary | The extravagant wedding cost more than their house.
+improvident | 2 | not having or showing foresight; spendthrift | Improvident farmers ate their seed grain and had nothing to plant.
+> contrast | The founder had been careful with every penny, but his ____ heirs squandered the family fortune within a decade. | "Careful with every penny, but … squandered" — wastefully extravagant.
+> cause | Because the city had been so ____ during the boom years, it had no reserves when the recession arrived. | Having no reserves results from reckless spending.
+
+= greedy | adj | excessively desirous of wealth | generous
+avaricious | 1 | having extreme greed for wealth | The avaricious landlord raised the rent every six months.
+rapacious | 1 | aggressively greedy or grasping | Rapacious developers bulldozed the forest for luxury homes.
+covetous | 2 | having a great desire to possess something belonging to someone else | He cast covetous glances at his neighbor's new car.
+acquisitive | 2 | excessively interested in acquiring money or possessions | An acquisitive collector, she bought every painting she saw.
+grasping | 3 | avaricious; greedy | The grasping executor tried to keep the estate for himself.
+> contrast | The novel's heroine is generous to a fault, while her ____ sister schemes to acquire the family fortune. | "Generous to a fault, while … schemes to acquire the fortune" — greedy.
+> continuation | The ____ trading company seized every resource it could find and paid the local workers almost nothing. | Seizing resources and paying nothing illustrates greed.
+
+= corrupt | adj | willing to act dishonestly for money | upright
+venal | 1 | susceptible to bribery; corrupt | The venal judge sold verdicts to the highest bidder.
+corrupt | 3 | willing to act dishonestly for personal gain | Corrupt officials pocketed the relief funds.
+unscrupulous | 2 | having or showing no moral principles | Unscrupulous lenders targeted elderly homeowners.
+unprincipled | 2 | not acting in accordance with moral principles | The unprincipled candidate would say anything to win.
+mercenary | 2 | primarily concerned with making money at the expense of ethics | His mercenary approach to medicine alarmed his colleagues.
+> contrast | The reformers hoped the new commissioner would be incorruptible, but he proved as ____ as his predecessor, accepting bribes within months. | "Hoped … incorruptible, but … accepting bribes" — corrupt.
+> cause | Because the customs officers were so ____, smugglers simply paid them to look the other way. | Smugglers paying officers shows they could be bribed.
+
+= upright | adj | morally honest and principled | corrupt
+upright | 3 | strictly honorable or honest | An upright citizen, he returned the wallet with every dollar intact.
+principled | 2 | acting in accordance with morality | The principled senator refused campaign money from the industry she regulated.
+incorruptible | 2 | not susceptible to bribery; honest | The incorruptible inspector rejected every bribe offered to her.
+honorable | 3 | bringing or worthy of honor; honest | It was the honorable thing to admit the mistake.
+ethical | 3 | morally good or correct | The company prides itself on ethical sourcing.
+> contrast | Although many officials in the ministry took bribes, the new auditor was ____, refusing every offer. | "Although many … took bribes … refusing every offer" — honest.
+> continuation | The judge was famously ____; in forty years on the bench, no one ever questioned her honesty. | "No one ever questioned her honesty" restates the blank.

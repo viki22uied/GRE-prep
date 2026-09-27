@@ -1,0 +1,169 @@
+# Format
+#   = cluster-id | pos | gloss (what the blank means) | antonym-cluster-id
+#   word | tier | meaning | example sentence
+#   > signal | sentence with ____ | clue explanation
+# Words in one cluster are close synonyms, so any two can be the Sentence Equivalence pair.
+
+= talkative | adj | talkative; given to talking a great deal | taciturn
+garrulous | 1 | excessively talkative, especially about trivial things | The garrulous passenger described every detail of his vacation to anyone within earshot.
+loquacious | 1 | very talkative; fond of talking | Usually loquacious at dinner parties, Maya fell silent when the conversation turned to her divorce.
+voluble | 2 | speaking easily, rapidly and at length | A voluble tour guide, he filled every minute of the bus ride with anecdotes.
+talkative | 3 | fond of talking | The normally talkative child grew quiet in the presence of strangers.
+chatty | 3 | inclined to talk in a friendly, informal way | Her chatty emails were a welcome contrast to her boss's clipped messages.
+> contrast | Although the witness had been ____ in interviews with reporters, she said almost nothing once she was on the stand. | "Although … said almost nothing" sets up a contrast, so the blank must mean the opposite of silent: talkative.
+> cause | Because the host was so ____, his guests could scarcely get a word in during the entire evening. | Guests "could scarcely get a word in" — the cause is a host who talks constantly.
+> continuation | The famously ____ senator, who once spoke for nine hours straight, surprised no one by filibustering again. | "Spoke for nine hours straight" restates the blank: very talkative.
+
+= taciturn | adj | habitually silent; saying little | talkative
+taciturn | 1 | reserved or uncommunicative in speech; saying little | The taciturn farmer answered every question with a nod or a single word.
+reticent | 1 | not revealing one's thoughts or feelings readily; reserved | Normally reticent about her private life, the actress surprised fans with a candid memoir.
+reserved | 3 | slow to reveal emotion or opinions | Though reserved in meetings, he wrote the most forceful memos in the office.
+uncommunicative | 2 | unwilling to talk or give information | The uncommunicative suspect refused to answer even the simplest questions.
+tight-lipped | 3 | unwilling to speak or disclose information | Officials remained tight-lipped about the cause of the outage.
+> contrast | Her brother was expansive and chatty, but she was so ____ that many acquaintances assumed she was unfriendly. | "But" contrasts her with a chatty brother; people assumed she was unfriendly because she said little.
+> continuation | The ____ diplomat rarely offered more than a sentence, and reporters learned little from his press briefings. | "Rarely offered more than a sentence" restates the blank: saying little.
+
+= wordy | adj | using more words than needed | concise
+verbose | 1 | using more words than are needed | The verbose report ran to ninety pages when ten would have sufficed.
+prolix | 1 | tediously lengthy in speech or writing | The editor cut the prolix introduction to a single paragraph.
+long-winded | 3 | tediously long in speaking or writing | His long-winded toast left the guests glancing at their watches.
+wordy | 3 | using too many words | The wordy contract obscured a fairly simple agreement.
+periphrastic | 3 | using roundabout, indirect wording | The periphrastic memo never quite stated that layoffs were coming.
+circumlocutory | 3 | using many words to avoid saying something directly | Her circumlocutory answer avoided admitting that the project had failed.
+> contrast | The novelist's early stories were models of economy, but her later books became so ____ that critics begged for an editor. | "Models of economy, but" signals a shift to the opposite: using far too many words.
+> cause | Because the professor's lectures were ____, students often lost the main point amid endless qualifications and digressions. | "Endless qualifications and digressions" describes speech that uses too many words.
+
+= concise | adj | brief and to the point | wordy
+concise | 2 | giving much information clearly in few words | A concise summary at the top saved readers from wading through the full report.
+succinct | 1 | briefly and clearly expressed | Her succinct reply — "No" — ended the discussion.
+terse | 1 | sparing in words, sometimes abruptly so | The terse telegram said only, "Arriving Tuesday. Stop."
+pithy | 1 | concise and full of meaning | The coach was known for pithy sayings that players repeated for years.
+laconic | 1 | using very few words | His laconic reply, "Perhaps," revealed nothing of his plans.
+compendious | 3 | containing all essential facts in a brief form | The compendious guide covered the entire history of the city in thirty pages.
+> contrast | Unlike his rambling predecessor, the new spokesperson gave ____ answers that rarely exceeded a sentence or two. | "Unlike his rambling predecessor" signals the opposite of rambling: brief.
+> continuation | The best epigrams are ____: they compress a complicated truth into a handful of memorable words. | "Compress … into a handful of words" defines the blank: brief and to the point.
+
+= praise-v | verb | praise highly | criticize-v
+extol | 1 | praise enthusiastically | Travel writers extol the island's beaches, but the locals prefer its quiet hills.
+laud | 1 | praise, especially in public | The mayor lauded the volunteers who cleaned the river.
+acclaim | 2 | praise enthusiastically and publicly | Critics acclaimed the debut novel as a masterpiece.
+exalt | 2 | praise or hold in very high regard | The poem exalts the courage of ordinary workers.
+eulogize | 2 | praise highly, especially in a speech after death | Colleagues eulogized the scientist as a generous mentor.
+glorify | 3 | praise and worship; describe as more admirable than it is | The film was criticized for seeming to glorify violence.
+> contrast | Although critics once dismissed her paintings as crude, they now ____ the same works as daring innovations. | "Although critics once dismissed" contrasts with what they do now: praise highly.
+> continuation | Admirers of the reform were eager to ____ its architects, publishing tributes and nominating them for awards. | "Publishing tributes and nominating them for awards" restates the blank: praise.
+
+= criticize-v | verb | criticize severely | praise-v
+excoriate | 1 | criticize very severely | The editorial excoriated the council for ignoring the flood warnings.
+castigate | 1 | reprimand or criticize severely | The coach castigated his players for their careless defense.
+lambaste | 2 | criticize harshly | Reviewers lambasted the sequel as a lazy imitation of the original.
+berate | 2 | scold or criticize angrily | She berated the contractor for leaving the job half-finished.
+upbraid | 2 | scold or reproach sharply | The manager upbraided the clerk for his rudeness to a customer.
+pillory | 2 | attack or ridicule publicly | The minister was pilloried in the press after the scandal broke.
+> contrast | Rather than praising the report's candor, the committee chose to ____ its authors for revealing embarrassing figures. | "Rather than praising" signals the opposite: criticize harshly.
+> cause | The auditor's findings were so damning that even the chairman's allies felt compelled to ____ him publicly. | "Damning findings" led even allies to criticize him severely.
+
+= reproach-v | verb | express mild disapproval; scold gently | praise-v
+admonish | 1 | warn or reprimand firmly but mildly | The librarian admonished the students to keep their voices down.
+reprove | 2 | reprimand or censure gently | She reproved her son for interrupting, then let him finish.
+chide | 2 | scold mildly | His grandmother chided him for forgetting to call.
+rebuke | 2 | express sharp disapproval of | The judge rebuked the lawyer for badgering the witness.
+reprimand | 2 | formally express disapproval of | The officer was reprimanded for arriving late to his post.
+> contrast | The teacher did not punish the tardy pupils; she merely ____ed them, reminding them gently that class began at eight. | "Did not punish … merely … reminding them gently" points to mild disapproval.
+> continuation | Instead of firing the careless intern, the editor chose to ____ him privately and let him keep his position. | "Instead of firing … privately" indicates a mild scolding rather than harsh punishment.
+
+= belittle | verb | speak of as unimportant; disparage | praise-v
+disparage | 1 | regard or represent as being of little worth | Rivals disparaged her research as unoriginal, though it was widely cited.
+denigrate | 1 | criticize unfairly; belittle | He denigrated his opponents' achievements to make his own seem larger.
+belittle | 2 | make someone or something seem unimportant | Don't belittle the small improvements; together they add up.
+deprecate | 2 | express disapproval of; belittle | She deprecated her own talents so often that others began to believe her.
+decry | 2 | publicly denounce | Environmental groups decried the decision to open the forest to logging.
+> contrast | Rather than ____ing the contributions of junior staff, the director made a point of crediting them by name. | "Rather than … crediting them by name" — the blank is the opposite of giving credit: belittling.
+> cause | Because he felt threatened by his colleague's success, he took every opportunity to ____ her work in meetings. | Feeling threatened motivates making her work seem unimportant.
+
+= slander-v | verb | damage someone's reputation with false claims | praise-v
+malign | 1 | speak harmful untruths about | The candidate complained that she had been maligned by anonymous ads.
+vilify | 1 | speak or write about in an abusively disparaging way | Once celebrated, the general was vilified after the failed campaign.
+defame | 2 | damage the good reputation of | The court ruled that the article had defamed the doctor.
+calumniate | 3 | make false and defamatory statements about | Pamphlets calumniated the reformer as a foreign agent.
+traduce | 3 | speak badly of or tell lies about | Her enemies traduced her character in the hope of ending her career.
+besmirch | 2 | damage the reputation of | The scandal besmirched the family name for generations.
+> contrast | Though his rivals tried to ____ him with fabricated stories, the public continued to regard him as honest. | "Fabricated stories" versus being regarded as honest: the blank means damage a reputation with lies.
+> continuation | The anonymous pamphlets sought to ____ the judge, accusing her of bribes that no investigation ever found. | Accusations of bribes "no investigation ever found" are false claims meant to damage her reputation.
+
+= praise-n | noun | expression of high praise | invective
+encomium | 2 | a speech or piece of writing that praises highly | The retiring professor blushed through an encomium delivered by her former student.
+panegyric | 2 | a public speech or text in praise of someone | The biography reads less like a history than a panegyric to its subject.
+paean | 2 | a song or text of praise or triumph | The film is a paean to the jazz musicians of 1950s Harlem.
+accolade | 1 | an award or expression of praise | The novel received every major literary accolade that year.
+plaudits | 2 | praise; enthusiastic approval | The rescue team won plaudits for its swift response.
+tribute | 3 | an act or statement showing gratitude or admiration | The concert was a tribute to the composer's lifelong work.
+> contrast | The review was not the ____ the author's publicist had promised; instead it catalogued the book's many flaws. | "Instead it catalogued the book's many flaws" contrasts with the expected praise.
+> continuation | At the retirement dinner, colleague after colleague rose to deliver a glowing ____ to the beloved professor. | "Glowing" and the occasion signal a speech of praise.
+
+= invective | noun | harsh, abusive criticism | praise-n
+invective | 1 | insulting, abusive, or highly critical language | The debate quickly descended into personal invective.
+diatribe | 1 | a forceful and bitter verbal attack | His resignation letter was a three-page diatribe against the board.
+tirade | 1 | a long, angry speech of criticism | The coach's tirade in the locker room was heard down the hall.
+philippic | 3 | a bitter verbal attack | The senator's philippic against corruption drew cheers from the gallery.
+harangue | 2 | a lengthy and aggressive speech | We endured a harangue about punctuality after arriving two minutes late.
+vituperation | 2 | bitter and abusive language | The columnist's vituperation made reasoned debate impossible.
+> contrast | Far from offering the measured critique readers expected, the essay was an unrestrained ____ against the author's former colleagues. | "Far from … measured critique" means the essay was the opposite: a bitter attack.
+> cause | Stung by the defeat, the candidate launched into a ____ against the press that alienated even his supporters. | Anger after a defeat produces a bitter, abusive speech.
+
+= scathing | adj | bitterly and harshly critical | laudatory
+scathing | 1 | witheringly scornful; severely critical | The critic's scathing review closed the play within a week.
+vituperative | 1 | bitter and abusive | The vituperative exchange between the senators embarrassed their parties.
+caustic | 1 | sarcastic in a scathing and bitter way | Her caustic wit made her feared in faculty meetings.
+acerbic | 1 | sharp and forthright, often sarcastically | The columnist's acerbic remarks rarely spared anyone.
+mordant | 2 | having a sharp or critical quality; biting | His mordant humor exposed the hypocrisy of the powerful.
+vitriolic | 2 | filled with bitter criticism or malice | The vitriolic letters to the editor revealed how divided the town had become.
+> contrast | Although the critic is personally gentle, her reviews are notoriously ____, often reducing novelists to tears. | "Although … personally gentle" contrasts with reviews that reduce writers to tears: harsh.
+> continuation | The senator's ____ remarks about his opponent, which included several personal insults, drew a formal rebuke. | "Several personal insults" restates the blank: bitterly critical.
+
+= laudatory | adj | expressing praise | scathing
+laudatory | 1 | expressing praise and commendation | The film received laudatory reviews from nearly every major critic.
+adulatory | 2 | praising excessively | The adulatory profile read more like fan mail than journalism.
+complimentary | 3 | expressing praise or admiration | Her supervisor's complimentary remarks were noted in her file.
+eulogistic | 3 | praising highly | The obituary was eulogistic, omitting the man's many controversies.
+glowing | 3 | expressing great praise | She received glowing letters of recommendation from all three professors.
+> contrast | Given how bitterly the two had quarreled, readers were surprised that his memoir was so ____ about his former partner. | "Given how bitterly they had quarreled … surprised" signals the unexpected: praise.
+> continuation | The committee's report was ____, praising the program's design, its staff, and its measurable results. | "Praising the program's design…" restates the blank.
+
+= obsequious | adj | excessively eager to please or obey | haughty
+obsequious | 1 | excessively obedient or attentive; fawning | The obsequious waiter hovered over the celebrity's table all night.
+sycophantic | 1 | behaving like a flatterer to gain advantage | The CEO surrounded himself with sycophantic advisers who never disagreed.
+fawning | 2 | displaying exaggerated flattery or affection | The fawning coverage of the new mayor ignored his obvious mistakes.
+servile | 2 | excessively willing to serve or please others | His servile manner toward his superiors contrasted with his rudeness to staff.
+unctuous | 2 | excessively flattering or ingratiating; oily | The unctuous salesman praised every car we so much as glanced at.
+ingratiating | 2 | intended to gain approval or favor | Her ingratiating smile vanished as soon as the manager left the room.
+> contrast | While the junior staff were ____ toward the new director, praising his every remark, the veterans treated him with cool skepticism. | "While … the veterans treated him with cool skepticism" contrasts with praising his every remark: fawning.
+> cause | Because his promotion depended on the chairman's goodwill, he became almost ____, agreeing with everything the chairman said. | Dependence on goodwill leads to agreeing with everything: excessively eager to please.
+
+= haughty | adj | arrogantly superior and disdainful | obsequious
+haughty | 1 | arrogantly superior and disdainful | The haughty duchess refused to shake hands with the servants.
+supercilious | 1 | behaving as though one thinks one is superior | His supercilious smirk suggested that he found our questions beneath him.
+condescending | 2 | having an attitude of patronizing superiority | The expert's condescending tone alienated the audience he hoped to persuade.
+disdainful | 2 | showing contempt or lack of respect | She cast a disdainful glance at the cheap souvenirs.
+imperious | 1 | assuming power or authority without justification; domineering | The imperious director issued orders without ever asking for input.
+lordly | 3 | haughty and arrogant, as though of high rank | He dismissed the complaints with a lordly wave of his hand.
+> contrast | Despite her humble origins, the heiress adopted a ____ manner, treating shopkeepers as though they were beneath her notice. | "Despite her humble origins" contrasts with treating others as beneath her: arrogantly superior.
+> continuation | The critic's ____ attitude toward popular fiction — which he called "entertainment for the unlettered" — irritated many readers. | Calling it "entertainment for the unlettered" displays arrogant superiority.
+
+= humble | adj | modest; not proud | haughty
+humble | 3 | having a modest opinion of one's own importance | Despite her fame, she remained humble and approachable.
+modest | 3 | unassuming in estimating one's abilities | He was modest about his role, crediting the team for the victory.
+unassuming | 2 | not pretentious or arrogant; modest | The unassuming professor turned out to have won a Nobel Prize.
+self-effacing | 2 | not claiming attention for oneself | Self-effacing to a fault, she let others present her discoveries.
+unpretentious | 2 | not attempting to impress by appearing more important | The unpretentious café served the best food in the city.
+> contrast | Although he was the most accomplished scientist in the department, he was remarkably ____, rarely mentioning his own achievements. | "Although … the most accomplished … rarely mentioning his achievements" points to modesty.
+> continuation | The ____ founder insisted on sitting with the interns at lunch and never referred to her considerable wealth. | Sitting with interns and not mentioning wealth illustrate modesty.
+
+= boastful | adj | excessively proud and self-promoting | humble
+boastful | 3 | showing excessive pride in oneself | His boastful speeches wore thin once the team began losing.
+vainglorious | 2 | excessively proud of oneself | The vainglorious general commissioned statues of himself in every city.
+pompous | 2 | affectedly grand, solemn, or self-important | The pompous official insisted on being addressed by his full title.
+conceited | 3 | excessively proud of oneself; vain | Her conceited remarks about her own beauty made the other guests uncomfortable.
+self-aggrandizing | 2 | acting to increase one's own importance | His self-aggrandizing memoir took credit for other people's work.
+> contrast | Unlike her ____ rival, who never missed a chance to trumpet his own victories, the champion let her results speak for themselves. | "Unlike … trumpet his own victories" defines the rival as boastful.
+> continuation | The ____ memoir credits its author with nearly every success of the administration and blames colleagues for every failure. | Crediting oneself with every success is excessive self-promotion.

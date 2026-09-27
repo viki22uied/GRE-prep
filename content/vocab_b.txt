@@ -1,0 +1,218 @@
+= stubborn | adj | stubbornly refusing to change or yield | compliant
+obstinate | 1 | stubbornly refusing to change one's opinion or course | The obstinate committee member voted against every compromise.
+intransigent | 1 | unwilling to change one's views or to agree | Negotiations stalled because both unions remained intransigent.
+recalcitrant | 1 | stubbornly uncooperative toward authority | The recalcitrant student refused to follow even simple instructions.
+obdurate | 2 | stubbornly refusing to change, even when persuaded | The obdurate landlord ignored every plea to repair the heating.
+intractable | 2 | hard to control or deal with | The dispute proved intractable, lasting nearly a decade.
+refractory | 3 | stubborn or unmanageable | The refractory mule would not budge despite the farmer's coaxing.
+pertinacious | 3 | holding firmly to an opinion or course of action | The pertinacious reporter called the ministry every day for a month.
+> contrast | Although the mediator expected the two sides to soften their demands, both remained ____ and the talks collapsed. | "Although … expected … to soften … remained" — the opposite of softening: stubborn.
+> cause | Because the senator was so ____ on the issue, no amount of evidence could persuade her to reconsider. | "No amount of evidence could persuade her" describes stubborn refusal to change.
+
+= compliant | adj | willing to obey or go along; easily managed | stubborn
+compliant | 2 | disposed to agree with others or obey rules | The compliant board approved every proposal without debate.
+tractable | 1 | easy to control or influence | The once-rebellious colt had become tractable after months of patient training.
+docile | 1 | ready to accept control or instruction; submissive | The docile crowd filed out quietly when the police arrived.
+pliant | 2 | easily influenced; flexible | The dictator preferred pliant ministers who would not question him.
+amenable | 1 | open and responsive to suggestion | The director was amenable to changing the ending if test audiences disliked it.
+acquiescent | 2 | ready to accept something without protest | The acquiescent staff accepted the pay cut without complaint.
+malleable | 2 | easily influenced; able to be shaped | Young children's opinions are malleable and shift with whoever they last spoke to.
+> contrast | The new recruits were ____ at first, following every order, but they grew rebellious as the training dragged on. | "At first … but they grew rebellious" — the earlier state is the opposite: obedient and easily managed.
+> continuation | The board was entirely ____, approving the chief executive's proposals without a single dissenting vote. | "Approving … without a single dissenting vote" restates willingness to go along.
+
+= diligent | adj | hardworking and careful in one's efforts | lazy
+diligent | 2 | showing care and conscientiousness in work | A diligent researcher, she checked every citation twice.
+assiduous | 1 | showing great care, attention, and effort | Thanks to assiduous practice, the pianist mastered the sonata in a month.
+sedulous | 2 | showing dedication and diligence | The sedulous archivist spent years cataloguing the letters.
+industrious | 2 | diligent and hardworking | The industrious bees had filled the hive by midsummer.
+indefatigable | 1 | persisting tirelessly | The indefatigable volunteer knocked on thousands of doors before the election.
+tireless | 3 | having or showing great effort and energy | Her tireless advocacy finally brought clean water to the village.
+> contrast | Although he was ____ in the laboratory, working late into the night, he was notoriously lax about grading his students' papers. | "Although … working late into the night … lax" — the first clause shows hard work.
+> continuation | The ____ editor combed through every page of the manuscript, correcting even the smallest errors. | "Combed through every page … correcting even the smallest errors" illustrates careful hard work.
+
+= lazy | adj | unwilling to work or exert oneself; sluggish | diligent
+indolent | 1 | wanting to avoid activity or exertion; lazy | The indolent heir spent his days sleeping and his nights at parties.
+slothful | 2 | lazy; inactive | Slothful habits formed during the long vacation proved hard to break.
+lethargic | 1 | sluggish and apathetic | The heat left everyone lethargic by midafternoon.
+torpid | 2 | mentally or physically inactive; sluggish | The economy remained torpid despite the new stimulus.
+languid | 2 | displaying a disinclination for effort; relaxed and slow | She gave a languid wave from the hammock but did not get up.
+lackadaisical | 2 | lacking enthusiasm and determination; carelessly lazy | The team's lackadaisical defense allowed three easy goals.
+> contrast | The once-energetic student had become strangely ____, sleeping through classes and ignoring deadlines. | "Once-energetic … had become" signals a change to the opposite: lazy and sluggish.
+> cause | Because the afternoon heat was so oppressive, the normally busy workers grew ____ and accomplished little. | Oppressive heat causes sluggishness.
+
+= careless | adj | done hastily or without care | meticulous
+cursory | 1 | hasty and therefore not thorough | A cursory glance at the contract failed to reveal the hidden fees.
+perfunctory | 1 | carried out with minimum effort, as a routine duty | The guard gave our passports a perfunctory look and waved us through.
+desultory | 2 | lacking a plan or purpose; halfhearted | The desultory conversation drifted from topic to topic without enthusiasm.
+superficial | 3 | existing or occurring at the surface; not thorough | A superficial inspection missed the cracks in the foundation.
+slapdash | 3 | done too hurriedly and carelessly | The slapdash repairs failed within a week.
+> contrast | The inspector's review was ____ rather than thorough; he glanced at the wiring and signed the form in under a minute. | "Rather than thorough … glanced … under a minute" defines the blank: hasty and not thorough.
+> continuation | Bored by the routine assignment, the clerk gave the files only a ____ examination and missed several obvious errors. | Boredom and "missed several obvious errors" signal a careless, hasty review.
+
+= meticulous | adj | extremely careful and precise | careless
+meticulous | 1 | showing great attention to detail | The meticulous restorer spent a week cleaning a single square inch of the painting.
+scrupulous | 1 | very careful and thorough; also morally careful | Scrupulous record-keeping allowed the auditors to finish in a day.
+punctilious | 2 | showing great attention to details of correct behavior | The punctilious butler never once forgot a guest's title.
+fastidious | 1 | very attentive to accuracy and detail; hard to please | The fastidious chef rejected any plate that was not perfectly arranged.
+painstaking | 2 | done with great care and thoroughness | Painstaking research uncovered the letters in a forgotten archive.
+exacting | 2 | making great demands on one's skill or attention | The exacting standards of the orchestra meant constant rehearsal.
+> contrast | Her notes were ____, with every source dated and cross-referenced, whereas her co-author's were a jumble of scraps. | "Whereas … a jumble of scraps" contrasts with organized, detailed notes.
+> continuation | The ____ accountant checked each figure three times, and her reports never contained a single error. | Checking each figure three times shows extreme care.
+
+= cautious | adj | careful to avoid risk | reckless
+circumspect | 1 | wary and unwilling to take risks | Investors grew circumspect after the market's sudden plunge.
+wary | 2 | feeling or showing caution about possible dangers | Wary of strangers, the cat hid whenever the doorbell rang.
+chary | 2 | cautiously or suspiciously reluctant | Chary of making promises, the minister spoke only in general terms.
+prudent | 1 | acting with care and thought for the future | It would be prudent to save part of your bonus.
+guarded | 3 | cautious and having possible reservations | Her guarded optimism reflected years of disappointing trials.
+leery | 3 | cautious or wary due to suspicion | Voters were leery of candidates who promised to cut taxes and raise spending.
+> contrast | Unlike her impulsive partner, who gambled on every new venture, she was ____ and invested only after months of research. | "Unlike her impulsive partner … only after months of research" — the opposite of impulsive: cautious.
+> cause | Burned by two failed ventures, the investor had become ____, refusing to commit money without extensive guarantees. | Past failures cause caution.
+
+= reckless | adj | acting without thought for consequences | cautious
+reckless | 3 | heedless of danger or consequences | Reckless driving on the icy road caused the pileup.
+rash | 2 | acting without careful consideration | He regretted his rash decision to quit before securing another job.
+impetuous | 1 | acting quickly without thought or care | In an impetuous moment, she bought a plane ticket to Lisbon.
+foolhardy | 2 | recklessly bold | Climbing the peak without ropes was foolhardy, not brave.
+heedless | 2 | showing a reckless lack of care or attention | Heedless of the warnings, the hikers set out as the storm arrived.
+temerarious | 3 | reckless; rash | The temerarious investor staked his whole fortune on a single untested company.
+> contrast | Though she had always been careful with money, her ____ purchase of a failing restaurant stunned her friends. | "Though she had always been careful" contrasts with an unexpectedly thoughtless purchase.
+> continuation | The general's ____ decision to attack without scouting the terrain cost him half his army. | Attacking "without scouting" shows action without thought for consequences.
+
+= brave | adj | fearless; courageous | cowardly
+intrepid | 1 | fearless; adventurous | Intrepid explorers mapped the glacier in the dead of winter.
+dauntless | 2 | showing fearlessness and determination | The dauntless reporter kept broadcasting as shells fell nearby.
+valiant | 2 | possessing or showing courage | Despite a valiant effort, the team lost in overtime.
+undaunted | 2 | not intimidated or discouraged | Undaunted by three rejections, she submitted her novel a fourth time.
+doughty | 3 | brave and persistent | The doughty old sailor refused to abandon his ship.
+stouthearted | 3 | courageous or determined | The stouthearted villagers rebuilt the dam after every flood.
+> contrast | Although the other guides turned back at the first sign of the storm, the ____ climber pressed on toward the summit. | "Although the others turned back … pressed on" — the climber shows courage.
+> continuation | Only the most ____ journalists remained in the besieged city, reporting despite constant shelling. | Remaining under shelling illustrates fearlessness.
+
+= cowardly | adj | lacking courage; easily frightened | brave
+pusillanimous | 1 | showing a lack of courage or determination | The pusillanimous council refused to take any stand on the controversy.
+craven | 2 | contemptibly lacking in courage | His craven surrender shocked the troops who had fought beside him.
+timorous | 2 | showing or suffering from nervousness or lack of confidence | A timorous knock at the door announced the new intern.
+fainthearted | 3 | lacking courage; timid | The fainthearted investors sold at the first sign of trouble.
+spineless | 3 | lacking courage or determination | Critics called the spineless compromise a betrayal of principle.
+> contrast | The committee's response was ____ rather than bold: faced with a controversy, it simply postponed any decision. | "Rather than bold … simply postponed" points to a lack of courage.
+> cause | Because the mayor feared losing votes, he took the ____ course of saying nothing about the scandal. | Fear of losing votes leads to a course lacking courage.
+
+= calm | adj | peaceful and not easily upset | agitated
+placid | 1 | not easily upset or excited; calm | The placid surface of the lake reflected the mountains perfectly.
+serene | 2 | calm, peaceful, and untroubled | She remained serene even as the flight hit severe turbulence.
+tranquil | 2 | free from disturbance; calm | The tranquil garden was a refuge from the noisy city.
+unflappable | 1 | having or showing calmness in a crisis | The unflappable pilot calmly guided the damaged plane to a safe landing.
+imperturbable | 1 | unable to be upset or excited | The imperturbable diplomat smiled through a barrage of insults.
+composed | 3 | having one's feelings under control; calm | Though her hands shook, her voice was composed.
+> contrast | While the other passengers panicked as the ship listed, the captain remained ____, calmly directing people to the lifeboats. | "While the others panicked … calmly directing" — the captain is calm.
+> continuation | The negotiator was famously ____; no insult or threat could provoke even a flicker of irritation. | "No insult or threat could provoke" restates calmness.
+
+= agitated | adj | troubled, nervous, or upset | calm
+agitated | 3 | feeling troubled or nervous | The agitated passengers demanded to know why the train had stopped.
+overwrought | 2 | in a state of nervous excitement or anxiety | The overwrought parents called the police when their son was an hour late.
+frenetic | 2 | fast and energetic in a wild, uncontrolled way | The frenetic pace of the trading floor exhausted new employees.
+distraught | 2 | deeply upset and agitated | Distraught relatives waited outside the hospital for news.
+perturbed | 2 | anxious or unsettled; upset | She was perturbed by the silence from her usually chatty daughter.
+flustered | 3 | agitated or confused | The flustered speaker dropped her notes and lost her place.
+> contrast | Normally composed, the lawyer grew ____ when the surprise witness contradicted her client's story. | "Normally composed … grew" signals a change to the opposite: upset and nervous.
+> cause | Because the flight had been delayed for six hours, the passengers became increasingly ____, pacing and shouting at the staff. | The delay causes nervous, upset behavior.
+
+= impassive | adj | showing no emotion | passionate
+impassive | 1 | not feeling or showing emotion | The judge listened to the verdict with an impassive face.
+stolid | 2 | calm, dependable, and showing little emotion | The stolid farmer showed no reaction to the news of the drought.
+phlegmatic | 1 | having an unemotional and calm disposition | Her phlegmatic temperament suited the tense work of air-traffic control.
+dispassionate | 2 | not influenced by strong emotion; impartial | A dispassionate review of the evidence favored the defendant.
+stoic | 2 | enduring pain or hardship without showing feelings | The stoic soldier never complained about his wounds.
+> contrast | Though the verdict devastated the family, the defendant himself remained ____, betraying no emotion as it was read. | "Though … devastated … betraying no emotion" — the defendant shows no feeling.
+> continuation | The pianist's ____ expression gave no hint of the passion in the music she was playing. | "Gave no hint of the passion" defines the blank: showing no emotion.
+
+= passionate | adj | showing intense feeling or enthusiasm | impassive
+ardent | 1 | enthusiastic or passionate | An ardent supporter of public libraries, she donated her entire collection.
+fervent | 1 | having or displaying passionate intensity | The fervent crowd sang the anthem three times.
+fervid | 2 | intensely enthusiastic, sometimes excessively | His fervid speeches inspired followers but alarmed moderates.
+zealous | 1 | having great energy or enthusiasm for a cause | Zealous volunteers registered thousands of new voters.
+impassioned | 2 | filled with or showing great emotion | Her impassioned plea moved the jury to tears.
+vehement | 2 | showing strong feeling; forceful | The proposal met vehement opposition from residents.
+> contrast | Although he had once been a ____ advocate of the policy, campaigning for it across the state, he later became its chief critic. | "Once … campaigning for it across the state" — his earlier support was enthusiastic.
+> continuation | The ____ fans camped outside the stadium for two nights just to secure tickets. | Camping for two nights shows intense enthusiasm.
+
+= irritable | adj | easily annoyed or angered | genial
+irascible | 1 | having or showing a tendency to be easily angered | The irascible editor threw manuscripts at writers who missed deadlines.
+choleric | 3 | bad-tempered or irritable | His choleric outbursts made meetings tense.
+cantankerous | 2 | bad-tempered and argumentative | The cantankerous neighbor complained about every party on the street.
+testy | 2 | easily irritated; impatient | The judge grew testy as the lawyer repeated the same question.
+petulant | 1 | childishly sulky or bad-tempered | The star's petulant refusal to perform delayed the show for an hour.
+peevish | 2 | easily irritated, especially by unimportant things | Hungry and tired, the children grew peevish in the back seat.
+splenetic | 3 | bad-tempered; spiteful | The splenetic critic seemed to dislike everything he reviewed.
+> contrast | Although the old professor was gentle with his students, he was notoriously ____ with colleagues, snapping at the slightest disagreement. | "Although … gentle … snapping at the slightest disagreement" — easily angered.
+> cause | Because he had slept poorly for a week, the normally easygoing manager became ____ and snapped at anyone who interrupted him. | Lack of sleep causes irritability.
+
+= genial | adj | friendly and pleasant | irritable
+genial | 2 | friendly and cheerful | The genial host greeted every guest by name.
+affable | 1 | friendly, good-natured, and easy to talk to | The affable senator was popular even with his opponents.
+amiable | 2 | having a friendly and pleasant manner | The amiable dog wagged its tail at every stranger.
+cordial | 2 | warm and friendly | Despite their rivalry, the two chefs maintained a cordial relationship.
+congenial | 2 | pleasant because of a personality or interests similar to one's own | She found the small department congenial and stayed for thirty years.
+convivial | 2 | friendly, lively, and enjoyable | The convivial dinner lasted well past midnight.
+> contrast | Though he was feared as a ruthless negotiator, in private the tycoon was surprisingly ____, joking easily with waiters and drivers. | "Though feared as ruthless … joking easily" — in private he is friendly.
+> continuation | The new manager's ____ manner — she remembered everyone's name and asked about their families — quickly won over the staff. | Remembering names and asking about families illustrates friendliness.
+
+= sad | adj | deeply sad or gloomy | joyful
+melancholy | 2 | having a feeling of pensive sadness | The melancholy music suited the gray November afternoon.
+morose | 1 | sullen and ill-tempered; gloomy | After the defeat, the team sat morose and silent on the bus.
+lugubrious | 2 | looking or sounding sad and dismal, often exaggeratedly | His lugubrious tone made even good news sound like a funeral announcement.
+doleful | 2 | expressing sorrow; mournful | The puppy gave a doleful whimper when its owner left.
+despondent | 1 | in low spirits from loss of hope | Despondent after months of unemployment, he stopped applying for jobs.
+disconsolate | 2 | unable to be comforted; very unhappy | The disconsolate child refused to leave the spot where her kite had vanished.
+forlorn | 2 | pitifully sad and abandoned | A forlorn umbrella lay broken in the gutter.
+> contrast | Although the family's mood was ____ during the long winter of illness, it turned jubilant when the doctors announced her recovery. | "Although … turned jubilant" — before the recovery, the mood was gloomy.
+> cause | Because his novel had been rejected by every publisher, the young author was ____ for weeks. | Repeated rejection causes sadness.
+
+= joyful | adj | full of high spirits and joy | sad
+jubilant | 1 | feeling or expressing great happiness and triumph | Jubilant fans poured onto the field after the final whistle.
+ebullient | 1 | cheerful and full of energy | Her ebullient personality lit up every meeting.
+exuberant | 2 | full of energy, excitement, and cheerfulness | The exuberant children raced across the beach.
+buoyant | 2 | cheerful and optimistic | Buoyant after the good reviews, the cast celebrated late into the night.
+effervescent | 2 | vivacious and enthusiastic | The effervescent host kept the audience laughing all evening.
+elated | 2 | ecstatically happy | She was elated to learn she had won the scholarship.
+> contrast | The losing team was despondent, while the winners were ____, singing and spraying each other with champagne. | "While" contrasts with despondent; singing and celebrating shows joy.
+> continuation | The ____ crowd danced in the streets for hours after hearing that the war had ended. | Dancing for hours illustrates great happiness.
+
+= optimistic | adj | hopeful and confident about the future | pessimistic
+sanguine | 1 | optimistic, especially in a difficult situation | The doctors were sanguine about her chances of full recovery.
+optimistic | 3 | hopeful about the future | Despite the losses, the CEO remained optimistic about next year.
+hopeful | 3 | feeling or inspiring optimism | Early test results were hopeful but not conclusive.
+upbeat | 3 | cheerful; optimistic | The minister gave an upbeat assessment of the economy.
+roseate | 3 | optimistic, often unrealistically | The brochure painted a roseate picture of life in the new suburb.
+> contrast | Though most analysts predicted a recession, the treasury secretary remained ____, insisting that growth would continue. | "Though most predicted a recession … insisting that growth would continue" — hopeful.
+> continuation | The coach was ____ about the season, predicting that the young team would reach the playoffs. | Predicting success shows optimism.
+
+= pessimistic | adj | expecting the worst | optimistic
+pessimistic | 3 | tending to see the worst aspect of things | Pessimistic forecasts led the company to cancel the expansion.
+cynical | 2 | distrustful of human sincerity or integrity | Years in politics had made her cynical about campaign promises.
+defeatist | 2 | expecting or accepting failure | The coach refused to tolerate defeatist talk in the locker room.
+fatalistic | 2 | believing that events are fixed and cannot be changed | His fatalistic attitude kept him from even trying to fix the problem.
+dour | 2 | stern and gloomy in manner | The dour inspector found fault with everything.
+> contrast | The early reports were encouraging, but the economist remained ____, warning that the recovery would soon stall. | "Encouraging, but … warning that the recovery would soon stall" — expecting the worst.
+> cause | Because every previous reform had failed, the villagers were ____ about the new plan's chances. | Repeated failure causes expectation of failure.
+
+= serious | adj | grave and solemn | flippant
+solemn | 3 | formal and dignified; not cheerful | The solemn ceremony honored the fallen soldiers.
+grave | 3 | giving cause for alarm; serious | The doctor's grave expression told us the news before she spoke.
+earnest | 2 | resulting from sincere and intense conviction | His earnest apology convinced us that he meant it.
+sober | 3 | serious, sensible, and solemn | The sober report outlined the risks without exaggeration.
+staid | 2 | sedate, respectable, and unadventurous | The staid bank was slow to embrace online services.
+sedate | 3 | calm, dignified, and unhurried | The retirees took a sedate stroll along the promenade.
+> contrast | The comedian's stage persona was wild and irreverent, but offstage he was surprisingly ____, rarely even smiling. | "Wild and irreverent, but offstage … rarely even smiling" — serious.
+> continuation | The ____ tone of the ceremony, with its long silences and formal speeches, matched the gravity of the occasion. | "Long silences and formal speeches … gravity" restates seriousness.
+
+= flippant | adj | not showing proper seriousness | serious
+flippant | 1 | not showing a serious or respectful attitude | His flippant response to the complaint enraged the customer.
+facetious | 1 | treating serious issues with inappropriate humor | Her facetious remark at the funeral drew icy stares.
+glib | 1 | fluent but insincere and shallow | The spokesman's glib answers did little to reassure worried parents.
+jocular | 2 | fond of or characterized by joking | His jocular manner put nervous patients at ease.
+frivolous | 2 | not having any serious purpose or value | The court dismissed the lawsuit as frivolous.
+jocose | 3 | playful or humorous | The jocose letter made light of what had been a stressful week.
+> contrast | The grieving family expected a respectful tribute, but the speaker's ____ remarks made light of the tragedy. | "Expected a respectful tribute, but … made light of" — not showing proper seriousness.
+> cause | Because the official's answer was so ____, many listeners concluded that he did not take the crisis seriously. | Listeners concluded he did not take it seriously because the answer lacked seriousness.

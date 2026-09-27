@@ -1,0 +1,401 @@
+= outdated | adj | no longer current; old-fashioned | modern
+antiquated | 1 | old-fashioned or outdated | The office still relied on antiquated computers.
+archaic | 1 | very old or old-fashioned | Archaic laws against dueling remain on the books.
+obsolete | 2 | no longer produced or used; out of date | Typewriters became obsolete with the rise of computers.
+outmoded | 2 | old-fashioned; no longer acceptable | The company abandoned its outmoded hiring practices.
+anachronistic | 1 | belonging to a period other than the one portrayed; out of date | The film's use of a wristwatch in ancient Rome was anachronistic.
+passé | 2 | no longer fashionable; out of date | Last year's hit songs already sound passé.
+> contrast | Although the factory's machinery was cutting-edge in the 1970s, it is now hopelessly ____. | "Although … cutting-edge … now hopelessly" — outdated.
+> cause | Because its methods were so ____, the old firm lost clients to competitors using modern technology. | Losing clients to modern competitors results from outdated methods.
+
+= modern | adj | up to date; current | outdated
+contemporary | 3 | belonging to or occurring in the present | The museum specializes in contemporary art.
+state-of-the-art | 3 | incorporating the newest ideas and features | The hospital bought state-of-the-art scanners.
+up-to-date | 3 | incorporating the latest information or developments | Keep your antivirus software up-to-date.
+newfangled | 3 | newly developed and unfamiliar (often disapproving) | Grandpa refused to use newfangled gadgets.
+cutting-edge | 3 | at the latest stage of development; innovative | The lab conducts cutting-edge research on batteries.
+> contrast | While the town's library was stuck with decades-old equipment, the new university lab was entirely ____. | "While … decades-old equipment … entirely" — up to date.
+> continuation | The hospital's ____ facilities include the newest imaging machines and robotic surgical tools. | "The newest imaging machines" restates up to date.
+
+= trite | adj | overused and unoriginal | novel
+trite | 1 | overused and consequently of little import; lacking originality | The film's trite dialogue drew laughs in all the wrong places.
+hackneyed | 1 | lacking significance through having been overused | "Only time will tell" is a hackneyed phrase.
+banal | 1 | so lacking in originality as to be obvious and boring | The speech was a series of banal observations about the weather.
+clichéd | 2 | showing a lack of originality; overused | The clichéd ending surprised no one.
+stale | 3 | no longer new and interesting | His jokes had grown stale after years of repetition.
+derivative | 1 | imitative of the work of another; unoriginal | Critics dismissed the album as derivative of the Beatles.
+> contrast | Although the plot sounds ____ in summary — boy meets girl, boy loses girl — the novel's execution is strikingly fresh. | "Although … in summary … strikingly fresh" — the plot sounds unoriginal.
+> cause | Because the poet relied on the same tired images that countless others had used, reviewers found her work ____. | "Tired images that countless others had used" — unoriginal.
+
+= novel | adj | new and original | trite
+novel | 2 | new or unusual in an interesting way | The researchers proposed a novel approach to the problem.
+innovative | 3 | featuring new methods; advanced and original | The innovative design won several awards.
+groundbreaking | 3 | innovative; pioneering | Her groundbreaking study changed the field.
+original | 3 | not derivative; inventive | His original ideas made him a sought-after consultant.
+unprecedented | 2 | never done or known before | The storm caused unprecedented flooding.
+pioneering | 3 | involving new ideas or methods | The pioneering surgeon performed the first heart transplant.
+> contrast | The critics expected yet another tired sequel, but the film's approach was genuinely ____, unlike anything the studio had made before. | "Expected yet another tired sequel, but … unlike anything … before" — new and original.
+> continuation | The scientist's ____ method, which no one had ever tried, solved a problem that had puzzled researchers for decades. | "No one had ever tried" — new.
+
+= mundane | adj | dull and ordinary; lacking excitement | exciting
+mundane | 1 | lacking interest or excitement; dull | She longed to escape the mundane routine of office life.
+prosaic | 1 | having the style of prose; commonplace and unromantic | The truth behind the legend turned out to be rather prosaic.
+pedestrian | 1 | lacking inspiration or excitement; dull | The pedestrian prose failed to capture the drama of the events.
+humdrum | 3 | lacking excitement or variety; boring | They lived a humdrum existence in the suburbs.
+insipid | 1 | lacking flavor, vigor, or interest | The insipid dialogue put the audience to sleep.
+vapid | 1 | offering nothing stimulating or challenging; bland | The vapid talk show filled time with celebrity gossip.
+> contrast | Although the subject of the book — the history of salt — sounds ____, the author makes it utterly fascinating. | "Although … sounds … utterly fascinating" — dull.
+> continuation | The movie's plot was as ____ as its dialogue; nothing surprising happened in the entire two hours. | "Nothing surprising happened" — dull.
+
+= exciting | adj | lively and stimulating | mundane
+scintillating | 2 | sparkling or shining brightly; brilliantly clever or amusing | The dinner was enlivened by her scintillating wit.
+riveting | 3 | completely engrossing | The documentary was riveting from start to finish.
+piquant | 3 | pleasantly stimulating or exciting to the mind | The novel offers a piquant mix of romance and satire.
+stimulating | 3 | encouraging interest or enthusiasm | The seminar provoked a stimulating discussion.
+electrifying | 3 | causing a sudden sense of thrilling excitement | The band gave an electrifying performance.
+> contrast | The lecture was billed as a dry technical talk, but the speaker's ____ delivery kept the audience enthralled. | "Billed as dry … but … kept the audience enthralled" — exciting.
+> continuation | Her ____ conversation, full of witty stories and unexpected insights, made her the most sought-after dinner guest in town. | Witty stories and insights — lively and stimulating.
+
+= orthodox | adj | conforming to accepted beliefs or practice | unconventional
+orthodox | 2 | conforming to what is generally accepted as right or true | His orthodox views put him at odds with the reformers.
+conventional | 3 | based on what is generally done or believed | The conventional wisdom held that the market would recover.
+traditional | 3 | existing in or as part of a tradition | The chef preferred traditional recipes.
+conformist | 3 | conforming to accepted behavior or established practices | The conformist culture of the firm stifled new ideas.
+mainstream | 3 | belonging to the ideas considered normal or conventional | Her views, once radical, are now mainstream.
+> contrast | Although the young economist's early papers were thoroughly ____, her later work challenged nearly every assumption of her field. | "Although … early papers … later work challenged every assumption" — conforming to accepted views.
+> continuation | The committee favored ____ candidates who would uphold the institution's traditions rather than challenge them. | "Uphold traditions rather than challenge them" — conforming.
+
+= unconventional | adj | not conforming to accepted beliefs or practice | orthodox
+unorthodox | 2 | contrary to what is usual or generally accepted | The coach's unorthodox training methods produced champions.
+heterodox | 2 | not conforming with accepted standards or beliefs | His heterodox theories were ridiculed before being vindicated.
+iconoclastic | 1 | characterized by attacking cherished beliefs | The iconoclastic filmmaker mocked the conventions of Hollywood.
+idiosyncratic | 1 | peculiar or individual | Her idiosyncratic spelling made her letters hard to read.
+eccentric | 2 | unconventional and slightly strange | The eccentric professor lectured in a cape.
+nonconformist | 3 | not conforming to prevailing ideas or practices | The nonconformist artist refused to join any movement.
+> contrast | While most of her colleagues accepted the prevailing theory, she held ____ views that the establishment dismissed. | "While most … accepted the prevailing theory" — her views did not conform.
+> continuation | The architect's ____ designs — houses shaped like shells, towers that leaned — defied every convention of her profession. | "Defied every convention" — unconventional.
+
+= complex | adj | complicated and hard to follow | simple
+convoluted | 1 | extremely complex and difficult to follow | The convoluted plot confused even attentive viewers.
+labyrinthine | 2 | like a labyrinth; complicated and confusing | The labyrinthine tax code baffles most citizens.
+byzantine | 2 | excessively complicated, typically involving a great deal of detail | Byzantine regulations delayed the permit for a year.
+intricate | 2 | very complicated or detailed | The intricate mechanism of the watch fascinated him.
+tortuous | 2 | full of twists and turns; excessively lengthy and complex | The tortuous negotiations dragged on for years.
+knotty | 3 | extremely difficult or intricate | The committee debated the knotty question of funding.
+> contrast | The rules of the game seem ____ to newcomers, but experienced players find them simple and logical. | "Seem … to newcomers, but … simple and logical" — complicated.
+> cause | Because the approval process was so ____, involving dozens of offices and forms, many small businesses simply gave up. | Dozens of offices and forms make the process complicated.
+
+= simple | adj | easy to understand; uncomplicated | complex
+straightforward | 3 | uncomplicated and easy to do or understand | The instructions were straightforward.
+uncomplicated | 3 | simple or straightforward | Her uncomplicated explanation made sense to everyone.
+elementary | 3 | relating to the most rudimentary aspects of a subject; simple | The mistake was elementary.
+facile | 2 | (of a task) easily achieved; (of ideas) superficial | The facile victory made the team overconfident.
+> contrast | Although the procedure sounds complicated, it is actually quite ____, and most patients master it in a single session. | "Although … sounds complicated … master it in a single session" — simple.
+> continuation | The new tax form is ____: a single page with five clear questions. | "A single page with five clear questions" — simple.
+
+= nascent | adj | just coming into existence; beginning to develop | mature
+nascent | 1 | just coming into existence and beginning to display signs of future potential | The nascent industry had only a handful of companies.
+incipient | 1 | in an initial stage; beginning to happen or develop | The doctor treated the incipient infection before it spread.
+embryonic | 2 | in a rudimentary stage with potential for development | The plan is still in an embryonic stage.
+inchoate | 2 | just begun and so not fully formed or developed | Her ideas were inchoate, but promising.
+budding | 3 | beginning and showing signs of promise | The budding novelist published her first story at nineteen.
+fledgling | 2 | new or inexperienced (adjective) | The fledgling democracy struggled with corruption.
+> contrast | The movement was still ____ when the government crushed it; it had only a few dozen members and no clear program. | "A few dozen members and no clear program" — just beginning.
+> continuation | The ____ technology is promising but far from mature, and its first products are crude and expensive. | "Promising but far from mature" — just beginning to develop.
+
+= diverse | adj | varied; made up of different kinds | uniform
+diverse | 3 | showing a great deal of variety | The city has a diverse population.
+heterogeneous | 1 | diverse in character or content | The class was heterogeneous, with students from twenty countries.
+eclectic | 1 | deriving ideas or style from a broad range of sources | Her eclectic taste in music ranges from Bach to hip-hop.
+variegated | 2 | exhibiting different colors; marked by variety | The variegated leaves of the plant are green and white.
+motley | 2 | incongruously varied in appearance or character | A motley crew of sailors, students, and retirees joined the protest.
+multifarious | 3 | many and of various types | His multifarious interests included beekeeping and astronomy.
+> contrast | Unlike the uniform housing of the older suburb, the new neighborhood's architecture is ____, mixing cottages, towers, and converted warehouses. | "Unlike the uniform … mixing cottages, towers, and warehouses" — varied.
+> continuation | The festival draws a ____ audience: farmers, students, tourists, and retirees all attend. | Farmers, students, tourists and retirees — varied.
+
+= uniform | adj | the same throughout; unvaried | diverse
+homogeneous | 1 | of the same kind; alike | The sample was homogeneous, so the results cannot be generalized.
+uniform | 3 | not changing in form or character; the same in all cases | The houses were uniform in size and color.
+monolithic | 2 | large, powerful, and indivisibly uniform | Voters are not a monolithic group.
+undifferentiated | 3 | not different or differentiated | The report treated all customers as an undifferentiated mass.
+standardized | 3 | made uniform in size, shape, or quality | Standardized parts made repairs quick and cheap.
+> contrast | Although the region is often treated as culturally ____, it actually contains dozens of distinct languages and traditions. | "Although … often treated as … actually contains dozens of distinct" — all the same.
+> cause | Because the study's participants were so ____ — all young, male, and wealthy — its findings may not apply to the general population. | All young, male, and wealthy — alike.
+
+= ubiquitous | adj | found everywhere | rare
+ubiquitous | 1 | present, appearing, or found everywhere | Smartphones have become ubiquitous.
+omnipresent | 2 | widely or constantly encountered | The omnipresent billboards advertised the same soda.
+pervasive | 1 | spreading widely throughout an area or group | A pervasive smell of smoke filled the city.
+prevalent | 2 | widespread in a particular area or at a particular time | The disease is prevalent in tropical regions.
+rife | 2 | (of something undesirable) widespread | The industry was rife with corruption.
+rampant | 2 | flourishing or spreading unchecked | Rampant inflation destroyed the currency.
+> contrast | Once rare luxuries, smartphones are now ____, found in the pockets of nearly every adult. | "Once rare … now … nearly every adult" — found everywhere.
+> continuation | Corruption was ____ in the old regime: every official, from the highest minister to the lowest clerk, expected bribes. | "Every official … expected bribes" — widespread.
+
+= sporadic | adj | occurring irregularly, now and then | incessant
+sporadic | 1 | occurring at irregular intervals or only in a few places | Sporadic gunfire could be heard throughout the night.
+intermittent | 1 | occurring at irregular intervals; not continuous | Intermittent rain delayed the match several times.
+episodic | 2 | occurring occasionally and at irregular intervals | The patient suffered episodic headaches.
+fitful | 2 | active or occurring spasmodically or intermittently | He slept a fitful sleep, waking every hour.
+spasmodic | 3 | occurring in brief, irregular bursts | Spasmodic efforts at reform achieved little.
+> contrast | The fighting, which had been constant for months, became ____ after the ceasefire, breaking out only occasionally. | "Constant … became … only occasionally" — irregular.
+> continuation | Her attendance at the meetings was ____; she came once or twice a season, at no predictable time. | "Once or twice a season, at no predictable time" — irregular.
+
+= incessant | adj | continuing without interruption | sporadic
+incessant | 1 | continuing without pause or interruption | The incessant noise of the construction kept us awake.
+ceaseless | 2 | constant and unending | The ceaseless wind wore down the rocks.
+unremitting | 2 | never relaxing or slackening; incessant | The team faced unremitting pressure from the press.
+relentless | 2 | oppressively constant; unceasing | The relentless heat lasted for weeks.
+interminable | 1 | endless (often used hyperbolically) | The interminable meeting lasted four hours.
+> contrast | The rain was not the brief shower forecasters had promised but ____, falling day and night for a week. | "Not the brief shower … falling day and night for a week" — without pause.
+> cause | Because the neighbors' dog's barking was ____, continuing through the entire night, no one on the street could sleep. | "Continuing through the entire night" — without pause.
+
+= inevitable | adj | certain to happen; unavoidable | contingent
+inevitable | 2 | certain to happen; unavoidable | Given the losses, the layoffs were inevitable.
+ineluctable | 2 | unable to be resisted or avoided; inescapable | The play depicts the ineluctable fall of a proud king.
+inexorable | 1 | impossible to stop or prevent | The inexorable rise of sea levels threatens the coast.
+inescapable | 3 | unable to be avoided or denied | The conclusion was inescapable: the data were faked.
+unavoidable | 3 | not able to be avoided, prevented, or ignored | The delay was unavoidable because of the storm.
+> contrast | Although the collapse of the empire seems ____ in hindsight, few at the time believed it could ever fall. | "Seems … in hindsight … few … believed it could ever fall" — certain to happen.
+> continuation | Given the company's mounting debts and falling sales, bankruptcy was ____; nothing could have saved it. | "Nothing could have saved it" — unavoidable.
+
+= contingent | adj | dependent on something else; uncertain | inevitable
+contingent | 1 | dependent on something that may or may not happen | The offer is contingent on a satisfactory inspection.
+conditional | 3 | subject to one or more conditions being met | Her acceptance is conditional on her final grades.
+provisional | 2 | arranged or existing for the present, possibly to be changed later | The provisional government ruled until elections.
+dependent | 3 | contingent on or determined by | The harvest is dependent on the weather.
+> contrast | Far from being guaranteed, the funding for the project is ____ on the success of a pilot study. | "Far from being guaranteed … on the success of a pilot study" — dependent.
+> continuation | The deal is ____: it will go forward only if regulators approve the merger. | "Only if regulators approve" — dependent on a condition.
+
+= relevant | adj | closely connected to the matter at hand | extraneous
+germane | 1 | relevant to a subject under consideration | Her comments were not germane to the discussion.
+pertinent | 1 | relevant or applicable to a particular matter | Please keep your questions pertinent to the topic.
+relevant | 3 | closely connected or appropriate to the matter at hand | The lawyer objected that the evidence was not relevant.
+apposite | 2 | apt in the circumstances or in relation to something | She ended with an apposite quotation.
+apropos | 3 | with reference to; appropriate | His remark was apropos of nothing we had discussed.
+material | 3 | significant; relevant | The witness omitted a material fact.
+> contrast | The senator's long story about his childhood seemed irrelevant at first, but it proved ____ to his argument about school funding. | "Seemed irrelevant at first, but it proved" — relevant.
+> continuation | The judge admitted only evidence that was ____ to the charges, excluding everything else as beside the point. | "Excluding everything else as beside the point" — relevant.
+
+= extraneous | adj | irrelevant; not belonging | relevant
+extraneous | 1 | irrelevant or unrelated to the subject being dealt with | The editor cut the extraneous details from the story.
+tangential | 1 | only slightly relevant; diverging from a previous course | His answer was tangential to the question.
+peripheral | 2 | of secondary or minor importance; marginal | These are peripheral issues that can wait.
+irrelevant | 3 | not connected with or relevant to something | His criminal record was irrelevant to the case.
+immaterial | 2 | unimportant under the circumstances; irrelevant | Whether he meant to do it is immaterial.
+> contrast | The first draft was focused and precise, but later revisions added so much ____ material that the main argument was buried. | "Focused and precise, but … the main argument was buried" — irrelevant material.
+> cause | Because so many of the witness's remarks were ____ to the case, the judge repeatedly told her to stick to the facts. | "Stick to the facts" — the remarks were irrelevant.
+
+= apt | adj | appropriate; suitable | inappropriate
+apt | 2 | appropriate or suitable in the circumstances | The name was apt: the town really was windy.
+felicitous | 2 | well chosen or suited to the circumstances | Her felicitous choice of words calmed the angry crowd.
+fitting | 3 | suitable or appropriate | It was a fitting tribute to a great teacher.
+befitting | 3 | appropriate to | He was buried with honors befitting a hero.
+seemly | 3 | conforming to accepted notions of propriety | It was hardly seemly to laugh at the funeral.
+> contrast | While the first translator's word choices were often awkward, the second found ____ phrases that captured the poet's meaning exactly. | "While … often awkward … captured the meaning exactly" — well suited.
+> continuation | The mayor's closing quotation was perfectly ____: it summed up the spirit of the occasion in a single line. | "Summed up the spirit … in a single line" — appropriate.
+
+= inappropriate | adj | not suitable or proper | apt
+infelicitous | 2 | unfortunate; inappropriate | An infelicitous remark about her age offended the guest of honor.
+unseemly | 2 | not proper or appropriate | The two candidates engaged in an unseemly shouting match.
+indecorous | 2 | not in keeping with good taste and propriety | Laughing during the ceremony was indecorous.
+unbecoming | 3 | not appropriate to a person's position | The officer was dismissed for conduct unbecoming.
+untoward | 2 | unexpected and inappropriate or adverse | Nothing untoward happened during the ceremony.
+> contrast | The occasion called for dignity, but the guests' ____ behavior — shouting, laughing, and arguing — embarrassed the hosts. | "Called for dignity, but … shouting, laughing" — improper.
+> cause | Because it seemed ____ to celebrate while so many were grieving, the town postponed the festival. | Postponing because celebrating would be improper.
+
+= incongruous | adj | out of place; not in harmony | consistent
+incongruous | 1 | not in harmony or keeping with the surroundings | The modern glass tower looked incongruous among the medieval houses.
+anomalous | 1 | deviating from what is standard or expected | The anomalous results suggested an error in the experiment.
+discordant | 2 | disagreeing or incongruous | The bright colors struck a discordant note in the somber room.
+jarring | 3 | incongruous in a striking or shocking way | The jarring shift in tone confused the audience.
+aberrant | 2 | departing from an accepted standard | His aberrant behavior worried his family.
+> contrast | In a house full of antique furniture, the plastic chair looked distinctly ____. | "In a house full of antiques … plastic chair" — out of place.
+> continuation | The comic scene seemed ____ in such a tragic play, jarring the audience out of its somber mood. | "Jarring … out of its somber mood" — out of place.
+
+= consistent | adj | in agreement; harmonious | incongruous
+consonant | 2 | in agreement or harmony with | The decision is consonant with the company's values.
+congruent | 2 | in agreement or harmony | Her actions were congruent with her words.
+compatible | 3 | able to exist together without conflict | The two systems are not compatible.
+commensurate | 1 | corresponding in size or degree; in proportion | Salary will be commensurate with experience.
+coherent | 3 | logical and consistent | The report presented a coherent plan.
+> contrast | Although the treasurer claimed to support transparency, his refusal to release the accounts was hardly ____ with that claim. | "Claimed to support transparency … refusal … hardly" — in agreement.
+> continuation | The new findings are ____ with earlier studies, which reached the same conclusions using different methods. | "Reached the same conclusions" — in agreement.
+
+= excessive | adj | more than is necessary or reasonable | moderate
+excessive | 3 | more than is necessary, normal, or desirable | Excessive rainfall flooded the fields.
+inordinate | 1 | unusually or disproportionately large; excessive | He spent an inordinate amount of time on his hair.
+immoderate | 2 | lacking moderation; excessive | Immoderate drinking ruined his health.
+exorbitant | 2 | (of a price) unreasonably high | The hotel charged exorbitant rates during the festival.
+undue | 3 | unwarranted or inappropriate because excessive | The judge warned against giving undue weight to the testimony.
+> contrast | The critic did not object to the length of the novel as such, only to the ____ attention it paid to trivial details. | Objecting to attention to trivial details — too much.
+> cause | Because the rent was ____, twice the price of similar apartments nearby, the unit stayed empty for months. | "Twice the price" — unreasonably high.
+
+= moderate | adj | avoiding extremes; restrained | excessive
+temperate | 2 | showing moderation or self-restraint | The minister's temperate response calmed the dispute.
+measured | 3 | slow and regular; carefully considered | Her measured tone contrasted with his angry shouting.
+restrained | 3 | characterized by reserve or moderation | The critic offered restrained praise.
+abstemious | 1 | not self-indulgent, especially in eating and drinking | The abstemious monk ate one meal a day.
+> contrast | Despite the provocation, the president's reply was ____, avoiding the harsh words many had expected. | "Despite the provocation … avoiding the harsh words" — restrained.
+> continuation | The new policy represents a ____ approach, avoiding both the extreme cuts some demanded and the lavish spending others wanted. | "Avoiding both extremes" — moderate.
+
+= superfluous | adj | unnecessary; more than enough | indispensable
+superfluous | 1 | unnecessary, especially through being more than enough | The editor deleted superfluous words from every sentence.
+redundant | 2 | not or no longer needed; superfluous | The new machine made several jobs redundant.
+gratuitous | 1 | uncalled for; lacking good reason; unwarranted | The film's gratuitous violence offended many viewers.
+dispensable | 3 | able to be replaced or done without | In a crisis, luxuries are dispensable.
+otiose | 3 | serving no practical purpose | The committee's otiose report was never read.
+> contrast | The first draft was full of ____ adjectives, but the final version kept only the words that were absolutely essential. | "Kept only the words that were absolutely essential" — the others were unnecessary.
+> continuation | Critics complained that the film's violence was ____, adding nothing to the story and serving only to shock. | "Adding nothing to the story" — unnecessary.
+
+= indispensable | adj | absolutely necessary | superfluous
+indispensable | 2 | absolutely necessary | A good dictionary is indispensable to a translator.
+essential | 3 | absolutely necessary; extremely important | Water is essential to life.
+requisite | 2 | made necessary by circumstances or regulations | She lacked the requisite experience for the job.
+integral | 2 | necessary to make a whole complete; fundamental | Music is an integral part of the ceremony.
+imperative | 2 | of vital importance; crucial | It is imperative that we act now.
+> contrast | Once considered a luxury, a reliable internet connection is now ____ for most businesses. | "Once considered a luxury … now" — absolutely necessary.
+> cause | Because the lead engineer was ____ to the project, the company offered her a large bonus to stay. | A bonus to stay because she was absolutely necessary.
+
+= hedonistic | adj | devoted to pleasure and self-indulgence | ascetic
+hedonistic | 2 | devoted to the pursuit of pleasure | The hedonistic prince spent his days feasting.
+sybaritic | 2 | fond of sensuous luxury or pleasure; self-indulgent | The resort offered a sybaritic retreat of spas and banquets.
+epicurean | 2 | devoted to sensual enjoyment, especially of food and drink | The epicurean menu featured truffles and rare wines.
+self-indulgent | 3 | indulging one's own desires to excess | His self-indulgent memoir dwelt on his many pleasures.
+decadent | 2 | characterized by moral or cultural decline; luxuriously self-indulgent | The decadent court ignored the famine outside its walls.
+dissolute | 2 | lax in morals; licentious | His dissolute youth was spent in gambling halls.
+> contrast | Although he preached a life of simplicity and self-denial, the guru himself lived a ____ existence of luxury and feasts. | "Preached … self-denial … himself lived … luxury and feasts" — pleasure-seeking.
+> continuation | The emperor's ____ court was devoted entirely to pleasure: banquets, games, and music lasted day and night. | "Devoted entirely to pleasure" — self-indulgent.
+
+= ascetic | adj | practicing severe self-discipline and self-denial | hedonistic
+ascetic | 1 | characterized by severe self-discipline and abstention from indulgence | The ascetic monk slept on a stone floor.
+spartan | 2 | showing the indifference to comfort associated with ancient Sparta | The cabin's spartan furnishings consisted of a cot and a chair.
+self-denying | 3 | refraining from satisfying one's own desires | Her self-denying habits allowed her to donate half her income.
+monastic | 3 | resembling a monk's life; austere and secluded | He led a monastic existence in his tiny apartment.
+puritanical | 2 | practicing or affecting strict religious or moral behavior | His puritanical parents forbade dancing.
+> contrast | Unlike her lavish predecessors, the new queen lived an ____ life, giving away her jewels and eating simple meals. | "Unlike her lavish predecessors … giving away jewels … simple meals" — self-denying. (article "a(n)")
+> continuation | The hermit's life was ____ in the extreme: he owned nothing, ate only bread, and slept on the bare floor. | Owning nothing and sleeping on the floor — severe self-denial.
+
+= arduous | adj | requiring great effort; difficult | effortless
+arduous | 1 | involving or requiring strenuous effort; difficult | The arduous climb took three days.
+onerous | 1 | involving an amount of effort and difficulty that is heavily burdensome | The new regulations placed onerous demands on small businesses.
+grueling | 2 | extremely tiring and demanding | The marathon's grueling final miles broke many runners.
+laborious | 2 | requiring considerable effort and time | Copying the manuscript by hand was laborious.
+strenuous | 3 | requiring or using great exertion | Avoid strenuous exercise after surgery.
+toilsome | 3 | involving hard work | The toilsome harvest lasted from dawn to dusk.
+> contrast | Although the hike looked easy on the map, it proved ____, with steep climbs that exhausted even experienced walkers. | "Looked easy … proved … exhausted even experienced walkers" — difficult.
+> continuation | Cataloguing the collection by hand was ____, requiring three years of painstaking work. | "Three years of painstaking work" — requiring great effort.
+
+= effortless | adj | requiring no effort; easy | arduous
+effortless | 3 | requiring no physical or mental exertion | She made the difficult dance look effortless.
+painless | 3 | not causing pain; involving little effort | The new system makes filing taxes painless.
+undemanding | 3 | not requiring much effort or skill | The undemanding job left him plenty of time to write.
+> contrast | The champion's performance looked ____, yet it was the product of fifteen years of grueling practice. | "Looked … yet … fifteen years of grueling practice" — easy.
+> continuation | The new software makes the once-tedious task ____: what took hours now takes a single click. | "A single click" — easy.
+
+= subtle | adj | so delicate as to be hard to perceive | obvious
+subtle | 2 | so delicate or precise as to be difficult to analyze or describe | There is a subtle difference between the two shades.
+imperceptible | 2 | impossible to perceive; very slight | The change in temperature was imperceptible.
+nuanced | 2 | characterized by subtle shades of meaning | Her nuanced argument acknowledged both sides.
+faint | 3 | barely perceptible | There was a faint smell of smoke.
+> contrast | The differences between the two dialects are not obvious; they are so ____ that even native speakers sometimes miss them. | "Not obvious … even native speakers miss them" — hard to perceive.
+> continuation | The painter's use of color is ____: at first the canvas seems gray, but slowly hints of blue and gold emerge. | "Slowly hints … emerge" — delicate and hard to perceive.
+
+= obvious | adj | easily seen or understood | subtle
+patent | 2 | easily recognizable; obvious | The claim was a patent lie.
+palpable | 1 | so intense as to seem almost tangible; obvious | The tension in the room was palpable.
+conspicuous | 2 | standing out so as to be clearly visible | Her red coat was conspicuous in the gray crowd.
+blatant | 1 | done openly and unashamedly; very obvious | The referee ignored the blatant foul.
+flagrant | 1 | conspicuously or obviously offensive | The arrest was a flagrant violation of his rights.
+glaring | 3 | highly obvious or conspicuous | The report contained several glaring errors.
+> contrast | The fraud was not subtle or hidden; it was ____, visible to anyone who glanced at the accounts. | "Not subtle or hidden … visible to anyone who glanced" — obvious.
+> cause | Because the error in the calculation was so ____, the teacher was amazed that no student had noticed it. | Amazed no one noticed because it was obvious.
+
+= indirect | adj | not straight or direct; roundabout | direct
+oblique | 1 | not explicit or done in a direct way | She made only an oblique reference to the scandal.
+circuitous | 1 | longer than the most direct way; roundabout | We took a circuitous route to avoid the traffic.
+roundabout | 3 | not saying what is meant clearly and directly | He asked in a roundabout way whether she was free.
+meandering | 2 | following a winding course; proceeding aimlessly | The meandering river twisted through the valley.
+sinuous | 3 | having many curves and turns | The sinuous mountain road made several passengers ill.
+> contrast | Rather than stating his objection directly, the diplomat made an ____ reference to "certain concerns" in the final paragraph. | "Rather than directly" — indirect. (article "a(n)")
+> continuation | The speaker took a ____ path to her point, wandering through several anecdotes before finally addressing the question. | "Wandering through several anecdotes before finally" — roundabout.
+
+= latent | adj | present but not yet visible or active | manifest
+latent | 1 | existing but not yet developed or manifest; hidden | The virus can remain latent for years.
+dormant | 2 | temporarily inactive | The volcano has been dormant for centuries.
+quiescent | 2 | in a state of inactivity or dormancy | The disease was quiescent for a decade before returning.
+inactive | 3 | not engaging in or involved in any activity | The account had been inactive for years.
+> contrast | The talent had been ____ in her for years, but it emerged suddenly when she began painting in her fifties. | "Had been … for years, but … emerged suddenly" — present but hidden.
+> continuation | The volcano appears ____ now, but geologists warn that it could erupt at any time. | "Appears … but could erupt" — inactive.
+
+= comprehensive | adj | including everything; thorough | cursory
+comprehensive | 3 | including or dealing with all or nearly all elements | The comprehensive report covered every aspect of the program.
+exhaustive | 1 | including all possible elements; fully comprehensive | The exhaustive search turned up no survivors.
+thorough | 3 | complete with regard to every detail | The police conducted a thorough investigation.
+encyclopedic | 2 | comprehensive in terms of information | Her encyclopedic knowledge of birds amazed the guides.
+all-encompassing | 3 | including or covering everything | The all-encompassing plan addressed housing, jobs, and schools.
+> contrast | The first survey was limited to a few neighborhoods, but the second was ____, covering every household in the city. | "Limited … but … covering every household" — complete.
+> continuation | The scholar's ____ bibliography lists every book and article ever published on the subject. | "Lists every book and article ever published" — complete.
+
+= pragmatic | adj | practical and realistic | quixotic
+pragmatic | 1 | dealing with things sensibly and realistically | A pragmatic approach solved the problem faster than theory.
+practical | 3 | concerned with the actual doing or use of something | She gave practical advice about finding a job.
+realistic | 3 | having a sensible and practical idea of what can be achieved | The team set realistic goals for the season.
+hardheaded | 3 | practical and realistic; not sentimental | The hardheaded businesswoman cut unprofitable lines without hesitation.
+utilitarian | 2 | designed to be useful rather than attractive | The utilitarian building had no windows facing the street.
+> contrast | Her predecessor had dreamed of grand, impossible reforms, but the new director was ____, focusing on changes she could actually achieve. | "Dreamed of grand, impossible reforms, but … changes she could actually achieve" — practical.
+> continuation | Taking a ____ view of the budget, the council funded only the projects that could be completed within a year. | Funding only feasible projects — practical.
+
+= quixotic | adj | idealistic and impractical | pragmatic
+quixotic | 1 | exceedingly idealistic; unrealistic and impractical | His quixotic plan to end poverty in a year inspired but did not convince.
+utopian | 2 | modeled on or aiming for a state in which everything is perfect; idealistic | The utopian community collapsed within two years.
+idealistic | 3 | characterized by unrealistically high standards | The idealistic young lawyer believed every case could be won.
+visionary | 3 | (especially of a person) thinking about the future with imagination; sometimes impractical | The visionary architect designed cities that were never built.
+chimerical | 2 | existing only as the product of unchecked imagination; illusory | The inventor's chimerical perpetual-motion machine never worked.
+> contrast | Critics dismissed the plan to build a railway across the desert as ____, but it was completed in just five years. | "Dismissed as … but it was completed" — impractical.
+> continuation | The candidate's ____ promises — free housing for all and the end of crime within a year — struck voters as admirable but impossible. | "Admirable but impossible" — idealistic and impractical.
+
+= parochial | adj | narrow in outlook; provincial | cosmopolitan
+parochial | 1 | having a limited or narrow outlook or scope | The newspaper's parochial coverage ignored world events.
+provincial | 2 | unsophisticated or narrow-minded | His provincial attitudes surprised his worldly colleagues.
+insular | 1 | ignorant of or uninterested in cultures outside one's own | The insular village distrusted all outsiders.
+narrow-minded | 3 | not willing to listen to or tolerate other views | Narrow-minded critics condemned the play without seeing it.
+hidebound | 2 | unwilling or unable to change because of tradition | The hidebound institution resisted every reform.
+> contrast | Although the writer grew up in a tiny village, her outlook was anything but ____; she corresponded with thinkers around the world. | "Anything but … corresponded with thinkers around the world" — narrow.
+> cause | Because the town had been isolated for centuries, its residents held ____ views and distrusted foreign ideas. | Isolation produces a narrow outlook.
+
+= cosmopolitan | adj | worldly and broad-minded | parochial
+cosmopolitan | 2 | familiar with and at ease in many different countries and cultures | The cosmopolitan diplomat spoke seven languages.
+worldly | 3 | experienced and sophisticated | Her worldly aunt had lived on four continents.
+catholic | 2 | including a wide variety of things; all-embracing | Her catholic tastes in reading ranged from physics to poetry.
+broad-minded | 3 | tolerant or liberal in outlook | Broad-minded parents encouraged their children to travel.
+> contrast | Unlike his parochial neighbors, who had never left the valley, the old sailor was thoroughly ____, having lived in a dozen ports. | "Unlike his parochial neighbors … lived in a dozen ports" — worldly.
+> continuation | The magazine's ____ outlook is reflected in its coverage, which ranges from Asian film to African politics. | Coverage ranging across the world — worldly and broad.
+
+= affected | adj | artificial and designed to impress | natural
+affected | 2 | artificial, pretentious, and designed to impress | Her affected British accent fooled no one.
+pretentious | 2 | attempting to impress by affecting greater importance than is actually possessed | The pretentious menu described a hamburger as "hand-formed bovine medallion."
+mannered | 2 | (of style) marked by idiosyncratic or exaggerated mannerisms | The actor's mannered performance distracted from the story.
+contrived | 2 | deliberately created rather than arising naturally | The plot's contrived coincidences strained belief.
+stilted | 2 | (of speech or writing) stiff and self-conscious or unnatural | The translation was stilted and awkward.
+precious | 3 | affectedly concerned with elegant or refined behavior | His precious prose was full of French phrases.
+> contrast | The actor's early performances were natural and unforced, but his later work became increasingly ____. | "Natural and unforced, but … increasingly" — artificial.
+> cause | Because the dialogue was so ____, with characters speaking in formal, unnatural phrases, the audience never believed in them. | "Formal, unnatural phrases" — artificial.
+
+= spontaneous | adj | unplanned; arising naturally | premeditated
+spontaneous | 2 | performed as a result of a sudden impulse, without premeditation | The crowd broke into spontaneous applause.
+impromptu | 2 | done without being planned or rehearsed | The singer gave an impromptu performance at the café.
+extemporaneous | 2 | spoken or done without preparation | Her extemporaneous speech was better than his prepared one.
+improvised | 3 | created and performed spontaneously | The comedians performed an improvised sketch.
+unrehearsed | 3 | not rehearsed; spontaneous | The unrehearsed interview revealed his true views.
+> contrast | Although her remarks seemed ____, aides later admitted that she had practiced them for days. | "Seemed … aides later admitted … practiced for days" — unplanned.
+> continuation | The party was entirely ____: friends simply showed up with food and music, without any invitations. | "Without any invitations" — unplanned.
+
+= premeditated | adj | planned in advance | spontaneous
+premeditated | 2 | thought out or planned beforehand | The prosecution argued that the crime was premeditated.
+deliberate | 3 | done consciously and intentionally | It was a deliberate insult.
+calculated | 3 | done with full awareness of the likely consequences | Her calculated remark was designed to provoke him.
+studied | 3 | achieved by careful and deliberate effort; affected | His studied casualness fooled no one.
+intentional | 3 | done on purpose | The foul was intentional.
+> contrast | The defense argued that the attack was a spontaneous act of rage, but the prosecution showed that it was ____, planned for weeks. | "Spontaneous … but … planned for weeks" — planned in advance.
+> cause | Because the robbers had studied the guards' schedule for months, the police concluded that the crime was ____. | Studying schedules for months shows planning.

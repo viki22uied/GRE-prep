@@ -1,0 +1,204 @@
+= obscure | adj | difficult to understand; known only to a few | lucid
+abstruse | 1 | difficult to understand; obscure | The lecture on string theory was too abstruse for most of the audience.
+arcane | 1 | understood by few; mysterious or secret | Tax law is full of arcane rules that even accountants struggle with.
+esoteric | 1 | intended for or understood by a small group with specialized knowledge | The journal publishes esoteric debates about medieval grammar.
+recondite | 2 | little known; abstruse | The scholar's footnotes were full of recondite references to forgotten poets.
+impenetrable | 2 | impossible to understand | The instructions were so impenetrable that we assembled the shelf by guesswork.
+opaque | 2 | hard to understand; not transparent | The company's opaque accounting hid its mounting debts.
+> contrast | Although the theory is ____ in its original form, the author's popular book makes it accessible to any curious reader. | "Although … makes it accessible" — in its original form it is hard to understand.
+> cause | Because the philosopher's prose was so ____, even specialists disagreed about what he meant. | Specialists disagreeing about his meaning results from prose that is hard to understand.
+
+= lucid | adj | clear and easy to understand | obscure
+lucid | 1 | expressed clearly; easy to understand | Her lucid explanation made the complex procedure seem simple.
+pellucid | 3 | translucently clear; easily understood | The pellucid prose of the report made its conclusions unmistakable.
+perspicuous | 3 | clearly expressed and easily understood | A perspicuous diagram replaced three pages of confusing text.
+intelligible | 2 | able to be understood | The static made the radio message barely intelligible.
+limpid | 3 | clear, unclouded; of writing, simple and clear | Her limpid style owed much to years of writing for newspapers.
+comprehensible | 3 | able to be understood | The translation made the ancient text comprehensible to modern readers.
+> contrast | Unlike the dense technical manual, the new guide is ____, explaining each step in plain language. | "Unlike the dense manual … plain language" — easy to understand.
+> continuation | The scientist's ____ explanation allowed even the reporters with no background in chemistry to follow the argument. | Reporters without background could follow it, so it was clear.
+
+= ambiguous | adj | open to more than one interpretation; unclear | explicit
+ambiguous | 1 | open to more than one interpretation | The ambiguous wording of the contract led to years of litigation.
+equivocal | 1 | open to interpretation, often deliberately | The minister gave an equivocal answer that committed him to nothing.
+nebulous | 2 | vague or ill-defined | The candidate's nebulous promises of "change" said little about actual policy.
+vague | 3 | of uncertain or unclear character or meaning | Vague directions left the guests wandering the neighborhood.
+indeterminate | 2 | not exactly known or established | The painting's date remains indeterminate, somewhere in the late 1600s.
+> contrast | The senator's statement was deliberately ____ rather than definite, allowing both supporters and opponents to claim her as an ally. | "Rather than definite … both sides could claim her" — open to more than one reading.
+> cause | Because the rule's wording was so ____, two judges reading it reached opposite conclusions. | Opposite readings result from wording open to different interpretations.
+
+= explicit | adj | stated clearly and unmistakably | ambiguous
+explicit | 2 | stated clearly and in detail, leaving no room for doubt | The instructions were explicit: no phones in the exam room.
+unequivocal | 1 | leaving no doubt; unambiguous | The board gave its unequivocal support to the new policy.
+categorical | 2 | unambiguously explicit and direct | She issued a categorical denial of the allegations.
+unambiguous | 2 | not open to more than one interpretation | The results were unambiguous: the drug worked.
+emphatic | 2 | expressing something forcibly and clearly | His emphatic "No!" ended the argument.
+> contrast | Rather than hedging as she usually did, the director gave an ____ answer: the project would be cancelled. | "Rather than hedging" signals the opposite: clear and definite.
+> continuation | The new policy is ____ on this point, stating plainly that no exceptions will be granted. | "Stating plainly … no exceptions" restates clarity.
+
+= equivocate | verb | speak evasively to avoid committing oneself | clarify
+equivocate | 1 | use ambiguous language to conceal the truth or avoid commitment | When pressed about the budget, the minister equivocated for ten minutes.
+prevaricate | 2 | speak or act evasively; avoid the truth | The witness prevaricated so often that the jury stopped believing him.
+hedge | 2 | avoid making a definite statement or commitment | Asked about raising taxes, the candidate hedged.
+temporize | 3 | avoid committing oneself in order to gain time | The council temporized, hoping the controversy would fade.
+dissemble | 2 | conceal one's true motives or feelings | She dissembled her disappointment behind a bright smile.
+> contrast | Instead of answering the question directly, the spokesperson chose to ____, offering vague remarks that committed the company to nothing. | "Instead of answering directly … vague remarks" — speaking evasively.
+> cause | Fearing that any clear answer would anger one faction or the other, the senator continued to ____ throughout the interview. | Fear of angering either side motivates evasive speech.
+
+= clarify | verb | make clear; explain | obfuscate
+elucidate | 1 | make something clear; explain | The footnotes elucidate the poem's many classical allusions.
+explicate | 2 | analyze and develop an idea in detail | The professor spent a full lecture explicating a single stanza.
+illuminate | 2 | help to clarify or explain | The new letters illuminate the poet's final years.
+expound | 2 | present and explain a theory in detail | The economist expounded her theory to a packed auditorium.
+clarify | 3 | make a statement less confused and more understandable | The memo clarified who was responsible for each task.
+> contrast | Rather than ____ing the confusing rule, the committee's revision made it even harder to interpret. | "Rather than … made it even harder to interpret" — the expected action was to make it clear.
+> continuation | The editor added an introduction to ____ the novel's historical background, explaining events unfamiliar to modern readers. | "Explaining events unfamiliar to modern readers" restates making clear.
+
+= obfuscate | verb | make obscure or unclear, often deliberately | clarify
+obfuscate | 1 | render obscure, unclear, or unintelligible | The report used jargon to obfuscate the plant's safety failures.
+obscure | 3 | conceal or make unclear | Legal technicalities obscured the simple fact that the company had lied.
+muddle | 3 | bring into a disordered or confusing state | Too many revisions muddled the essay's argument.
+befog | 3 | cause to be confused; make unclear | Clever statistics befogged the real issue.
+confound | 2 | cause surprise or confusion; mix up | Contradictory results confounded the researchers.
+> contrast | Rather than explaining the new fees clearly, the bank's letter seemed designed to ____ them with jargon and fine print. | "Rather than explaining clearly … jargon and fine print" — to make unclear.
+> cause | Because the company wished to hide its losses, its accountants took pains to ____ the figures in the annual report. | Wishing to hide losses motivates making the figures unclear.
+
+= cogent | adj | clear, logical, and convincing | specious
+cogent | 1 | clear, logical, and convincing | She presented a cogent argument for moving the factory.
+compelling | 2 | evoking interest or conviction in a powerful way | The prosecution offered compelling evidence of the defendant's guilt.
+convincing | 3 | capable of causing someone to believe that something is true | His alibi was convincing, and the police released him.
+incontrovertible | 2 | not able to be denied or disputed | DNA testing provided incontrovertible proof of his innocence.
+irrefutable | 2 | impossible to deny or disprove | The data offered irrefutable support for the hypothesis.
+telling | 3 | having a striking or revealing effect; significant | Her silence was the most telling response of all.
+> contrast | Although the defense's case initially seemed weak, its final argument was so ____ that the jury acquitted in less than an hour. | "Although … initially seemed weak … acquitted quickly" — the argument was convincing.
+> continuation | The report's case for reform is ____: every claim is supported by careful data, and no objection is left unanswered. | Every claim supported and every objection answered: clear and convincing.
+
+= specious | adj | superficially plausible but actually wrong | cogent
+specious | 1 | superficially plausible, but actually wrong | The specious argument collapsed under the first serious question.
+fallacious | 1 | based on a mistaken belief; logically unsound | The claim that correlation proves causation is fallacious.
+spurious | 1 | not genuine; false or based on false reasoning | The study found a spurious link between shoe size and reading ability.
+sophistical | 3 | clever but misleading or deceptive in reasoning | His sophistical debating tricks won rounds but convinced no one.
+untenable | 2 | not able to be maintained or defended against attack | Once the documents surfaced, the minister's position became untenable.
+tenuous | 2 | very weak or slight | The connection between the two crimes was tenuous at best.
+> contrast | The argument appears persuasive at first glance, but on closer inspection it proves ____, resting on a simple logical error. | "Appears persuasive … but … proves" — superficially plausible yet wrong.
+> cause | Because the study's conclusion rested on a biased sample, reviewers dismissed it as ____. | A biased sample makes the conclusion unsound.
+
+= authentic | adj | genuine; of undisputed origin | counterfeit
+authentic | 3 | of undisputed origin; genuine | Experts confirmed that the letter was authentic.
+genuine | 3 | truly what it is said to be | The museum displays a genuine Viking sword.
+bona fide | 2 | genuine; real | She is a bona fide expert, not just a television personality.
+veritable | 2 | being truly or very much so | The attic was a veritable treasure trove of old photographs.
+legitimate | 3 | conforming to the law or rules; genuine | He had a legitimate reason for missing the meeting.
+> contrast | The dealer claimed the vase was a cheap copy, but experts later proved it ____, dating it to the Ming dynasty. | "Claimed … a cheap copy, but experts later proved" — the opposite: genuine.
+> continuation | Scholars now agree that the diary is ____; its paper, ink, and handwriting all match the period. | Matching paper, ink, and handwriting confirm it is genuine.
+
+= counterfeit | adj | fake; made to deceive | authentic
+counterfeit | 2 | made in exact imitation of something valuable in order to deceive | The shop was fined for selling counterfeit watches.
+bogus | 2 | not genuine or true; fake | The investors lost everything in the bogus scheme.
+apocryphal | 1 | of doubtful authenticity, though widely circulated as true | The story that the general never slept is probably apocryphal.
+ersatz | 2 | made or used as an inferior substitute for something else | During the war, people drank ersatz coffee made from roasted barley.
+sham | 3 | bogus; false | The sham election fooled no one.
+factitious | 3 | artificially created or developed | The campaign generated factitious enthusiasm with paid crowds.
+> contrast | Although the anecdote about the inventor is widely repeated, historians consider it ____, as no contemporary source mentions it. | "Although widely repeated … no contemporary source" — of doubtful authenticity.
+> continuation | The so-called antique was entirely ____, manufactured in a workshop only months before it was sold. | "Manufactured only months before" — fake.
+
+= wise | adj | having good judgment and insight | foolish
+sagacious | 1 | having keen mental discernment and good judgment | The sagacious investor sold her shares months before the crash.
+astute | 1 | having an ability to assess situations accurately | An astute observer of politics, he predicted the election result exactly.
+perspicacious | 2 | having a ready insight into things; shrewd | The perspicacious detective noticed the one detail that did not fit.
+shrewd | 2 | having sharp powers of judgment | A shrewd negotiator, she got the price down by half.
+judicious | 1 | having or showing good judgment | Judicious use of funds kept the charity afloat during the recession.
+discerning | 2 | having or showing good judgment and taste | Discerning readers will notice the novel's hidden structure.
+> contrast | Though he appeared naive, the old farmer was remarkably ____, and he always seemed to know which buyers could be trusted. | "Though he appeared naive … always seemed to know" — the opposite of naive: shrewd.
+> continuation | Her ____ reading of the market allowed the company to anticipate trends that competitors missed entirely. | Anticipating trends others missed shows sharp judgment.
+
+= foolish | adj | lacking good sense or judgment | wise
+fatuous | 1 | silly and pointless | The fatuous remark revealed how little he had understood.
+inane | 1 | lacking sense or meaning; silly | The talk show was filled with inane chatter about celebrities.
+asinine | 2 | extremely stupid or foolish | Firing the only experienced engineer was an asinine decision.
+vacuous | 2 | having or showing a lack of thought or intelligence | The vacuous speech used many words but said nothing.
+witless | 3 | foolish; stupid | Only a witless driver would ignore the flood warnings.
+obtuse | 1 | slow to understand; insensitive | He was too obtuse to notice that his jokes were offending the guests.
+> contrast | The critics dismissed the film's dialogue as ____, but audiences found its simple humor refreshing. | Critics saw it negatively as silly; "but" introduces the audience's contrasting view.
+> cause | Because the candidate's answers were so ____, voters doubted that she had given any thought to the issues. | Answers showing no thought lead voters to doubt her seriousness.
+
+= erudite | adj | having or showing great learning | ignorant
+erudite | 1 | having or showing great knowledge or learning | The erudite professor could quote Homer in the original Greek.
+learned | 3 | having much knowledge acquired by study | The learned judge cited precedents from three centuries.
+scholarly | 3 | involving or relating to serious academic study | Her scholarly edition of the letters included thousands of footnotes.
+cultivated | 3 | refined and well educated | A cultivated audience applauded the difficult program.
+lettered | 3 | well read or educated | Few lettered people in the village could read the old documents.
+> contrast | Although her novels are written in simple language, she herself is deeply ____, having studied classical literature in five languages. | "Although … simple language … deeply" — she is highly learned.
+> continuation | The ____ historian seemed to have read every book ever written about the period. | Having read every book shows great learning.
+
+= ignorant | adj | lacking knowledge or awareness | erudite
+ignorant | 3 | lacking knowledge or awareness in general | He was ignorant of the law he had broken.
+benighted | 2 | in a state of intellectual or moral ignorance | The reformer saw it as his duty to educate a benighted public.
+unlettered | 3 | poorly educated or illiterate | Unlettered villagers relied on a scribe to read their mail.
+uninformed | 3 | not having or showing awareness of the facts | Uninformed voters were easily swayed by false advertisements.
+philistine | 2 | hostile or indifferent to culture and the arts | The philistine developer wanted to tear down the historic theater.
+> contrast | The playwright assumed his audience was ____, but they caught every obscure allusion in his script. | "Assumed … but they caught every allusion" — he assumed they lacked knowledge.
+> cause | Because the settlers were ____ of local conditions, they planted crops that could not survive the dry season. | Planting unsuitable crops results from lacking knowledge.
+
+= pedantic | adj | overly concerned with minor details or rules of learning | open-minded
+pedantic | 1 | excessively concerned with minor details or formal rules | His pedantic corrections of our grammar annoyed everyone at dinner.
+didactic | 1 | intended to teach, often in an overbearing, moralizing way | The novel's didactic tone made it feel like a lecture.
+dogmatic | 1 | inclined to lay down principles as undeniably true | The dogmatic professor dismissed any theory that contradicted his own.
+doctrinaire | 2 | seeking to impose a doctrine without regard to practical considerations | Doctrinaire economists ignored evidence that the policy was failing.
+sententious | 2 | given to moralizing in a pompous way | The sententious speech was full of lessons nobody had asked for.
+> contrast | Although the textbook covers difficult material, it is never ____; the author explains ideas without lecturing or fussing over trivial rules. | "Never … without lecturing or fussing over trivial rules" defines the blank.
+> continuation | The ____ tutor spent the entire hour correcting minor points of grammar and never discussed the ideas in the essay. | Correcting minor grammar instead of ideas shows excessive concern with detail.
+
+= open-minded | adj | willing to consider new ideas; unbiased | pedantic
+open-minded | 3 | willing to consider new ideas; unprejudiced | An open-minded jury is essential to a fair trial.
+receptive | 2 | willing to consider or accept new suggestions | The mayor was receptive to the residents' proposals.
+impartial | 2 | treating all rivals or disputants equally | An impartial referee is essential to a fair match.
+disinterested | 1 | not influenced by personal advantage; impartial | A disinterested arbitrator, with no stake in the outcome, settled the dispute.
+unbiased | 3 | showing no prejudice for or against something | We need an unbiased account of what happened.
+even-handed | 3 | fair and impartial | The report was praised for its even-handed treatment of both sides.
+> contrast | Although the judge had strong political views, she was scrupulously ____ in the courtroom, ruling solely on the evidence. | "Although … strong political views … ruling solely on the evidence" — fair and unbiased.
+> cause | Because the arbitrator had no financial stake in either company, both sides trusted him to be ____. | No stake in either company makes him impartial.
+
+= partisan | adj | biased in favor of one side | open-minded
+partisan | 2 | prejudiced in favor of a particular cause | The partisan crowd booed every decision against the home team.
+tendentious | 1 | expressing a strongly partisan point of view | The tendentious documentary ignored all evidence against its thesis.
+biased | 3 | unfairly prejudiced for or against someone or something | A biased sample of voters produced a misleading poll.
+one-sided | 3 | unfairly giving only one point of view | The one-sided debate featured no speakers from the opposition.
+jaundiced | 2 | affected by bitterness or resentment; prejudiced | After years of broken promises, she took a jaundiced view of politicians.
+> contrast | The reporter claimed to offer an impartial account, but her ____ article quoted only supporters of the mayor. | "Claimed … impartial, but … quoted only supporters" — biased.
+> cause | Because the historian relied exclusively on the victors' records, his account of the war was inevitably ____. | Relying only on one side's records produces a biased account.
+
+= bombastic | adj | pompous and inflated in language | plain
+bombastic | 1 | high-sounding but with little meaning; inflated | The dictator's bombastic speeches promised glory but delivered nothing.
+grandiloquent | 1 | pompous or extravagant in language or style | His grandiloquent toast compared the bride to a summer sunrise over the Aegean.
+turgid | 2 | tediously pompous or bombastic (of language) | The turgid prose made the thin plot even harder to endure.
+magniloquent | 3 | using high-flown or bombastic language | The magniloquent speaker never used one syllable where five would do.
+orotund | 3 | pompous; (of a voice) full and imposing | The actor's orotund delivery suited Shakespeare better than modern comedy.
+> contrast | Unlike his predecessor's ____ speeches, full of grand phrases and empty promises, the new president's addresses were brief and plain. | "Unlike … full of grand phrases … brief and plain" — the predecessor's speeches were pompous.
+> continuation | The essay was so ____, with its inflated vocabulary and sweeping pronouncements, that its modest argument was almost lost. | "Inflated vocabulary and sweeping pronouncements" restates pompous language.
+
+= plain | adj | simple and unadorned in style | bombastic
+unadorned | 2 | not decorated; plain | The unadorned chapel was more moving than the ornate cathedral.
+austere | 1 | severe or strict; having no comforts or luxuries | The austere prose of the memoir mirrors the harsh life it describes.
+spare | 2 | elegantly simple; lean | Her spare poems rarely exceed a dozen lines.
+understated | 2 | presented in a subtle, restrained way | The understated design of the phone won several awards.
+unembellished | 3 | not made more attractive by adding decorative details | He told the unembellished truth, without excuses.
+> contrast | While his early novels were ornate and flowery, his later style became ____, stripped of adjectives and ornament. | "While … ornate and flowery … stripped of ornament" — plain.
+> continuation | The architect favored ____ buildings, with bare concrete walls and no decorative detail of any kind. | "Bare walls and no decorative detail" restates the blank.
+
+= eloquent | adj | fluent and persuasive in speaking or writing | inarticulate
+eloquent | 2 | fluent or persuasive in speaking or writing | Her eloquent speech brought the audience to its feet.
+articulate | 2 | able to express thoughts clearly and effectively | The articulate student represented her class at the board meeting.
+silver-tongued | 3 | eloquent and persuasive | The silver-tongued lawyer could make any case sound reasonable.
+fluent | 3 | able to express oneself easily and articulately | He gave a fluent account of the complicated negotiations.
+expressive | 3 | effectively conveying thought or feeling | Her expressive letters reveal a sharp and witty mind.
+> contrast | Although he struggled to speak in public, he was remarkably ____ on paper, and his letters moved many readers to tears. | "Although he struggled to speak … remarkably … on paper" — fluent and persuasive in writing.
+> continuation | The ____ advocate held the jury's attention for hours, weaving facts into a powerful narrative. | Holding attention and weaving a powerful narrative shows persuasive skill.
+
+= inarticulate | adj | unable to express ideas clearly | eloquent
+inarticulate | 2 | unable to express one's ideas clearly | Overcome with emotion, the winner was inarticulate at the podium.
+tongue-tied | 3 | too shy or embarrassed to speak | He was tongue-tied in front of the famous author.
+halting | 2 | slow and hesitant, especially through lack of confidence | She gave a halting apology, pausing after every word.
+incoherent | 2 | expressed in an incomprehensible or confusing way | The feverish patient's speech was incoherent.
+> contrast | The poet's written work was graceful and precise, but in interviews he was curiously ____, stumbling over simple answers. | "Graceful … but … stumbling over simple answers" — unable to express himself clearly.
+> cause | Because she was so nervous before the panel, her normally polished answers became ____ and disjointed. | Nervousness makes her answers hard to follow.

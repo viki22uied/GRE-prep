@@ -1,0 +1,334 @@
+= composure | noun | calmness and self-control | agitation
+equanimity | 1 | mental calmness, especially in a difficult situation | She accepted the bad news with remarkable equanimity.
+composure | 2 | the state of being calm and in control of oneself | The speaker lost her composure when the microphone failed.
+aplomb | 2 | self-confidence or assurance, especially in a demanding situation | He handled the hostile questions with aplomb.
+sangfroid | 2 | composure or coolness in trying circumstances | The surgeon's sangfroid never wavered during the emergency.
+poise | 3 | graceful and elegant bearing; composure | The young pianist performed with the poise of a veteran.
+> contrast | Although the rookie pilot was expected to panic during the engine failure, she responded with the ____ of a seasoned veteran. | "Expected to panic … responded with" — the opposite: calm self-control.
+> continuation | The ambassador's famous ____ never deserted him; even when the embassy was surrounded, he calmly continued his work. | "Calmly continued his work" restates calm self-control.
+
+= agitation | noun | anxiety and nervous disturbance | composure
+agitation | 3 | a state of anxiety or nervous excitement | His agitation was obvious as he paced the waiting room.
+trepidation | 1 | a feeling of fear or agitation about something that may happen | She opened the envelope with trepidation.
+consternation | 2 | feelings of anxiety or dismay, typically at something unexpected | The sudden resignation caused consternation among investors.
+perturbation | 3 | anxiety; mental uneasiness | The news caused her some perturbation.
+disquiet | 2 | a feeling of worry or unease | The report caused disquiet among parents.
+apprehension | 2 | anxiety or fear that something bad will happen | He waited for the results with apprehension.
+> contrast | The candidate projected confidence in public, but her aides privately admitted to considerable ____ about the election results. | "Projected confidence … but … privately admitted" — anxiety.
+> cause | The unexpected announcement of layoffs caused widespread ____ among employees, who crowded the halls asking for details. | Unexpected layoffs cause anxiety.
+
+= remorse | noun | deep regret for a wrong committed | callousness
+remorse | 2 | deep regret or guilt for a wrong committed | The defendant showed no remorse for his crimes.
+contrition | 1 | the state of feeling remorseful and penitent | His tearful apology seemed to express genuine contrition.
+penitence | 2 | the feeling of being sorry for one's sins or wrongdoing | In penitence, she volunteered at the shelter she had once defrauded.
+compunction | 1 | a feeling of guilt that prevents or follows wrongdoing | He lied without the slightest compunction.
+repentance | 3 | sincere regret or remorse | His repentance came too late to repair the friendship.
+> contrast | The judge had expected some sign of ____ from the defendant, but he smirked throughout the reading of the sentence. | "Expected some sign of … but he smirked" — regret.
+> continuation | Her ____ was evident: she apologized to every person she had wronged and repaid the money she had taken. | Apologizing and repaying show regret.
+
+= courage | noun | courage in facing difficulty | cowardice
+fortitude | 1 | courage in pain or adversity | She endured the long illness with fortitude.
+mettle | 2 | a person's ability to cope well with difficulties | The difficult climb tested the team's mettle.
+pluck | 3 | spirited and determined courage | It took pluck to stand up to the bully.
+valor | 2 | great courage in the face of danger | The soldier was decorated for valor.
+intrepidity | 3 | fearlessness; courage | The explorers' intrepidity carried them across the frozen sea.
+grit | 3 | courage and resolve; strength of character | Her grit kept the business alive through the recession.
+> contrast | Although the young firefighter had never faced a real blaze, she showed remarkable ____ when the warehouse caught fire. | "Although … never faced … showed remarkable" — courage.
+> continuation | The refugees' ____ was extraordinary: they crossed mountains in winter with little food and no shelter. | Crossing mountains in winter shows courage.
+
+= cowardice | noun | lack of courage | courage
+cowardice | 3 | lack of bravery | His cowardice in abandoning his post was punished severely.
+pusillanimity | 3 | lack of courage or determination | The committee's pusillanimity allowed the injustice to continue.
+timidity | 3 | lack of courage or confidence | Her timidity kept her from speaking up in class.
+faintheartedness | 3 | lack of courage | Faintheartedness among the investors doomed the project.
+> contrast | The soldiers expected their commander to lead the charge, but his ____ — he fled at the first shot — demoralized the entire regiment. | "Expected … to lead … but … fled" — lack of courage.
+> cause | Because of the council's ____, no member dared to challenge the corrupt mayor. | No one daring to challenge shows lack of courage.
+
+= animosity | noun | strong hostility or ill will | amity
+animosity | 1 | strong hostility | The animosity between the two families lasted generations.
+enmity | 2 | the state of being actively opposed or hostile | Old enmities resurfaced during the election.
+rancor | 1 | bitterness or resentfulness, especially long-standing | The divorce was settled without rancor.
+acrimony | 1 | bitterness or ill feeling | The meeting ended in acrimony.
+antipathy | 1 | a deep-seated feeling of dislike; aversion | Her antipathy toward bureaucracy was well known.
+animus | 2 | hostility or ill feeling | The judge denied any animus toward the defendant.
+> contrast | Although the two rivals had exchanged insults for years, their final meeting was free of ____, and they parted as friends. | "Although … exchanged insults … parted as friends" — the meeting lacked hostility.
+> cause | Because the land dispute had never been resolved, deep ____ persisted between the two villages for generations. | An unresolved dispute causes lasting hostility.
+
+= amity | noun | friendly relations | animosity
+amity | 2 | a friendly relationship | The treaty ushered in an era of amity between the nations.
+comity | 3 | courteous and considerate behavior toward others; mutual recognition | Diplomatic comity requires respect for other nations' laws.
+rapport | 2 | a close and harmonious relationship | The teacher quickly established a rapport with her students.
+camaraderie | 2 | mutual trust and friendship among people who spend time together | The camaraderie of the crew helped them survive the voyage.
+concord | 2 | agreement or harmony between people or groups | The two parties lived in concord for decades.
+goodwill | 3 | friendly, helpful, or cooperative feelings | The gift was a gesture of goodwill.
+> contrast | Once bitter enemies, the two nations now enjoy such ____ that their citizens cross the border without passports. | "Once bitter enemies … now enjoy" — friendly relations.
+> continuation | The festival fostered ____ among the neighborhood's many communities, who shared food, music, and stories. | Sharing food and music fosters friendly relations.
+
+= aversion | noun | strong dislike | predilection
+aversion | 2 | a strong dislike or disinclination | She has an aversion to crowded places.
+abhorrence | 2 | a feeling of repulsion; disgusted loathing | He expressed his abhorrence of violence.
+repugnance | 2 | intense disgust | Many readers felt repugnance at the novel's cruelty.
+loathing | 3 | a feeling of intense dislike or disgust | She regarded the dictator with loathing.
+distaste | 3 | mild dislike or aversion | He had a distaste for public speaking.
+odium | 3 | general or widespread hatred or disgust | The tax collector bore the odium of the whole town.
+> contrast | Although he makes his living writing about food, the critic has a lifelong ____ to shellfish and refuses to review seafood restaurants. | "Although … writing about food … refuses to review seafood" — strong dislike.
+> cause | Because of her deep ____ to conflict, the manager avoided confronting even the most troublesome employees. | Avoiding confrontation results from strong dislike of conflict.
+
+= predilection | noun | a preference or special liking | aversion
+predilection | 1 | a preference or special liking for something | Her predilection for spicy food surprised her hosts.
+penchant | 1 | a strong or habitual liking for something | He has a penchant for dramatic gestures.
+proclivity | 1 | a tendency to choose or do something regularly | The senator's proclivity for long speeches annoyed his colleagues.
+propensity | 1 | an inclination or natural tendency to behave in a particular way | Some breeds have a propensity to bark at strangers.
+partiality | 2 | a special fondness; bias | She had a partiality for old movies.
+inclination | 3 | a person's natural tendency to act or feel in a particular way | My inclination is to wait and see.
+> contrast | Although she claims to prefer modern art, her collection reveals a clear ____ for Renaissance portraits. | "Claims to prefer modern … reveals a clear … for Renaissance portraits" — preference.
+> continuation | His ____ for risky investments was well known; he had lost three fortunes on speculative ventures. | Repeatedly making risky investments shows a strong liking or tendency.
+
+= discord | noun | disagreement and conflict | consensus
+discord | 2 | disagreement between people | Money was the chief source of discord in their marriage.
+dissension | 2 | disagreement that leads to discord | Dissension within the party weakened its campaign.
+strife | 3 | angry or bitter disagreement; conflict | The region has been torn by ethnic strife.
+friction | 3 | conflict or animosity caused by a clash of wills | There was friction between the two departments.
+schism | 1 | a split or division between strongly opposed groups | The dispute caused a schism within the church.
+rift | 3 | a serious break in friendly relations | The inheritance created a rift between the siblings.
+> contrast | The committee had once worked in harmony, but the budget debate produced bitter ____ among its members. | "Once worked in harmony, but … bitter" — disagreement.
+> cause | Because the partners could not agree on the company's direction, ____ grew until they finally dissolved the firm. | Inability to agree produces conflict.
+
+= consensus | noun | general agreement | discord
+consensus | 2 | general agreement | There is a growing consensus that the policy has failed.
+accord | 2 | an official agreement; agreement or harmony | The two nations reached an accord on fishing rights.
+unanimity | 2 | agreement by all people involved | The jury reached unanimity after a day of deliberation.
+concurrence | 3 | agreement; simultaneous occurrence | The judge wrote a separate concurrence agreeing with the majority.
+harmony | 3 | agreement or concord | The villagers lived in harmony for centuries.
+> contrast | Although experts once disagreed sharply about the cause of the disease, there is now broad ____ that a virus is responsible. | "Once disagreed sharply … now broad" — agreement.
+> continuation | After hours of debate, the council finally reached ____: every member voted in favor. | Every member voting in favor shows full agreement.
+
+= inception | noun | the beginning of something | culmination
+inception | 2 | the establishment or starting point of an institution or activity | Since its inception, the charity has helped thousands.
+genesis | 2 | the origin or mode of formation of something | The genesis of the idea was a conversation over dinner.
+outset | 3 | the start or beginning of something | From the outset, the project was underfunded.
+advent | 2 | the arrival of a notable person, thing, or event | The advent of the internet transformed publishing.
+onset | 3 | the beginning of something, especially something unpleasant | The onset of winter forced the climbers to turn back.
+> contrast | Although the program is now widely admired, at its ____ it was ridiculed as an expensive fantasy. | "Now widely admired … at its … ridiculed" — at its beginning.
+> continuation | From the very ____ of the project, the team struggled with funding; money problems plagued it from the first day. | "From the first day" restates the beginning.
+
+= culmination | noun | the highest or climactic point | nadir
+culmination | 2 | the highest or climactic point of something | The award was the culmination of a lifetime of work.
+acme | 2 | the point at which something is best or most successful | The poet reached the acme of his powers in his forties.
+zenith | 1 | the time at which something is most powerful or successful | The empire reached its zenith under the third emperor.
+apex | 2 | the highest point of something | At the apex of her career, she led the national orchestra.
+pinnacle | 2 | the most successful point; the culmination | Winning the championship was the pinnacle of his career.
+apogee | 3 | the highest point in the development of something; climax | The Renaissance marked the apogee of Florentine art.
+> contrast | The painter's final works, once dismissed as a decline, are now regarded as the ____ of her career. | "Once dismissed as a decline … now regarded as" — the highest point.
+> continuation | The empire reached its ____ in the second century, when its territory and wealth were greater than at any other time. | "Greater than at any other time" — the highest point.
+
+= nadir | noun | the lowest point | culmination
+nadir | 1 | the lowest point in the fortunes of a person or organization | The team reached its nadir with a 0–12 season.
+low point | 3 | the worst or least successful point | The recession marked a low point for the company.
+rock bottom | 3 | the lowest possible level | After losing his job and home, he hit rock bottom.
+trough | 3 | a low point in economic activity or a cycle | The economy began to recover after the trough of 2009.
+> contrast | The company's fortunes, which had been soaring a year earlier, reached their ____ when its biggest client went bankrupt. | "Soaring a year earlier … reached their" — the lowest point.
+> continuation | The ____ of the author's career came when her third novel sold fewer than a hundred copies. | Fewer than a hundred copies — the lowest point.
+
+= paragon | noun | a perfect example or model | -
+paragon | 1 | a person or thing regarded as a perfect example of a quality | She was considered a paragon of honesty.
+exemplar | 2 | a person or thing serving as a typical example or model | The cathedral is an exemplar of Gothic architecture.
+epitome | 1 | a person or thing that is a perfect example of a quality | He is the epitome of a gentleman.
+archetype | 2 | a very typical example; an original model | The hero's journey is the archetype of many adventure stories.
+quintessence | 2 | the most perfect or typical example of a quality | The garden is the quintessence of English charm.
+> contrast | Critics dismissed the novel as an oddity, but its admirers hail it as the very ____ of the modern short story. | "Dismissed as an oddity, but … hail it as" — a perfect example.
+> continuation | The nurse was a ____ of compassion, tending to every patient as though they were her own family. | "Tending to every patient as family" — a perfect example of compassion.
+
+= impostor | noun | a person who falsely claims skill or identity | expert
+charlatan | 1 | a person falsely claiming special knowledge or skill | The charlatan sold bottles of colored water as a cure for cancer.
+impostor | 2 | a person who pretends to be someone else to deceive | The impostor had posed as a doctor for years.
+mountebank | 3 | a person who deceives others, especially to trick them out of money | The mountebank's miracle tonic was nothing but sugar and alcohol.
+quack | 3 | a person who dishonestly claims medical knowledge | The quack promised to cure baldness with a lotion.
+fraud | 3 | a person intending to deceive others | The self-proclaimed psychic was exposed as a fraud.
+> contrast | The self-proclaimed healer was revered by his followers, but investigators exposed him as a ____ with no medical training at all. | "Revered … but … no medical training at all" — a fake.
+> cause | Because he had no qualifications but claimed to be a renowned surgeon, the court branded him a ____. | Claiming false qualifications makes him a fake.
+
+= expert | noun | a person with great skill or knowledge | novice
+virtuoso | 1 | a person highly skilled in music or another art | The violin virtuoso played the concerto from memory.
+connoisseur | 2 | an expert judge in matters of taste | A connoisseur of wine, he could identify the vintage by smell.
+maestro | 3 | a distinguished musician or expert | The maestro conducted without a score.
+savant | 2 | a learned person, especially a distinguished scientist | The savant had published in six different fields.
+aficionado | 2 | a person who is very knowledgeable and enthusiastic about an activity | Jazz aficionados packed the small club.
+> contrast | Although he took up the piano only in his twenties, he was soon regarded as a ____, performing with major orchestras. | "Although … only in his twenties … performing with major orchestras" — a highly skilled person.
+> continuation | A true ____ of Italian cuisine, she could name the region of any dish from a single bite. | Naming the region from a bite shows expertise.
+
+= novice | noun | a beginner | expert
+novice | 2 | a person new to or inexperienced in a field | As a novice, he made mistakes that veterans had long outgrown.
+neophyte | 1 | a person who is new to a subject or activity | The course is designed for neophytes with no programming experience.
+tyro | 2 | a beginner or novice | The tyro chess player lost in twelve moves.
+fledgling | 3 | a person or organization that is immature or inexperienced (noun) | The fledglings on the team looked to the captain for guidance.
+apprentice | 3 | a person learning a trade from a skilled employer | The apprentice spent a year sweeping the workshop before touching a tool.
+> contrast | Although she was a mere ____ at the game, she defeated several seasoned players in her first tournament. | "Although … defeated several seasoned players in her first tournament" — a beginner.
+> continuation | As a ____ in the kitchen, he burned the rice, forgot the salt, and set off the smoke alarm twice. | Beginner's mistakes illustrate inexperience.
+
+= dilettante | noun | an amateur who dabbles superficially | expert
+dilettante | 1 | a person who cultivates an area of interest without real commitment or knowledge | The critic dismissed him as a dilettante who painted only when bored.
+dabbler | 3 | a person who takes part in an activity in a casual or superficial way | A dabbler in many hobbies, he mastered none.
+amateur | 3 | a person who engages in an activity without professional skill | The amateur astronomer discovered a new comet.
+> contrast | The critics expected the aristocrat to be a mere ____, but his paintings revealed years of serious training. | "Expected … a mere … but … years of serious training" — a superficial amateur.
+> cause | Because he moved from hobby to hobby without mastering any, his friends regarded him as a ____. | Moving between hobbies without mastery makes him a dabbler.
+
+= proponent | noun | a supporter or advocate | detractor
+proponent | 2 | a person who advocates a theory, proposal, or course of action | She was a leading proponent of renewable energy.
+advocate | 3 | a person who publicly supports a cause (noun) | He was a tireless advocate for the homeless.
+champion | 3 | a person who fights or argues for a cause (noun) | She became a champion of women's education.
+exponent | 2 | a person who supports an idea or theory and tries to promote it | He was the leading exponent of the new economic theory.
+apologist | 1 | a person who offers an argument in defense of something controversial | Apologists for the regime denied that any abuses had occurred.
+> contrast | Although the economist was once a harsh critic of free trade, she later became one of its most prominent ____s. | "Once a harsh critic … later … most prominent" — supporters.
+> continuation | As the leading ____ of the plan, the senator gave dozens of speeches urging its adoption. | Giving speeches urging adoption shows support.
+
+= detractor | noun | a critic who disparages | proponent
+detractor | 2 | a person who disparages someone or something | Even his detractors admit that he is a brilliant strategist.
+critic | 3 | a person who expresses disapproval | The policy's critics called it wasteful.
+naysayer | 3 | a person who criticizes, doubts, or opposes | The naysayers predicted the bridge would never be finished.
+gadfly | 2 | a person who annoys others by persistent criticism | The journalist was a gadfly who kept exposing government waste.
+> contrast | Even the book's harshest ____s concede that its research is impressive, though they dispute its conclusions. | "Even … harshest … concede … impressive" — critics.
+> continuation | The mayor's ____s, who had opposed every one of her projects, were quick to blame her for the delays. | "Opposed every one of her projects" — critics.
+
+= follower | noun | a devoted follower or disciple | detractor
+acolyte | 2 | a person assisting or devoted to a leader; a follower | The guru's acolytes followed him from city to city.
+disciple | 3 | a follower or student of a teacher or leader | The philosopher's disciples recorded his teachings.
+adherent | 2 | someone who supports a particular party, person, or set of ideas | The religion has millions of adherents worldwide.
+devotee | 3 | a person who is very interested in and enthusiastic about someone or something | A devotee of opera, she attended every performance.
+votary | 3 | a devoted follower or advocate | The votaries of the new fitness craze exercised four hours a day.
+> contrast | The philosopher had few ____s during his lifetime, but after his death, his ideas attracted thousands of followers. | Parallel structure: "few … during his lifetime … attracted thousands of followers" — followers.
+> continuation | The artist's ____s imitated not only her style but also her clothing and speech. | Imitating her in every way shows devoted followers.
+
+= deception | noun | trickery and dishonesty | candor
+duplicity | 1 | deceitfulness; double-dealing | The spy's duplicity was exposed when the letters were decoded.
+chicanery | 2 | the use of trickery to achieve a purpose | Political chicanery delayed the election for months.
+subterfuge | 1 | deceit used to achieve one's goal | They gained entry to the building by subterfuge.
+guile | 1 | sly or cunning intelligence | She used guile rather than force to win the negotiation.
+artifice | 2 | clever or cunning devices used to trick or deceive | The magician's artifice fooled even skeptical viewers.
+mendacity | 2 | untruthfulness | The mendacity of the advertisement outraged consumers.
+> contrast | The diplomat was admired for her honesty, and she never resorted to the ____ that her rivals routinely employed. | "Admired for her honesty … never resorted to" — trickery.
+> continuation | The con artist's career was built on ____: forged documents, fake identities, and elaborate lies. | Forgeries and lies illustrate trickery.
+
+= candor | noun | honesty and frankness | deception
+candor | 1 | the quality of being open and honest | Her candor about her mistakes won the audience's respect.
+probity | 1 | the quality of having strong moral principles; honesty | Judges must be people of unquestioned probity.
+veracity | 2 | conformity to facts; truthfulness | Reporters questioned the veracity of his story.
+rectitude | 2 | morally correct behavior or thinking | Her rectitude made her the obvious choice for treasurer.
+integrity | 3 | the quality of being honest and having strong moral principles | A person of integrity keeps promises even when it is costly.
+forthrightness | 3 | the quality of being direct and honest | Voters appreciated her forthrightness.
+> contrast | Unlike his evasive predecessor, the new spokesman answered questions with refreshing ____, admitting the department's errors. | "Unlike his evasive predecessor … admitting errors" — honesty.
+> cause | Because of the treasurer's well-known ____, no one suspected her when the funds went missing. | No one suspected her because she was known to be honest.
+
+= lethargy | noun | lack of energy; sluggishness | alacrity
+lethargy | 2 | a lack of energy and enthusiasm | The summer heat produced a general lethargy in the town.
+torpor | 2 | a state of physical or mental inactivity | After the huge meal, the guests sank into torpor.
+languor | 2 | a pleasant or dreamy inertia; tiredness | The languor of the tropical afternoon made work impossible.
+lassitude | 2 | physical or mental weariness; lack of energy | Months of illness left her in a state of lassitude.
+inertia | 2 | a tendency to do nothing or remain unchanged | Bureaucratic inertia delayed the reform for years.
+indolence | 2 | avoidance of activity or exertion; laziness | His indolence cost him the scholarship.
+> contrast | The team had played with energy all season, but in the final game a strange ____ seemed to settle over the players. | "Played with energy all season, but … strange" — lack of energy.
+> cause | Because of the ____ induced by the heat, the workers accomplished almost nothing all afternoon. | Heat-induced sluggishness causes little work.
+
+= alacrity | noun | brisk and cheerful readiness; energy | lethargy
+alacrity | 1 | brisk and cheerful readiness | She accepted the invitation with alacrity.
+zeal | 2 | great energy or enthusiasm for a cause | The volunteers worked with zeal.
+ardor | 2 | enthusiasm or passion | Her ardor for the cause never cooled.
+verve | 2 | vigor and spirit or enthusiasm | The orchestra played with verve.
+vigor | 3 | physical strength and good health; energy | He attacked the project with vigor.
+gusto | 3 | enjoyment and vigor in doing something | They sang with gusto.
+> contrast | Although he had complained about the assignment, once he began he worked with surprising ____, finishing days ahead of schedule. | "Complained … once he began … finishing days ahead" — energy and eagerness.
+> continuation | The new recruits approached their training with ____, arriving early and volunteering for every extra task. | Arriving early and volunteering shows eager energy.
+
+= audacity | noun | shocking boldness or rudeness | timidity
+audacity | 2 | a willingness to take bold risks; rude boldness | He had the audacity to ask for a raise on his first day.
+temerity | 1 | excessive confidence or boldness; audacity | No one had the temerity to contradict the chairman.
+effrontery | 2 | insolent or impertinent behavior | She had the effrontery to blame her own mistake on the intern.
+gall | 3 | bold, impudent behavior | He had the gall to ask me for money after insulting me.
+impudence | 2 | the quality of being impertinent | The impudence of the reply shocked the teacher.
+chutzpah | 3 | extreme self-confidence or audacity | It took chutzpah to open a bookstore next to a giant chain.
+> contrast | The intern, far from being shy, had the ____ to correct the CEO's figures in front of the entire board. | "Far from being shy … correct the CEO … in front of the board" — shocking boldness.
+> continuation | After crashing his neighbor's car, he had the ____ to ask to borrow it again the next week. | Asking again after crashing it shows rude boldness.
+
+= acumen | noun | keen insight and good judgment | folly
+acumen | 1 | the ability to make good judgments and quick decisions | Her business acumen turned a small shop into a national chain.
+sagacity | 2 | wisdom; good judgment | The elder's sagacity was sought in every dispute.
+perspicacity | 2 | the quality of having a ready insight into things | The detective's perspicacity solved the case in a day.
+discernment | 2 | the ability to judge well | She showed discernment in choosing her advisers.
+astuteness | 3 | shrewdness; the ability to assess situations | His political astuteness kept him in office for thirty years.
+> contrast | Although critics mocked his early investments, his ____ became obvious when every one of them made him a fortune. | "Mocked … became obvious when … made a fortune" — good judgment.
+> continuation | The editor's ____ was remarkable: she could spot a future bestseller from a single page. | Spotting bestsellers from one page shows insight.
+
+= folly | noun | lack of good sense; foolishness | acumen
+folly | 2 | lack of good sense; foolishness | It would be folly to sail in this storm.
+imprudence | 3 | lack of caution; rashness | His imprudence with money left him in debt.
+fatuity | 3 | complacent stupidity; foolishness | The fatuity of the plan was obvious to everyone but its author.
+inanity | 3 | lack of sense or meaning; silliness | The inanity of the debate bored the audience.
+> contrast | The builders called the canal a triumph of engineering, but critics saw only ____ in so expensive a project in so remote a place. | "Called a triumph … but critics saw only" — foolishness.
+> cause | Because it was sheer ____ to cross the desert without water, the guide refused to leave until the tanks were full. | Refusing to leave without water because doing so would be foolish.
+
+= poverty | noun | extreme poverty | affluence
+penury | 1 | extreme poverty; destitution | The composer died in penury, his works unperformed.
+indigence | 2 | a state of extreme poverty | The charity serves families living in indigence.
+destitution | 2 | poverty so extreme that one lacks the means to provide for oneself | War left thousands in destitution.
+privation | 2 | a state in which food and other essentials are lacking | The prisoners endured years of privation.
+want | 3 | lack or deficiency; poverty | Many families lived in want during the depression.
+> contrast | The novelist spent his youth in ____, but his later books made him one of the wealthiest writers in Europe. | "Youth in … but … one of the wealthiest" — poverty.
+> continuation | The drought reduced thousands of farmers to ____; they lost their land, their animals, and their homes. | Losing land and homes — extreme poverty.
+
+= affluence | noun | wealth and abundance | poverty
+affluence | 2 | the state of having a great deal of money; wealth | The suburb's affluence was obvious from its manicured lawns.
+opulence | 2 | great wealth or luxuriousness | The opulence of the palace dazzled visitors.
+prosperity | 3 | the state of being prosperous | The new trade routes brought prosperity to the region.
+wealth | 3 | an abundance of valuable possessions or money | Oil brought sudden wealth to the small nation.
+luxury | 3 | the state of great comfort and extravagant living | They lived in luxury after selling the company.
+> contrast | The family's ____ had vanished by the war's end; the mansion was sold, and the children worked in factories. | "Vanished … mansion sold … children worked in factories" — the family had been wealthy.
+> continuation | The ____ of the district was evident in its marble mansions, private parks, and imported cars. | Mansions and imported cars show wealth.
+
+= omen | noun | a sign of what will happen | -
+omen | 3 | an event regarded as a sign of future good or evil | The farmers saw the comet as an omen of disaster.
+portent | 1 | a sign or warning that something momentous is about to happen | The dark clouds seemed a portent of the coming storm.
+harbinger | 1 | a person or thing that signals the approach of another | The robin is a harbinger of spring.
+augury | 3 | a sign of what will happen; an omen | The early sales figures were a favorable augury.
+presage | 2 | a sign or warning that something will happen (noun) | The tremors were a presage of the eruption.
+> contrast | The small protest seemed insignificant at the time, but in retrospect it was a ____ of the revolution to come. | "Seemed insignificant … but in retrospect" — a sign of what would come.
+> continuation | The first crocuses are a welcome ____ of spring, appearing weeks before the trees bud. | Appearing before spring — a sign signaling its approach.
+
+= precursor | noun | something that comes before and leads to another | successor
+precursor | 1 | a person or thing that comes before another of the same kind | The abacus was a precursor of the calculator.
+forerunner | 2 | a person or thing that precedes the coming of another | Early silent comedies were forerunners of the modern sitcom.
+antecedent | 2 | a thing or event that existed before another; a predecessor | The ritual has antecedents in ancient Rome.
+predecessor | 3 | a person who held a job before the current holder | She reversed many of her predecessor's policies.
+progenitor | 2 | a person or thing from which something originates | The blues was a progenitor of rock and roll.
+> contrast | Although the early machine seemed a mere curiosity, historians now regard it as the ____ of the modern computer. | "Seemed a mere curiosity … now regard it as" — the thing that came before and led to it.
+> continuation | Medieval morality plays were a ____ of modern drama, introducing many conventions later playwrights would use. | Introducing conventions later used — something that came before.
+
+= misc-noun | noun | - | -
+anathema | 1 | something or someone one vehemently dislikes | Censorship is anathema to journalists.
+bane | 2 | a cause of great distress or annoyance | Mosquitoes are the bane of summer campers.
+boon | 2 | a thing that is helpful or beneficial | The new bus route was a boon to commuters.
+catalyst | 2 | a person or thing that precipitates an event or change | The assassination was the catalyst for the war.
+conundrum | 2 | a confusing and difficult problem or question | How to fund the program remains a conundrum.
+dichotomy | 1 | a division or contrast between two things that are opposed | The novel explores the dichotomy between city and country life.
+dogma | 2 | a set of principles laid down as incontrovertibly true | She challenged the dogma that markets are always efficient.
+enigma | 2 | a person or thing that is mysterious or difficult to understand | The artist remained an enigma even to her closest friends.
+hubris | 1 | excessive pride or self-confidence | The general's hubris led him to underestimate the enemy.
+juxtaposition | 2 | the fact of two things being placed close together for contrasting effect | The juxtaposition of wealth and poverty in the city was striking.
+misanthrope | 2 | a person who dislikes humankind | The misanthrope lived alone and avoided all company.
+nuance | 1 | a subtle difference in meaning or expression | The translation lost many of the poem's nuances.
+panacea | 1 | a solution or remedy for all difficulties | Technology is not a panacea for every problem in education.
+paradox | 2 | a seemingly absurd statement that may prove true | It is a paradox that standing still can be exhausting.
+pariah | 2 | an outcast | After the scandal, he became a pariah in his profession.
+platitude | 1 | a remark used too often to be interesting or thoughtful | The speech was a string of platitudes about hard work.
+quagmire | 2 | an awkward, complex, or hazardous situation | The war became a quagmire from which no one could escape.
+sinecure | 3 | a position requiring little work but giving status or pay | His uncle found him a sinecure at the bank.
+stigma | 2 | a mark of disgrace associated with a circumstance | There is still a stigma attached to mental illness in many places.
+vestige | 2 | a trace of something that is disappearing | The ruins are the last vestige of the ancient city.
+zealot | 2 | a person who is fanatical in pursuit of their ideals | The zealot refused to consider any compromise.
+idiosyncrasy | 2 | a mode of behavior peculiar to an individual | Wearing mismatched socks was one of his idiosyncrasies.
+iconoclast | 1 | a person who attacks cherished beliefs or institutions | The iconoclast delighted in mocking the academy's traditions.
+maverick | 2 | an unorthodox or independent-minded person | The maverick senator often voted against his own party.
+polemic | 1 | a strong verbal or written attack on someone or something | Her essay was a polemic against the new law.
+recluse | 2 | a person who lives a solitary life and tends to avoid other people | The famous author became a recluse in her later years.
+respite | 2 | a short period of rest or relief from something difficult | The rain offered a brief respite from the heat.
+anomaly | 1 | something that deviates from what is standard or expected | The warm January was an anomaly in the climate record.
+caprice | 2 | a sudden and unaccountable change of mood or behavior | The king's caprice decided who lived and who died.
