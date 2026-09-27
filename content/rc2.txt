@@ -1,0 +1,349 @@
+# More Reading Comprehension passages (original, GRE style). Same format as rc.txt.
+
+### glaciers | long | Earth science
+Glaciers are often described as rivers of ice, but the comparison conceals a crucial difference in how they move. A river flows because water deforms freely under its own weight; ice, by contrast, is a crystalline solid that deforms only slowly, creeping at rates of a few meters per year. Yet many glaciers advance hundreds of meters annually. The explanation lies not within the ice but beneath it.
+
+Where meltwater collects at the base of a glacier, it can reduce friction between ice and bedrock so dramatically that the glacier slides as a single mass. In some cases the water is pressurized enough to lift the ice slightly, producing sudden surges in which a glacier moves many times faster than normal for months at a time. This basal sliding helps explain a puzzle that long troubled glaciologists: why two glaciers of similar size and slope can move at wildly different speeds. The answer depends less on the ice itself than on the plumbing hidden underneath it, which is extraordinarily difficult to observe directly.
+
+?? mc | The author mentions the comparison between glaciers and rivers primarily in order to
+- argue that glaciers are a kind of river
+* introduce a difference between the two that the rest of the passage explains
+- show that glaciers move faster than rivers
+- criticize glaciologists for relying on metaphors
+- explain why meltwater collects beneath glaciers
+!! The first sentence says the comparison "conceals a crucial difference in how they move," and the passage then explains that difference (internal creep versus sliding on meltwater). It is a setup, not an argument that glaciers are rivers.
+
+?? mc | According to the passage, which of the following best explains why some glaciers advance hundreds of meters in a year?
+- The ice in those glaciers is less crystalline than in other glaciers.
+- Those glaciers flow down steeper slopes.
+* Water at their base reduces friction so that the glacier slides.
+- The ice deforms rapidly under its own weight.
+- Rivers beneath the glaciers carry them forward.
+!! "Where meltwater collects at the base of a glacier, it can reduce friction … so dramatically that the glacier slides as a single mass." The passage says ice itself deforms only slowly, eliminating D.
+
+?? sel | Select the sentence that identifies a puzzle that the passage's explanation helps resolve.
+* 7
+!! Sentence 7 names the puzzle: "why two glaciers of similar size and slope can move at wildly different speeds."
+
+?? ma | The passage suggests which of the following about the conditions beneath glaciers? (Select all that apply.)
+* They can matter more to a glacier's speed than the properties of the ice.
+* They are hard for scientists to study directly.
+- They are essentially the same for glaciers of similar size and slope.
+!! "The answer depends less on the ice itself than on the plumbing hidden underneath it, which is extraordinarily difficult to observe directly." The third choice contradicts the point that similar glaciers can behave very differently because of what lies beneath them.
+
+### patronage | long | Art history
+Renaissance painters are often imagined as solitary geniuses, yet most worked under contracts that specified their subjects, dimensions, and even the quantity of expensive pigments they were to use. A patron commissioning an altarpiece in fifteenth-century Florence might require that the Virgin's robe be painted in ultramarine of a particular grade, a blue made from ground lapis lazuli that cost more than gold. Such clauses were not mere fussiness: they allowed the patron to display wealth and piety in a form that viewers of the time could read at a glance.
+
+Over the following century, however, contracts increasingly emphasized the painter's own hand rather than the materials. Patrons began to specify that the master himself, not his assistants, must paint the principal figures. Historians have read this shift as evidence of a changing idea of value: skill, rather than costly substance, was becoming what buyers believed they were paying for. The change did not happen everywhere at once, and some patrons continued to insist on precious materials well into the sixteenth century, but its general direction is clear.
+
+?? mc | The primary purpose of the passage is to
+- argue that Renaissance painters were not skilled artists
+* describe a change in what patrons valued in commissioned paintings
+- explain how ultramarine pigment was manufactured
+- compare Florentine painters with painters elsewhere in Europe
+- show that patrons had no influence over painters' work
+!! Paragraph 1 describes contracts focused on costly materials; paragraph 2 describes a shift toward valuing the painter's own skill. B captures the whole passage.
+
+?? mc | The author mentions that ultramarine "cost more than gold" in order to
+- show that Renaissance painters were paid very well
+* explain why specifying the pigment allowed patrons to display wealth
+- suggest that patrons were careless with money
+- argue that ultramarine was the most beautiful pigment
+- explain why painters preferred other colors
+!! The next sentence says such clauses let patrons "display wealth and piety in a form that viewers of the time could read at a glance" — the expense is what made the pigment a visible sign of wealth.
+
+?? mc | The author's attitude toward the historians' interpretation described in the second paragraph is best described as
+- dismissive
+- openly hostile
+* accepting, with a qualification
+- uncertain and confused
+- enthusiastic without reservation
+!! The author accepts the interpretation ("its general direction is clear") but qualifies it: the change "did not happen everywhere at once."
+
+?? sel | Select the sentence that describes a new requirement patrons placed on painters.
+* 5
+!! Sentence 5: "Patrons began to specify that the master himself, not his assistants, must paint the principal figures."
+
+### antibiotics | short | Medicine
+Bacteria can become resistant to antibiotics through random mutation, but a faster route is borrowing. Many bacteria swap small loops of DNA, called plasmids, with neighboring cells, even cells of different species. A single plasmid can carry genes for resistance to several drugs at once, so exposure to one antibiotic can select for bacteria that happen to resist others as well. This helps explain why resistance sometimes appears to drugs that a bacterial population has never encountered.
+
+?? mc | According to the passage, resistance to a drug a population has never encountered can arise because
+- random mutations occur more often in the presence of that drug
+* genes for resistance to several drugs can travel together on one plasmid
+- bacteria of different species cannot exchange DNA
+- all antibiotics act on bacteria in the same way
+- plasmids are destroyed by antibiotics
+!! Plasmids "can carry genes for resistance to several drugs at once," so selecting for resistance to one drug also selects for resistance to the others carried alongside it.
+
+?? mc | In the passage, "borrowing" refers to
+- mutation within a single bacterium
+* the transfer of genetic material between cells
+- the use of several antibiotics at once
+- bacteria feeding on neighboring cells
+- the development of new antibiotics
+!! The next sentence explains it: bacteria "swap small loops of DNA, called plasmids, with neighboring cells."
+
+### cities-language | long | Linguistics
+Languages spoken in large, well-connected societies tend to have simpler grammar than those spoken by small, isolated communities. At first this seems backward: one might expect the languages of complex civilizations to be the most elaborate. Some linguists propose an explanation rooted in who learns the language. Where many adults learn a language as newcomers—through trade, migration, or conquest—features that adult learners find hard, such as irregular verb forms and intricate case endings, tend to erode over generations.
+
+In small communities, by contrast, nearly everyone acquires the language in childhood, and children master irregularities with ease. Such languages can therefore retain, and even accumulate, complexity. The hypothesis is attractive but difficult to test, because the factors involved—population size, contact with outsiders, and the proportion of adult learners—tend to rise and fall together, making it hard to tell which one is actually responsible.
+
+?? mc | The author describes the relationship between society size and grammatical simplicity as seeming "backward" because
+* one might expect larger, more complex societies to have more elaborate languages
+- small communities have no grammar
+- adults learn languages more easily than children
+- large societies usually speak several languages
+- grammatical complexity cannot be measured
+!! "At first this seems backward: one might expect the languages of complex civilizations to be the most elaborate."
+
+?? mc | According to the hypothesis described, grammatical features tend to erode when
+- a language is spoken by very few people
+* many people learn the language as adults
+- children learn the language at school
+- the language has no written form
+- speakers are isolated from outsiders
+!! Where "many adults learn a language as newcomers," features that adults find hard "tend to erode over generations."
+
+?? mc | The difficulty mentioned in the last sentence is best described as the problem of
+- measuring the size of ancient populations
+- finding enough languages to study
+* separating the effects of factors that tend to occur together
+- persuading linguists to accept the hypothesis
+- defining what counts as a complex grammar
+!! Population size, contact and adult learners "tend to rise and fall together, making it hard to tell which one is actually responsible" — a problem of confounded factors.
+
+?? ma | Which of the following would the hypothesis described in the passage predict? (Select all that apply.)
+* A language whose speakers are mostly children who learned it at home can keep many irregular forms.
+* A trade language learned mainly by adult merchants will tend to lose irregular verb forms over time.
+- A language will become more complex as the number of adult learners rises.
+!! The hypothesis links child acquisition with retained complexity and adult learning with simplification. The third choice reverses that relationship.
+
+### argument-11 | argument | Critical reasoning
+The town's new bike lanes were completed in March. By December, the number of cyclists counted on Main Street had risen by 60 percent. The council concludes that building bike lanes is an effective way to increase cycling throughout the town.
+
+?? mc | Which of the following, if true, most seriously weakens the council's conclusion?
+- The bike lanes cost less than the council had budgeted.
+- Some drivers complained that the lanes narrowed the road.
+* Most of the additional cyclists on Main Street had switched from nearby streets that have no bike lanes, and total cycling in town was unchanged.
+- Cycling increased more in summer than in winter.
+- The council plans to build more lanes next year.
+!! If riders simply moved from other streets to Main Street, the lanes redistributed cycling rather than increasing it town-wide, which is exactly what the conclusion claims.
+
+### argument-12 | argument | Critical reasoning
+Patients who take vitamin D supplements have lower rates of hip fracture than patients who do not. A health columnist concludes that vitamin D supplements prevent hip fractures.
+
+?? mc | Which of the following, if true, would most strengthen the columnist's conclusion?
+- Vitamin D supplements are widely available and inexpensive.
+- Patients who take supplements tend to exercise more than those who do not.
+* In a trial in which patients were randomly assigned to take vitamin D or a placebo, those taking vitamin D had fewer hip fractures.
+- Hip fractures are more common among older adults.
+- Some patients who take vitamin D still suffer hip fractures.
+!! Random assignment removes the possibility that people who choose supplements differ in other ways (such as exercise, choice B, which would weaken the argument). A controlled trial showing the same effect supports causation.
+
+### argument-13 | argument | Critical reasoning
+Since the company introduced a four-day work week, employee productivity per hour has increased by 20 percent. Therefore, the company's total output must have increased.
+
+?? mc | The argument depends on which of the following assumptions?
+- Employees prefer a four-day week to a five-day week.
+* The increase in productivity per hour was large enough to make up for the reduction in hours worked.
+- Other companies will adopt the four-day week.
+- Productivity per hour was low before the change.
+- The company hired additional employees after the change.
+!! Output = hours × productivity per hour. Hours fell (four days instead of five), so total output rises only if the productivity gain outweighs the lost hours. If that assumption is false, the conclusion fails.
+
+### argument-14 | argument | Critical reasoning
+A study found that neighborhoods with more coffee shops have higher average incomes. A city planner argues that encouraging coffee shops to open in poorer neighborhoods will raise residents' incomes.
+
+?? ma | Which of the following identify weaknesses in the planner's argument? (Select all that apply.)
+* Coffee shops may open in neighborhoods because residents already have higher incomes, rather than causing those incomes.
+* Rising incomes in a neighborhood might reflect wealthier people moving in rather than current residents earning more.
+- Coffee shops employ local residents.
+!! The first choice points out reversed causation; the second shows that even an income rise might not benefit existing residents. The third, if anything, slightly supports the planner.
+
+### argument-15 | argument | Critical reasoning
+Surveys show that the percentage of adults who say they read at least one book per year has declined over the past decade. Yet book sales have risen over the same period.
+
+?? mc | Which of the following, if true, best resolves the apparent discrepancy?
+- Book prices have fallen over the past decade.
+* Adults who do read books now buy considerably more books per year than readers did a decade ago.
+- Many people borrow books from libraries.
+- Surveys about reading habits are not always accurate.
+- The population has decreased over the past decade.
+!! Fewer readers can buy more books in total if each reader buys more. B explains how both facts can be true. E would make rising sales harder to explain; D doesn't explain anything specific.
+
+### migration-birds | long | Animal behavior
+Migratory songbirds that fly at night must navigate without landmarks, and researchers have long debated which cues they rely on. Experiments in planetariums in the 1960s showed that young birds learn to orient by the rotation of the night sky, identifying the point around which the stars turn. Later work demonstrated that birds can also sense Earth's magnetic field, and that they calibrate this magnetic compass against the setting sun each evening.
+
+These findings raised a new question: when the cues disagree, which one wins? In several species, the answer appears to change with age. Inexperienced birds give priority to celestial cues, while experienced adults rely more heavily on the magnetic field, perhaps because a lifetime of journeys has taught them which signals prove reliable. If so, navigation is not a fixed instinct but a skill refined through experience.
+
+?? mc | The passage is primarily concerned with
+- proving that birds cannot see stars at night
+* describing the cues birds use to navigate and how their use may change with experience
+- explaining how planetariums are built
+- arguing that magnetic fields are the only cue birds use
+- comparing songbirds with seabirds
+!! Paragraph 1 lists the cues (stars, magnetic field, sunset); paragraph 2 explains how priority among them shifts with age and experience.
+
+?? mc | The author suggests that the difference between young and adult birds described in the second paragraph may be due to
+- differences in eyesight
+- the planetarium experiments
+* what adults have learned about the reliability of different cues
+- the adults' inability to see the setting sun
+- young birds' greater sensitivity to magnetic fields
+!! "…perhaps because a lifetime of journeys has taught them which signals prove reliable."
+
+?? sel | Select the sentence that states the author's broader conclusion about navigation.
+* 7
+!! Sentence 7: "If so, navigation is not a fixed instinct but a skill refined through experience."
+
+### coffee-trade | short | Economics
+When the price of coffee rises, farmers are often urged to plant more trees. Because coffee trees take three to four years to bear fruit, however, the new supply arrives long after the price spike that prompted it, frequently at a moment when prices have already fallen. The added harvest then pushes prices lower still. This lag between decision and result helps explain why coffee prices swing so dramatically from boom to bust.
+
+?? mc | The passage suggests that planting more coffee trees in response to high prices
+- immediately lowers coffee prices
+* can make later price declines worse
+- keeps prices permanently high
+- is prevented by government policy
+- has no effect on supply
+!! The new supply arrives years later, often when prices have already fallen, and "pushes prices lower still."
+
+?? mc | Which of the following is most analogous to the situation described in the passage?
+- A bakery raises its prices after its costs rise.
+* Many students choose a field because jobs in it are plentiful, and by the time they graduate years later, the field is oversupplied.
+- A shopper buys extra groceries before a holiday.
+- A company advertises a product that is already popular.
+- A farmer switches to a crop that grows faster.
+!! Same structure: a decision based on current conditions pays off only after a long delay, and the combined response overshoots — too many graduates arriving at once.
+
+### memoir | long | Literature
+Readers of memoir often assume that its value lies in accuracy, and they feel betrayed when a memoirist is shown to have invented or rearranged events. Yet the genre has always involved some shaping. Memory is not a recording, and any account of a life must select, compress, and order experiences to make them intelligible. A memoir that recorded every conversation would be both impossible to write and unreadable.
+
+The real question, then, is not whether a memoirist shapes the past but where legitimate shaping ends and fabrication begins. Most readers and writers draw the line at invention: compressing three conversations into one may be acceptable, but reporting a conversation that never happened is not. Even this line blurs in practice, since a remembered conversation is itself partly a reconstruction. Still, the distinction matters, because a reader's trust depends on the belief that the events described, however arranged, actually occurred.
+
+?? mc | The author's main point is that
+- memoirs should never alter any details of the past
+- memoirists should be free to invent whatever they wish
+* some shaping of events is unavoidable in memoir, but invention crosses an important line
+- readers should stop reading memoirs
+- memory is completely unreliable
+!! The author argues that shaping is inherent ("the genre has always involved some shaping") but that the line at invention matters because trust depends on events having occurred.
+
+?? mc | The author mentions a memoir that "recorded every conversation" in order to
+- praise memoirists who work from diaries
+* illustrate why some selection is necessary in any memoir
+- criticize readers who expect accuracy
+- show that memory works like a recording
+- suggest that conversations are the most important part of a memoir
+!! It shows that complete recording is impossible and unreadable, supporting the claim that memoir must "select, compress, and order experiences."
+
+?? ma | Which of the following does the author suggest? (Select all that apply.)
+* Remembered conversations are partly reconstructed.
+* Readers' trust in memoir rests on the belief that the events occurred.
+- Compressing several conversations into one is always unacceptable.
+!! "A remembered conversation is itself partly a reconstruction" and "a reader's trust depends on the belief that the events described … actually occurred." The passage says compression "may be acceptable," contradicting the third choice.
+
+?? sel | Select the sentence in which the author reframes the central issue of the debate.
+* 5
+!! Sentence 5: "The real question, then, is not whether a memoirist shapes the past but where legitimate shaping ends and fabrication begins."
+
+### solar-storms | short | Physics
+Large solar storms can induce electric currents in long conductors on Earth, such as power lines and pipelines. The effect is strongest at high latitudes, where Earth's magnetic field lines converge, and in regions with poorly conducting bedrock, which forces currents into human-made conductors instead of the ground. A storm in 1989 left several million people in Quebec without power for hours, but a comparable storm today could be more disruptive, because power grids have grown more interconnected and more dependent on long-distance transmission.
+
+?? mc | According to the passage, poorly conducting bedrock increases the risk from solar storms because it
+- strengthens Earth's magnetic field
+* pushes induced currents into power lines and pipelines
+- makes solar storms more frequent
+- is found only at high latitudes
+- prevents power lines from being built
+!! Poorly conducting bedrock "forces currents into human-made conductors instead of the ground."
+
+?? mc | The author suggests that a storm like the 1989 event could be more disruptive today because
+- solar storms have become stronger
+- Quebec's bedrock has changed
+* modern power grids are more interconnected and depend more on long-distance transmission
+- fewer people live at high latitudes
+- power lines are now made of different materials
+!! Stated directly in the last sentence.
+
+### argument-16 | argument | Critical reasoning
+Employees at Firm X who attended the optional leadership workshop were promoted at twice the rate of those who did not. The human resources director concludes that the workshop helped employees earn promotions.
+
+?? mc | Which of the following, if true, most weakens the director's conclusion?
+- The workshop was held on weekends.
+- Promoted employees rated the workshop highly.
+* Managers encouraged only employees they already planned to promote to attend the workshop.
+- The workshop covered topics such as communication and planning.
+- Promotion rates at Firm X are similar to those at other firms.
+!! If attendees were already slated for promotion, attending didn't cause the promotions — the selection explains the difference.
+
+### argument-17 | argument | Critical reasoning
+Last year, the city spent twice as much on road repairs as it did five years ago, yet residents' complaints about potholes have also doubled. Clearly, the repair program has been ineffective.
+
+?? mc | Which of the following, if true, most undermines the conclusion?
+- The city's road-repair crews work only during the day.
+* The number of vehicles using city roads has tripled over the same five years, greatly increasing wear on the roads.
+- Some residents complain about potholes that have already been repaired.
+- The cost of repair materials has remained stable.
+- Other cities have also increased their spending on roads.
+!! A tripling of traffic would create far more potholes; without the repair spending, complaints might have risen even more. The rise in complaints then doesn't show the program failed.
+
+### fermentation | long | History of science
+In the 1850s, most chemists believed that fermentation was a purely chemical process: sugar broke down into alcohol through the action of decaying matter, with no need for living organisms. Yeast cells, visible under the microscope, were regarded as a by-product rather than a cause. Louis Pasteur challenged this view by showing that fermentation occurred only in the presence of living yeast and stopped when the yeast was killed.
+
+Pasteur's conclusion that fermentation required life was itself later revised. In 1897 Eduard Buchner ground yeast cells, filtered out every living cell, and found that the remaining juice could still ferment sugar. The active agents were enzymes—chemical substances produced by the yeast. In a sense, both sides of the earlier debate had been partly right: fermentation depends on substances made by living cells, but once made, those substances can do their work without the cells themselves.
+
+?? mc | The passage is primarily concerned with
+- defending the chemists of the 1850s against Pasteur
+* tracing how the understanding of fermentation changed as new evidence appeared
+- explaining how to brew beer
+- arguing that Buchner's experiment was flawed
+- describing Pasteur's life
+!! The passage moves from the 1850s chemical view, to Pasteur's living-yeast view, to Buchner's enzyme finding that partly reconciled them.
+
+?? mc | Buchner's experiment was significant because it showed that
+- yeast is not involved in fermentation at all
+* fermentation can occur without living cells, through substances the cells produce
+- Pasteur's experiments had been faked
+- sugar breaks down by itself
+- enzymes are living organisms
+!! Cell-free juice still fermented sugar; "the active agents were enzymes—chemical substances produced by the yeast."
+
+?? mc | In the last sentence, the author suggests that "both sides of the earlier debate had been partly right" because
+- the chemists were right that yeast was a by-product
+* the chemists were right that a chemical process was at work, and Pasteur was right that living cells were essential to producing it
+- Pasteur was right that fermentation stops when yeast is alive
+- neither side had performed experiments
+- Buchner agreed with both sides
+!! Fermentation is chemical (enzymes work without cells — the chemists' point) but depends on substances made by living cells (Pasteur's point).
+
+?? sel | Select the sentence that describes the experiment that led to a revision of Pasteur's conclusion.
+* 5
+!! Sentence 5: "In 1897 Eduard Buchner ground yeast cells, filtered out every living cell, and found that the remaining juice could still ferment sugar."
+
+### urban-farming | short | Environment
+Advocates of urban vertical farms argue that growing vegetables in city buildings reduces the emissions from trucking food long distances. Transportation, however, typically accounts for a small share of food's total carbon footprint, while indoor farms require large amounts of electricity for lighting and climate control. Unless that electricity comes from low-carbon sources, a head of lettuce grown in a city tower may carry a larger footprint than one trucked across the country.
+
+?? mc | The author's main purpose is to
+- argue that vertical farms should be banned
+* question whether vertical farms necessarily reduce emissions
+- explain how vertical farms control temperature
+- show that trucking food produces no emissions
+- recommend that cities build more vertical farms
+!! The passage challenges the advocates' claim, noting that the energy vertical farms use can outweigh the transportation savings.
+
+?? mc | According to the passage, vertical farms are most likely to reduce emissions when
+- they are built in large cities
+- they grow lettuce rather than other crops
+* the electricity they use comes from low-carbon sources
+- trucks are used to deliver their produce
+- they are located far from consumers
+!! "Unless that electricity comes from low-carbon sources, a head of lettuce grown in a city tower may carry a larger footprint."
+
+### argument-18 | argument | Critical reasoning
+A popular diet book claims that people who eat breakfast every day are thinner than those who skip it, and therefore recommends eating breakfast as a way to lose weight.
+
+?? ma | Which of the following, if true, would weaken the book's recommendation? (Select all that apply.)
+* People who eat breakfast daily also tend to exercise more and sleep more regularly.
+* In a controlled study, people randomly assigned to eat or skip breakfast lost the same amount of weight.
+- Many people enjoy eating breakfast.
+!! The first choice offers other explanations for the correlation; the second directly tests the causal claim and finds no effect. The third is irrelevant to whether breakfast causes weight loss.

@@ -85,6 +85,7 @@
       if (!this.code) return;
       this.flush();
       document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') this.flush(); });
+      setInterval(() => { if (document.visibilityState === 'visible') this.flush(); }, 60000);
     },
   };
   function badge() {
@@ -307,6 +308,7 @@
       $$('.tabs button').forEach((b) => b.setAttribute('aria-current', b.dataset.view === name ? 'page' : 'false'));
       try { history.replaceState(null, '', '#' + name); } catch (e) { /* ignore */ }
       main().innerHTML = '';
+      if (name === 'progress' && Sync.code && !Sync.busy) Sync.flush();
       ({ practice: Practice.setup, test: Test.setup, vocab: Vocab.setup, progress: Progress.show }[name] || Practice.setup)();
       window.scrollTo(0, 0);
     },
@@ -710,6 +712,7 @@
   // ---------- boot ----------
   function boot() {
     $$('.tabs button').forEach((b) => b.addEventListener('click', () => View.show(b.dataset.view)));
+    window.addEventListener('hashchange', () => { const v = location.hash.slice(1); if (['practice', 'test', 'vocab', 'progress'].includes(v) && v !== View.name) View.show(v); });
     const start = (location.hash || '').slice(1);
     View.show(['practice', 'test', 'vocab', 'progress'].includes(start) ? start : 'practice');
     Sync.init();

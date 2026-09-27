@@ -326,7 +326,7 @@ function rcEx(q, kind) {
 }
 const passages = [];
 {
-  const text = fs.readFileSync(C('rc.txt'), 'utf8');
+  const text = fs.readdirSync(path.join(__dirname, '../content')).filter((f) => /^rc.*\.txt$/.test(f)).sort().map((f) => fs.readFileSync(C(f), 'utf8')).join('\n');
   const chunks = text.split(/^### /m).slice(1);
   for (const ch of chunks) {
     const lines = ch.split('\n');

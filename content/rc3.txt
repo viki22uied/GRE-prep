@@ -1,0 +1,246 @@
+# Third batch of Reading Comprehension passages (original, GRE style).
+
+### placebo | long | Medicine
+The placebo effect is usually treated as a nuisance in drug trials: a portion of patients improve on sugar pills, and a new drug must outperform that improvement to be considered effective. Recent research suggests the effect deserves attention in its own right. Patients who expect relief often show measurable changes in brain chemistry, including the release of the body's own pain-relieving compounds. In some trials, even patients told openly that they were receiving an inert pill reported less pain than patients who received no treatment at all.
+
+These findings do not mean that placebos can cure disease. The effect is strongest for symptoms that depend heavily on perception, such as pain and nausea, and weakest for conditions such as tumors or infections, which progress regardless of what the patient believes. The practical lesson may be narrower but still valuable: the context in which treatment is delivered—the clinician's manner, the ritual of care—can itself influence how patients feel.
+
+?? mc | The primary purpose of the passage is to
+- argue that drug trials should stop using placebos
+* suggest that the placebo effect is worth studying and describe its limits
+- prove that placebos cure infections
+- criticize doctors for prescribing sugar pills
+- explain how pain-relieving drugs are manufactured
+!! Paragraph 1 argues the effect "deserves attention in its own right"; paragraph 2 sets limits ("These findings do not mean that placebos can cure disease").
+
+?? mc | The author mentions patients "told openly that they were receiving an inert pill" in order to
+- show that deception is necessary for the placebo effect
+* show that the placebo effect can occur even without deception
+- criticize the design of the trials
+- argue that inert pills should be sold in pharmacies
+- explain why placebos work best for infections
+!! Even patients who knew the pill was inert reported less pain, which shows the effect doesn't depend on deceiving them.
+
+?? ma | According to the passage, the placebo effect is strongest for which of the following? (Select all that apply.)
+* Pain
+* Nausea
+- Tumors
+!! "The effect is strongest for symptoms that depend heavily on perception, such as pain and nausea, and weakest for conditions such as tumors or infections."
+
+?? sel | Select the sentence that states the practical lesson the author draws.
+* 7
+!! Sentence 7: "The practical lesson may be narrower but still valuable: the context in which treatment is delivered … can itself influence how patients feel."
+
+### railroad-time | short | History
+Before the 1880s, American towns kept their own local time, set by the position of the sun, so that noon in one city might be several minutes different from noon in a city fifty miles east. For most people this caused little difficulty. For railroads, which published schedules covering hundreds of towns, it was chaos. In 1883 the railroads themselves adopted a system of standard time zones, and most towns soon followed—not because a law required it, but because life increasingly ran on the railroads' clocks.
+
+?? mc | The author suggests that towns adopted standard time mainly because
+- the federal government required it
+* railroad schedules had come to govern daily life
+- local sun time was impossible to measure
+- towns wanted to be different from their neighbors
+- the railroads paid towns to change
+!! Towns followed "not because a law required it, but because life increasingly ran on the railroads' clocks."
+
+?? mc | According to the passage, local time differences were a serious problem for
+- most townspeople
+* the railroads
+- farmers
+- astronomers
+- the federal government
+!! "For most people this caused little difficulty. For railroads … it was chaos."
+
+### argument-19 | argument | Critical reasoning
+A software company found that teams using its new project-management tool finished projects 25 percent faster than teams that did not. The company advertises that its tool makes teams 25 percent more productive.
+
+?? mc | Which of the following, if true, most seriously weakens the company's claim?
+- The tool is more expensive than competing products.
+* The teams that chose to use the tool were working on smaller, simpler projects than the teams that did not.
+- Some teams using the tool finished late.
+- The tool was released last year.
+- Many teams find the tool easy to learn.
+!! If the tool's users had easier projects, their speed reflects the projects, not the tool — an alternative explanation for the 25 percent difference.
+
+### argument-20 | argument | Critical reasoning
+Over the past five years, the number of reported bicycle thefts in Riverton has fallen by half. The police chief attributes the decline to a new program of bicycle registration.
+
+?? mc | Which of the following, if true, would most strengthen the police chief's explanation?
+- Bicycle sales in Riverton increased over the same period.
+- Car thefts in Riverton also fell by half.
+* In neighboring towns without registration programs, bicycle thefts did not decline.
+- Many residents did not register their bicycles.
+- The registration program was expensive to run.
+!! If comparable towns without the program saw no decline, the program is a more plausible cause. B suggests a general crime decline (weakens); D weakens.
+
+### sleep-memory | long | Psychology
+For decades, researchers assumed that sleep helped memory simply by protecting it: a sleeping person encounters no new information that might interfere with what was learned during the day. More recent experiments point to a more active role. During certain stages of sleep, patterns of brain activity recorded while a person learned a task are replayed, as if the brain were rehearsing. When researchers disrupted this replay, performance on the task the next day suffered, even though the sleepers were not awakened.
+
+The active view does not entirely replace the protective one. Some of sleep's benefit may indeed come from the absence of interference, and the relative importance of the two mechanisms appears to vary with the kind of memory involved. Still, the discovery of replay has changed the question researchers ask: rather than whether sleep merely shelters memories, they now ask what sleep does to them.
+
+?? mc | The author describes the older view of sleep and memory as holding that sleep
+* helps memory mainly by preventing new information from interfering
+- causes the brain to replay learned tasks
+- has no effect on memory
+- weakens memories formed during the day
+- is necessary for all learning
+!! Researchers "assumed that sleep helped memory simply by protecting it: a sleeping person encounters no new information that might interfere."
+
+?? mc | The experiment in which replay was disrupted is important because it
+- showed that sleepers must be awakened to learn
+* suggests that replay itself contributes to memory
+- proved that the protective view is completely wrong
+- showed that sleep has no stages
+- measured how long people sleep
+!! Disrupting replay (without waking people) hurt next-day performance, pointing to an active role. The author says the protective view is not "entirely" replaced, eliminating C.
+
+?? mc | The author's position on the two views of sleep described in the passage is that
+- only the protective view is correct
+- only the active view is correct
+* both mechanisms may contribute, in proportions that vary with the kind of memory
+- neither view is supported by evidence
+- the question cannot be studied scientifically
+!! "The active view does not entirely replace the protective one … the relative importance of the two mechanisms appears to vary with the kind of memory involved."
+
+?? sel | Select the sentence that describes how the discovery of replay changed the direction of research.
+* 7
+!! Sentence 7: "…rather than whether sleep merely shelters memories, they now ask what sleep does to them."
+
+### cartography | short | Geography
+Every flat map of the globe distorts something. The familiar Mercator projection preserves the shapes of small areas and makes compass bearings appear as straight lines, which made it invaluable to navigators, but it greatly enlarges regions far from the equator, so that Greenland appears about as large as Africa, which is in fact some fourteen times larger. Equal-area projections correct this at the cost of distorting shapes. The choice of projection is therefore not a matter of accuracy in general but of which kind of accuracy a map's users need.
+
+?? mc | The author's main point is that
+- the Mercator projection is useless
+- equal-area projections are always better
+* every map projection trades one kind of accuracy for another, so the right choice depends on the map's purpose
+- Greenland is larger than Africa
+- navigators no longer use maps
+!! "The choice of projection is therefore not a matter of accuracy in general but of which kind of accuracy a map's users need."
+
+?? mc | The author mentions Greenland and Africa in order to
+- show that the Mercator projection preserves area
+* illustrate how the Mercator projection enlarges regions far from the equator
+- argue that Greenland should be shown larger
+- explain why navigators preferred equal-area maps
+- compare the populations of two regions
+!! It illustrates the enlargement of regions far from the equator: Greenland looks as large as Africa though Africa is fourteen times larger.
+
+### argument-21 | argument | Critical reasoning
+Store manager: Our sales rose 15 percent in the month after we started playing slower music in the store. Slow music clearly encourages customers to spend more.
+
+?? mc | Which of the following is an assumption on which the manager's argument depends?
+- Customers prefer fast music to slow music.
+* No other change during that month, such as a holiday or a sale, accounts for the increase in sales.
+- Other stores play slow music.
+- Sales rose by more than 15 percent in some departments.
+- The store's prices are lower than competitors' prices.
+!! The argument infers cause from timing; it must assume nothing else explains the rise. If a holiday occurred that month, the conclusion falls apart.
+
+### argument-22 | argument | Critical reasoning
+Columnist: Test scores at Lincoln High rose sharply after the school extended its day by one hour. Every school should therefore extend its day by one hour.
+
+?? ma | Which of the following point to weaknesses in the columnist's reasoning? (Select all that apply.)
+* The result at one school may not generalize to schools with different students and resources.
+* Something else that changed at Lincoln High at the same time could explain the rise in scores.
+- Lincoln High is a public school.
+!! The first identifies an overgeneralization from one case; the second an alternative explanation. The third is irrelevant.
+
+### insect-decline | long | Ecology
+Reports of dramatic declines in insect populations have attracted wide attention, but assessing them is harder than it seems. Long-term data exist for relatively few places and species, and many of the most alarming figures come from single sites. Insect numbers also fluctuate enormously from year to year with weather, so a decline measured between two particular years may reflect ordinary variation rather than a lasting trend.
+
+None of this means the declines are illusory. Where careful, long-running surveys exist, many show real and substantial losses, especially of species that depend on specific habitats. But the patchiness of the evidence means that global figures should be treated with caution, and it points to an obvious need: more systematic monitoring, sustained over decades, in places that have so far gone unstudied.
+
+?? mc | The passage is primarily concerned with
+- proving that insect populations are stable
+* evaluating the evidence for insect decline and noting what is still needed
+- explaining why insects are important to ecosystems
+- criticizing scientists who study insects
+- describing how weather affects insects
+!! Paragraph 1 notes limits of the evidence; paragraph 2 says declines are real in well-studied places and calls for more monitoring.
+
+?? mc | The author mentions that insect numbers "fluctuate enormously from year to year" in order to
+- show that insects are not declining
+* explain why a comparison of two particular years can be misleading
+- argue that weather causes insect decline
+- suggest that monitoring is unnecessary
+- explain why some species depend on specific habitats
+!! A decline between two years "may reflect ordinary variation rather than a lasting trend."
+
+?? ma | The author would most likely agree with which of the following? (Select all that apply.)
+* Some insect declines are real and substantial.
+* More long-term monitoring is needed.
+- Global figures on insect decline can be accepted without question.
+!! "Many show real and substantial losses" and "an obvious need: more systematic monitoring." The author says global figures "should be treated with caution."
+
+### typewriter | short | Technology
+The QWERTY keyboard layout is often cited as an example of an inefficient technology that survives only because everyone is used to it. According to a popular story, the layout was designed to slow typists down so that early typewriters would not jam. Historians who have examined the evidence dispute both halves of this story: the layout emerged from years of adjustments for many reasons, and controlled tests have not shown that rival layouts are dramatically faster.
+
+?? mc | The author's main purpose is to
+- recommend a new keyboard layout
+* cast doubt on a popular account of the QWERTY layout
+- explain how typewriters work
+- prove that QWERTY is the fastest possible layout
+- describe the history of typing schools
+!! Historians "dispute both halves of this story" — that it was designed to slow typists and that rival layouts are much faster.
+
+?? mc | The "both halves" of the story that historians dispute are
+* that the layout was designed to slow typists and that it is markedly inefficient compared with alternatives
+- that typewriters jammed and that typists were slow
+- that QWERTY was invented in America and in Europe
+- that the layout is popular and that it is old
+- that controlled tests exist and that they were fair
+!! The popular story claims the layout was deliberately slowing and survives despite being inefficient; the historians' findings address its origin and the lack of dramatically faster rivals.
+
+### argument-23 | argument | Critical reasoning
+Although per-capita meat consumption in Country Z has declined over the past decade, total meat production by Country Z's farms has increased.
+
+?? mc | Which of the following, if true, best explains how both statements can be true?
+- Meat prices in Country Z have risen.
+* Country Z's farms export a growing share of their meat to other countries.
+- Many residents of Country Z have become vegetarian.
+- Country Z's population has declined.
+- Farms in Country Z raise several kinds of animals.
+!! If exports grew, farms can produce more even as each resident eats less. C only restates the decline; E makes the puzzle harder.
+
+### volunteer | long | Sociology
+Surveys consistently find that people who volunteer report greater life satisfaction than those who do not. It is tempting to conclude that volunteering makes people happier, and some organizations promote it on exactly those grounds. The causal arrow, however, could point the other way: people who are already healthy, secure, and content may simply have more time and energy to give.
+
+Studies that follow the same individuals over many years offer a way to separate these possibilities, because they can compare each person's satisfaction before and after they begin volunteering. Such studies generally find a modest increase after people start volunteering, smaller than the gap seen in one-time surveys. This pattern suggests that both explanations contribute: volunteering may raise well-being somewhat, but much of the difference between volunteers and non-volunteers reflects who chooses to volunteer in the first place.
+
+?? mc | The author introduces the idea that "the causal arrow … could point the other way" in order to
+- prove that volunteering makes people unhappy
+* raise an alternative explanation for the correlation reported in surveys
+- criticize organizations that rely on volunteers
+- argue that healthy people should volunteer more
+- explain why surveys are always inaccurate
+!! It offers reverse causation: content people may be the ones who volunteer, which would also produce the correlation.
+
+?? mc | According to the passage, long-term studies of the same individuals are useful because they
+- include more people than one-time surveys
+* allow researchers to compare a person's satisfaction before and after starting to volunteer
+- prove that volunteering has no effect
+- are cheaper to conduct
+- measure physical health directly
+!! Stated directly: they "can compare each person's satisfaction before and after they begin volunteering."
+
+?? mc | Which of the following best summarizes the author's conclusion?
+- Volunteering has no effect on well-being.
+- Volunteering is the main cause of the difference between volunteers and non-volunteers.
+* Volunteering may modestly improve well-being, but much of the observed difference reflects who chooses to volunteer.
+- People who volunteer are less healthy than others.
+- Surveys about life satisfaction cannot be trusted.
+!! "Both explanations contribute: volunteering may raise well-being somewhat, but much of the difference … reflects who chooses to volunteer."
+
+?? sel | Select the sentence that reports the key finding of the long-term studies.
+* 5
+!! Sentence 5: "Such studies generally find a modest increase after people start volunteering, smaller than the gap seen in one-time surveys."
+
+### argument-24 | argument | Critical reasoning
+Since the museum began offering free admission on Sundays, Sunday attendance has tripled. The museum's director concludes that free admission every day would triple attendance on every day of the week.
+
+?? mc | The director's reasoning is most vulnerable to which criticism?
+- It relies on attendance figures rather than revenue.
+* It assumes that visitors drawn by free Sundays would behave the same way on weekdays, when many people work.
+- It ignores the cost of running the museum.
+- It fails to mention which exhibits are most popular.
+- It assumes the museum has too many visitors.
+!! Weekday conditions differ (work and school), so the Sunday effect may not transfer; the director overgeneralizes from one kind of day.
